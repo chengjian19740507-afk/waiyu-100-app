@@ -958,5 +958,125 @@
     "text": "Уберите мой номер, пожалуйста",
     "romanization": "Uberite moy nomer, pozhaluysta",
     "translation": "请打扫我的房间"
+  },
+  {
+    "id": 121,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Я в командировке",
+    "romanization": "Ya v komandirovke",
+    "translation": "我来出差"
+  },
+  {
+    "id": 122,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "У меня деловая виза",
+    "romanization": "U menya delovaya viza",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 123,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Я приехал работать",
+    "romanization": "Ya priyekhal rabotat'",
+    "translation": "我来工作"
+  },
+  {
+    "id": 124,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Я здесь учусь",
+    "romanization": "Ya zdes' uchus'",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 125,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "У меня студенческая виза",
+    "romanization": "U menya studencheskaya viza",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 126,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Моя цель - учёба",
+    "romanization": "Moya tsel' - uchyoba",
+    "translation": "我的目的是学习"
+  },
+  {
+    "id": 127,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Можно дополнительное полотенце?",
+    "romanization": "Mozhno dopolnitel'noye polotentse?",
+    "translation": "请给我一条额外毛巾"
+  },
+  {
+    "id": 128,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Можно больше подушек?",
+    "romanization": "Mozhno bol'she podushek?",
+    "translation": "请给我更多枕头"
+  },
+  {
+    "id": 129,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Кондиционер не работает",
+    "romanization": "Konditsioner ne rabotayet",
+    "translation": "空调不工作"
+  },
+  {
+    "id": 130,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Горячая вода не работает",
+    "romanization": "Goryachaya voda ne rabotayet",
+    "translation": "热水不工作"
+  },
+  {
+    "id": 131,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Wi-Fi не работает",
+    "romanization": "Wi-Fi ne rabotayet",
+    "translation": "无线网不工作"
+  },
+  {
+    "id": 132,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Счёт, пожалуйста",
+    "romanization": "Schyot, pozhaluysta",
+    "translation": "请给我账单"
+  },
+  {
+    "id": 133,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Я выезжаю завтра",
+    "romanization": "Ya vyezzhayu zavtra",
+    "translation": "我明天退房"
+  },
+  {
+    "id": 134,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Можно оставить багаж?",
+    "romanization": "Mozhno ostavit' bagazh?",
+    "translation": "可以寄存行李吗？"
+  },
+  {
+    "id": 135,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Вызовите мне такси, пожалуйста",
+    "romanization": "Vyzovite mne taksi, pozhaluysta",
+    "translation": "请帮我叫出租车"
   }
 ]

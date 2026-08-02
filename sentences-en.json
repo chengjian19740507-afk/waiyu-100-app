@@ -958,5 +958,125 @@
     "text": "Could you clean my room?",
     "romanization": "Could you clean my room?",
     "translation": "请打扫房间"
+  },
+  {
+    "id": 121,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "I am on a business trip",
+    "romanization": "I am on a business trip",
+    "translation": "我是来商务出差的"
+  },
+  {
+    "id": 122,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "I have a business visa",
+    "romanization": "I have a business visa",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 123,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "I am here for work",
+    "romanization": "I am here for work",
+    "translation": "我来工作"
+  },
+  {
+    "id": 124,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "I am studying here",
+    "romanization": "I am studying here",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 125,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "I have a student visa",
+    "romanization": "I have a student visa",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 126,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "My purpose is to study",
+    "romanization": "My purpose is to study",
+    "translation": "我的目的是学习"
+  },
+  {
+    "id": 127,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Could I have an extra towel?",
+    "romanization": "Could I have an extra towel?",
+    "translation": "请给我一条额外毛巾"
+  },
+  {
+    "id": 128,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Could I have more pillows?",
+    "romanization": "Could I have more pillows?",
+    "translation": "请给我更多枕头"
+  },
+  {
+    "id": 129,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "The air conditioning does not work",
+    "romanization": "The air conditioning does not work",
+    "translation": "空调不工作"
+  },
+  {
+    "id": 130,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "The hot water does not work",
+    "romanization": "The hot water does not work",
+    "translation": "热水不工作"
+  },
+  {
+    "id": 131,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "The WiFi does not work",
+    "romanization": "The WiFi does not work",
+    "translation": "无线网不工作"
+  },
+  {
+    "id": 132,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Could I have the bill, please?",
+    "romanization": "Could I have the bill, please?",
+    "translation": "请给我账单"
+  },
+  {
+    "id": 133,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "I am checking out tomorrow",
+    "romanization": "I am checking out tomorrow",
+    "translation": "我明天退房"
+  },
+  {
+    "id": 134,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Could I leave my luggage?",
+    "romanization": "Could I leave my luggage?",
+    "translation": "可以寄存行李吗？"
+  },
+  {
+    "id": 135,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Could you call a taxi for me?",
+    "romanization": "Could you call a taxi for me?",
+    "translation": "请帮我叫出租车"
   }
 ]
