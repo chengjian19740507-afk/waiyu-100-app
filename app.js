@@ -12,6 +12,44 @@
 
   const RTL_LANGS = new Set(['ar']);
 
+  // ============ TTS 声音管理 ============
+  let _voicesCache = null;
+  function ensureVoices() {
+    if (_voicesCache) return Promise.resolve(_voicesCache);
+    if (!('speechSynthesis' in window)) return Promise.resolve([]);
+    return new Promise((resolve) => {
+      const v = speechSynthesis.getVoices();
+      if (v && v.length) { _voicesCache = v; resolve(v); return; }
+      const handler = () => {
+        _voicesCache = speechSynthesis.getVoices();
+        resolve(_voicesCache);
+      };
+      speechSynthesis.addEventListener('voiceschanged', handler);
+      setTimeout(() => {
+        _voicesCache = speechSynthesis.getVoices();
+        resolve(_voicesCache);
+      }, 1000);
+    });
+  }
+
+  function pickBestVoice(voices, langCode) {
+    if (!voices || !voices.length) return null;
+    const lang = langCode.toLowerCase().split('-')[0];
+    // 1. 完全匹配
+    let v = voices.find(x => x.lang === langCode);
+    if (v) return v;
+    // 2. 高质量声音（premium/neural/enhanced/natural/microsoft/google）
+    const qualityRe = /(premium|neural|enhanced|natural|microsoft|google|samantha|tingting|meijia)/i;
+    const qualified = voices.filter(x => x.lang.toLowerCase().startsWith(lang) && qualityRe.test(x.name));
+    if (qualified.length) return qualified[0];
+    // 3. 任何同语族声音
+    const family = voices.filter(x => x.lang.toLowerCase().startsWith(lang));
+    if (family.length) return family[0];
+    return null;
+  }
+
+  ensureVoices(); // 预加载
+
   const LANGS = {
     en: { label: '英语海外旅游150句', sub: '文字+语音 · 英语母语发音 · 海外旅游日常 150 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
     es: { label: '西语海外旅游150句', sub: '文字+语音 · 西语母语发音 · 海外旅游日常 150 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
@@ -145,7 +183,7 @@
     }
   }
 
-  function play(s, node, cfg) {
+  async function play(s, node, cfg) {
     stopCurrent();
 
     const playBtn = node.querySelector('.play');
@@ -158,12 +196,35 @@
       stopCurrent();
       return;
     }
+
+    const voices = await ensureVoices();
+    const voice = pickBestVoice(voices, cfg.lang);
+
     const utter = new SpeechSynthesisUtterance(s.text);
     utter.lang = cfg.lang;
+    if (voice) {
+      utter.voice = voice;
+      utter.lang = voice.lang; // 使用 voice 自身的 lang，确保发音一致
+    }
     utter.rate = 0.9;
+    utter.pitch = 1.0;
+    utter.volume = 1.0;
+
     currentUtter = utter;
     utter.onend = stopCurrent;
-    utter.onerror = stopCurrent;
+    utter.onerror = (e) => {
+      if (e.error !== 'canceled' && e.error !== 'interrupted') {
+        console.warn(`TTS ${cfg.lang}: ${e.error}`);
+      }
+      stopCurrent();
+    };
+
+    if (!voice) {
+      console.warn(`TTS ${cfg.lang}: 未找到匹配 voice，使用浏览器默认`);
+    } else if (window._debugTTS) {
+      console.log(`TTS ${cfg.lang} → ${voice.name} (${voice.lang})`);
+    }
+
     window.speechSynthesis.speak(utter);
   }
 
