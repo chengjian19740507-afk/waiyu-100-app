@@ -798,5 +798,165 @@
     "text": "Я попробую",
     "romanization": "Ya poprobuyu",
     "translation": "我试试"
+  },
+  {
+    "id": 101,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Вот мой паспорт",
+    "romanization": "Vot moy pasport",
+    "translation": "这是我的护照"
+  },
+  {
+    "id": 102,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Я турист",
+    "romanization": "Ya turist",
+    "translation": "我是来旅游的"
+  },
+  {
+    "id": 103,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Я в деловой поездке",
+    "romanization": "Ya v delovoy poyezdke",
+    "translation": "我来出差"
+  },
+  {
+    "id": 104,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Я остановлюсь в этом отеле",
+    "romanization": "Ya ostanovlyus' v etom otele",
+    "translation": "我住这家酒店"
+  },
+  {
+    "id": 105,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Я останусь на неделю",
+    "romanization": "Ya ostanyus' na nedelyu",
+    "translation": "我住一周"
+  },
+  {
+    "id": 106,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Мне нечего декларировать",
+    "romanization": "Mne nechego deklarirovat'",
+    "translation": "我没有东西要申报"
+  },
+  {
+    "id": 107,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Мне есть что декларировать",
+    "romanization": "Mne yest' chto deklarirovat'",
+    "translation": "我有东西要申报"
+  },
+  {
+    "id": 108,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Как долго вы останетесь?",
+    "romanization": "Kak dolgo vy ostanetes'?",
+    "translation": "您待多久？"
+  },
+  {
+    "id": 109,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Откройте сумку, пожалуйста",
+    "romanization": "Otkroyte sumku, pozhaluysta",
+    "translation": "请打开包"
+  },
+  {
+    "id": 110,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Где мой багаж?",
+    "romanization": "Gde moy bagazh?",
+    "translation": "我的行李在哪？"
+  },
+  {
+    "id": 111,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "У меня бронь",
+    "romanization": "U menya bron'",
+    "translation": "我有预订"
+  },
+  {
+    "id": 112,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Я бы хотел номер",
+    "romanization": "Ya by khotel nomer",
+    "translation": "我想要一个房间"
+  },
+  {
+    "id": 113,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Сколько за ночь?",
+    "romanization": "Skol'ko za noch'?",
+    "translation": "一晚多少钱？"
+  },
+  {
+    "id": 114,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "У вас есть номер?",
+    "romanization": "U vas yest' nomer?",
+    "translation": "有空房吗？"
+  },
+  {
+    "id": 115,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Одноместный номер, пожалуйста",
+    "romanization": "Odnomestnyy nomer, pozhaluysta",
+    "translation": "请给我单人间"
+  },
+  {
+    "id": 116,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Двухместный номер, пожалуйста",
+    "romanization": "Dvukhmestnyy nomer, pozhaluysta",
+    "translation": "请给我双人间"
+  },
+  {
+    "id": 117,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Сколько ночей?",
+    "romanization": "Skol'ko nochey?",
+    "translation": "几晚？"
+  },
+  {
+    "id": 118,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Завтрак включён?",
+    "romanization": "Zavtrak vklyuchon?",
+    "translation": "含早餐吗？"
+  },
+  {
+    "id": 119,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Какой пароль от Wi-Fi?",
+    "romanization": "Kakoy parol' ot Wi-Fi?",
+    "translation": "WiFi 密码？"
+  },
+  {
+    "id": 120,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Уберите мой номер, пожалуйста",
+    "romanization": "Uberite moy nomer, pozhaluysta",
+    "translation": "请打扫我的房间"
   }
 ]

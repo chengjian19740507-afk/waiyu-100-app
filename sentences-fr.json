@@ -798,5 +798,165 @@
     "text": "Je vais essayer",
     "romanization": "Je vais essayer",
     "translation": "我试试"
+  },
+  {
+    "id": 101,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Voici mon passeport",
+    "romanization": "Voici mon passeport",
+    "translation": "这是我的护照"
+  },
+  {
+    "id": 102,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Je viens pour le tourisme",
+    "romanization": "Je viens pour le tourisme",
+    "translation": "我来旅游"
+  },
+  {
+    "id": 103,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Je viens pour affaires",
+    "romanization": "Je viens pour affaires",
+    "translation": "我来出差"
+  },
+  {
+    "id": 104,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Je loge dans cet hôtel",
+    "romanization": "Je loge dans cet hôtel",
+    "translation": "我住这家酒店"
+  },
+  {
+    "id": 105,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Je reste une semaine",
+    "romanization": "Je reste une semaine",
+    "translation": "我住一周"
+  },
+  {
+    "id": 106,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Je n'ai rien à déclarer",
+    "romanization": "Je n'ai rien à déclarer",
+    "translation": "我没有东西要申报"
+  },
+  {
+    "id": 107,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "J'ai quelque chose à déclarer",
+    "romanization": "J'ai quelque chose à déclarer",
+    "translation": "我有东西要申报"
+  },
+  {
+    "id": 108,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Combien de temps resterez-vous ?",
+    "romanization": "Combien de temps resterez-vous ?",
+    "translation": "您待多久？"
+  },
+  {
+    "id": 109,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Veuillez ouvrir votre sac",
+    "romanization": "Veuillez ouvrir votre sac",
+    "translation": "请打开包"
+  },
+  {
+    "id": 110,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Où sont mes bagages ?",
+    "romanization": "Où sont mes bagages ?",
+    "translation": "我的行李在哪？"
+  },
+  {
+    "id": 111,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "J'ai une réservation",
+    "romanization": "J'ai une réservation",
+    "translation": "我有预订"
+  },
+  {
+    "id": 112,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Je voudrais une chambre",
+    "romanization": "Je voudrais une chambre",
+    "translation": "我想要一个房间"
+  },
+  {
+    "id": 113,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Combien par nuit ?",
+    "romanization": "Combien par nuit ?",
+    "translation": "一晚多少钱？"
+  },
+  {
+    "id": 114,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Avez-vous une chambre ?",
+    "romanization": "Avez-vous une chambre ?",
+    "translation": "有空房吗？"
+  },
+  {
+    "id": 115,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Chambre simple, s'il vous plaît",
+    "romanization": "Chambre simple, s'il vous plaît",
+    "translation": "请给我单人间"
+  },
+  {
+    "id": 116,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Chambre double, s'il vous plaît",
+    "romanization": "Chambre double, s'il vous plaît",
+    "translation": "请给我双人间"
+  },
+  {
+    "id": 117,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Combien de nuits ?",
+    "romanization": "Combien de nuits ?",
+    "translation": "几晚？"
+  },
+  {
+    "id": 118,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Petit-déjeuner inclus ?",
+    "romanization": "Petit-déjeuner inclus ?",
+    "translation": "含早餐吗？"
+  },
+  {
+    "id": 119,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Quel est le mot de passe Wi-Fi ?",
+    "romanization": "Quel est le mot de passe Wi-Fi ?",
+    "translation": "WiFi 密码？"
+  },
+  {
+    "id": 120,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Pouvez-vous nettoyer ma chambre ?",
+    "romanization": "Pouvez-vous nettoyer ma chambre ?",
+    "translation": "请打扫房间"
   }
 ]

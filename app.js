@@ -27,6 +27,8 @@
     { key: 'numbers', zh: '数字' },
     { key: 'family', zh: '家庭' },
     { key: 'common', zh: '常用' },
+    { key: 'airport', zh: '机场海关' },
+    { key: 'hotel', zh: '宾馆入住' },
   ];
 
   let currentLang = localStorage.getItem('waiyu-lang') || 'en';
@@ -77,7 +79,7 @@
     const list = currentCat === 'all' ? allData : allData.filter(s => s.category === currentCat);
     cardsEl.innerHTML = '';
     list.forEach(s => cardsEl.appendChild(makeCard(s, cfg)));
-    statsEl.textContent = `共 ${allData.length} 句 · 当前 ${list.length}`;
+    statsEl.textContent = `共 ${allData.length} 句 · ${cfg.label.split('日')[0]}当前 ${list.length}`;
   }
 
   function makeCard(s, cfg) {

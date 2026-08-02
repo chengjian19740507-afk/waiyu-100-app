@@ -798,5 +798,165 @@
     "text": "Voy a intentar",
     "romanization": "Voy a intentar",
     "translation": "我试试"
+  },
+  {
+    "id": 101,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Aquí está mi pasaporte",
+    "romanization": "Aquí está mi pasaporte",
+    "translation": "这是我的护照"
+  },
+  {
+    "id": 102,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Vengo por turismo",
+    "romanization": "Vengo por turismo",
+    "translation": "我来旅游"
+  },
+  {
+    "id": 103,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Vengo por negocios",
+    "romanization": "Vengo por negocios",
+    "translation": "我来出差"
+  },
+  {
+    "id": 104,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Me hospedo en este hotel",
+    "romanization": "Me hospedo en este hotel",
+    "translation": "我住这家酒店"
+  },
+  {
+    "id": 105,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Me quedo una semana",
+    "romanization": "Me quedo una semana",
+    "translation": "我住一周"
+  },
+  {
+    "id": 106,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "No tengo nada que declarar",
+    "romanization": "No tengo nada que declarar",
+    "translation": "我没有东西要申报"
+  },
+  {
+    "id": 107,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Tengo algo que declarar",
+    "romanization": "Tengo algo que declarar",
+    "translation": "我有东西要申报"
+  },
+  {
+    "id": 108,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "¿Cuánto tiempo se queda?",
+    "romanization": "¿Cuánto tiempo se queda?",
+    "translation": "您待多久？"
+  },
+  {
+    "id": 109,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "Por favor, abra su bolso",
+    "romanization": "Por favor, abra su bolso",
+    "translation": "请打开包"
+  },
+  {
+    "id": 110,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "¿Dónde está mi equipaje?",
+    "romanization": "¿Dónde está mi equipaje?",
+    "translation": "我的行李在哪？"
+  },
+  {
+    "id": 111,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Tengo una reserva",
+    "romanization": "Tengo una reserva",
+    "translation": "我预订了房间"
+  },
+  {
+    "id": 112,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Quisiera una habitación",
+    "romanization": "Quisiera una habitación",
+    "translation": "我想要一间房"
+  },
+  {
+    "id": 113,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "¿Cuánto por noche?",
+    "romanization": "¿Cuánto por noche?",
+    "translation": "一晚多少钱？"
+  },
+  {
+    "id": 114,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "¿Tienen habitación?",
+    "romanization": "¿Tienen habitación?",
+    "translation": "有空房吗？"
+  },
+  {
+    "id": 115,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Habitación individual, por favor",
+    "romanization": "Habitación individual, por favor",
+    "translation": "请给我单人间"
+  },
+  {
+    "id": 116,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Habitación doble, por favor",
+    "romanization": "Habitación doble, por favor",
+    "translation": "请给我双人间"
+  },
+  {
+    "id": 117,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "¿Cuántas noches?",
+    "romanization": "¿Cuántas noches?",
+    "translation": "几晚？"
+  },
+  {
+    "id": 118,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "¿Desayuno incluido?",
+    "romanization": "¿Desayuno incluido?",
+    "translation": "含早餐吗？"
+  },
+  {
+    "id": 119,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "¿Cuál es la contraseña del WiFi?",
+    "romanization": "¿Cuál es la contraseña del WiFi?",
+    "translation": "WiFi 密码？"
+  },
+  {
+    "id": 120,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "¿Pueden limpiar mi habitación?",
+    "romanization": "¿Pueden limpiar mi habitación?",
+    "translation": "请打扫房间"
   }
 ]
