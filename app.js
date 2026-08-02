@@ -1,4 +1,4 @@
-// 外语日常生活150句 · 4 语种
+// 海外旅游日常用语150句 · 6 语种
 (async () => {
   const langsEl = document.getElementById('langs');
   const catsEl = document.getElementById('cats');
@@ -9,10 +9,12 @@
   const tpl = document.getElementById('card-tpl');
 
   const LANGS = {
-    en: { label: '英语日常生活150句', sub: '文字+语音 · 英语母语发音 · 初学者日常 150 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
-    es: { label: '西语日常生活150句', sub: '文字+语音 · 西语母语发音 · 初学者日常 150 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
-    fr: { label: '法语日常生活150句', sub: '文字+语音 · 法语母语发音 · 初学者日常 150 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
-    ru: { label: '俄语日常生活150句', sub: '文字+语音 · 俄语母语发音 · 初学者日常 150 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    en: { label: '英语海外旅游150句', sub: '文字+语音 · 英语母语发音 · 海外旅游日常 150 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
+    es: { label: '西语海外旅游150句', sub: '文字+语音 · 西语母语发音 · 海外旅游日常 150 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
+    fr: { label: '法语海外旅游150句', sub: '文字+语音 · 法语母语发音 · 海外旅游日常 150 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
+    ru: { label: '俄语海外旅游150句', sub: '文字+语音 · 俄语母语发音 · 海外旅游日常 150 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    ja: { label: '日语海外旅游150句', sub: '文字+罗马字 · 日语假名发音 · 海外旅游日常 150 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
+    ko: { label: '韩语海外旅游150句', sub: '文字+罗马字 · 韩语母语发音 · 海外旅游日常 150 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
   };
 
   const catDefs = [
@@ -20,19 +22,20 @@
     { key: 'greetings', zh: '问候' },
     { key: 'intro', zh: '自我介绍' },
     { key: 'airport', zh: '机场海关' },
-    { key: 'hotel', zh: '宾馆入住' },
     { key: 'visa', zh: '签证类型' },
+    { key: 'hotel', zh: '宾馆入住' },
     { key: 'frontdesk', zh: '前台常用' },
     { key: 'food', zh: '饮食' },
     { key: 'transport', zh: '交通' },
     { key: 'shopping', zh: '购物' },
-    { key: 'time', zh: '时间' },
+    { key: 'time', zh: '时间日期' },
     { key: 'directions', zh: '问路' },
     { key: 'numbers', zh: '数字' },
     { key: 'family', zh: '家庭' },
-    { key: 'common', zh: '常用' },
+    { key: 'common', zh: '常用表达' },
     { key: 'restaurant', zh: '餐厅' },
     { key: 'medical', zh: '医疗' },
+    { key: 'travel', zh: '旅游实用' },
   ];
 
   const CAT_ORDER = {};
@@ -93,7 +96,7 @@
   function makeCard(s, cfg) {
     const node = tpl.content.firstElementChild.cloneNode(true);
     node.dataset.id = s.id;
-    node.querySelector('.num').textContent = String(s.id).padStart(2, '0');
+    node.querySelector('.num').textContent = String(s.id).padStart(3, '0');
     const textEl = node.querySelector('.text');
     textEl.textContent = s.text;
     textEl.setAttribute('dir', 'ltr');

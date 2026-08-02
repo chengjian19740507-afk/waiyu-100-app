@@ -1198,5 +1198,85 @@
     "text": "J'ai de la fièvre",
     "romanization": "J'ai de la fièvre",
     "translation": "我发烧"
+  },
+  {
+    "id": 151,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Où puis-je changer de l'argent ?",
+    "romanization": "Où puis-je changer de l'argent ?",
+    "translation": "在哪里可以换钱？"
+  },
+  {
+    "id": 152,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Quel est le taux de change ?",
+    "romanization": "Quel est le taux de change ?",
+    "translation": "汇率是多少？"
+  },
+  {
+    "id": 153,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Où est le distributeur ?",
+    "romanization": "Où est le distributeur ?",
+    "translation": "ATM 在哪里？"
+  },
+  {
+    "id": 154,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Puis-je utiliser ma carte de crédit ?",
+    "romanization": "Puis-je utiliser ma carte de crédit ?",
+    "translation": "可以用信用卡吗？"
+  },
+  {
+    "id": 155,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Où est l'office de tourisme ?",
+    "romanization": "Où est l'office de tourisme ?",
+    "translation": "旅游信息中心在哪？"
+  },
+  {
+    "id": 156,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Y a-t-il du Wi-Fi ici ?",
+    "romanization": "Y a-t-il du Wi-Fi ici ?",
+    "translation": "这里有 Wi-Fi 吗？"
+  },
+  {
+    "id": 157,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Quelle est la tension ici ?",
+    "romanization": "Quelle est la tension ici ?",
+    "translation": "这里的电压是多少？"
+  },
+  {
+    "id": 158,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "J'ai besoin d'une carte SIM",
+    "romanization": "J'ai besoin d'une carte SIM",
+    "translation": "我需要一张 SIM 卡"
+  },
+  {
+    "id": 159,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Comment passer un appel ?",
+    "romanization": "Comment passer un appel ?",
+    "translation": "怎么打电话？"
+  },
+  {
+    "id": 160,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Quel est le numéro d'urgence ?",
+    "romanization": "Quel est le numéro d'urgence ?",
+    "translation": "紧急电话是多少？"
   }
 ]

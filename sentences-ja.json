@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "おはようございます",
+    "romanization": "Ohayō gozaimasu",
+    "translation": "早上好"
+  },
+  {
+    "id": 2,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "こんにちは",
+    "romanization": "Konnichiwa",
+    "translation": "你好（白天）"
+  },
+  {
+    "id": 3,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "こんばんは",
+    "romanization": "Konbanwa",
+    "translation": "晚上好"
+  },
+  {
+    "id": 4,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "おやすみなさい",
+    "romanization": "Oyasumi nasai",
+    "translation": "晚安"
+  },
+  {
+    "id": 5,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "さようなら",
+    "romanization": "Sayōnara",
+    "translation": "再见"
+  },
+  {
+    "id": 6,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "ありがとうございます",
+    "romanization": "Arigatō gozaimasu",
+    "translation": "非常感谢"
+  },
+  {
+    "id": 7,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "すみません",
+    "romanization": "Sumimasen",
+    "translation": "不好意思/请问"
+  },
+  {
+    "id": 8,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "はじめまして",
+    "romanization": "Hajimemashite",
+    "translation": "初次见面"
+  },
+  {
+    "id": 9,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "よろしくお願いします",
+    "romanization": "Yoroshiku onegaishimasu",
+    "translation": "请多关照"
+  },
+  {
+    "id": 10,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "また会いましょう",
+    "romanization": "Mata aimashō",
+    "translation": "后会有期"
+  },
+  {
+    "id": 11,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "私は...です",
+    "romanization": "Watashi wa ... desu",
+    "translation": "我叫..."
+  },
+  {
+    "id": 12,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "私の名前は...です",
+    "romanization": "Watashi no namae wa ... desu",
+    "translation": "我的名字是..."
+  },
+  {
+    "id": 13,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "中国から来ました",
+    "romanization": "Chūgoku kara kimashita",
+    "translation": "我从中国来"
+  },
+  {
+    "id": 14,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "上海から来ました",
+    "romanization": "Shanhai kara kimashita",
+    "translation": "我从上海来"
+  },
+  {
+    "id": 15,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "25歳です",
+    "romanization": "Nijū-go sai desu",
+    "translation": "我 25 岁"
+  },
+  {
+    "id": 16,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "学生です",
+    "romanization": "Gakusei desu",
+    "translation": "我是学生"
+  },
+  {
+    "id": 17,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "会社員です",
+    "romanization": "Kaishain desu",
+    "translation": "我是上班族"
+  },
+  {
+    "id": 18,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "独身です",
+    "romanization": "Dokushin desu",
+    "translation": "我是单身"
+  },
+  {
+    "id": 19,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "結婚しています",
+    "romanization": "Kekkon shite imasu",
+    "translation": "我已婚"
+  },
+  {
+    "id": 20,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "北京に住んでいます",
+    "romanization": "Pekin ni sunde imasu",
+    "translation": "我住北京"
+  },
+  {
+    "id": 21,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "パスポートを見せてください",
+    "romanization": "Pasupōto o misete kudasai",
+    "translation": "请出示护照"
+  },
+  {
+    "id": 22,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "観光で来ました",
+    "romanization": "Kankō de kimashita",
+    "translation": "我来旅游"
+  },
+  {
+    "id": 23,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "出張で来ました",
+    "romanization": "Shutchō de kimashita",
+    "translation": "我来出差"
+  },
+  {
+    "id": 24,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "このホテルに泊まります",
+    "romanization": "Kono hoteru ni tomarimasu",
+    "translation": "我住这家酒店"
+  },
+  {
+    "id": 25,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "一週間滞在します",
+    "romanization": "Isshūkan taizai shimasu",
+    "translation": "我停留一周"
+  },
+  {
+    "id": 26,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "申告するものはありません",
+    "romanization": "Shinkoku suru mono wa arimasen",
+    "translation": "我没有东西要申报"
+  },
+  {
+    "id": 27,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "申告するものがあります",
+    "romanization": "Shinkoku suru mono ga arimasu",
+    "translation": "我有东西要申报"
+  },
+  {
+    "id": 28,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "どのくらい滞在しますか？",
+    "romanization": "Dono kurai taizai shimasu ka",
+    "translation": "您停留多久？"
+  },
+  {
+    "id": 29,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "かばんを開けてください",
+    "romanization": "Kaban o akete kudasai",
+    "translation": "请打开包"
+  },
+  {
+    "id": 30,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "荷物はどこですか？",
+    "romanization": "Nimotsu wa doko desu ka",
+    "translation": "我的行李在哪？"
+  },
+  {
+    "id": 31,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "出張です",
+    "romanization": "Shutchō desu",
+    "translation": "我来出差"
+  },
+  {
+    "id": 32,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ビジネスビザを持っています",
+    "romanization": "Bijinesu biza o motte imasu",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 33,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "働きに来ました",
+    "romanization": "Hataraiki ni kimashita",
+    "translation": "我来工作"
+  },
+  {
+    "id": 34,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ここで勉強しています",
+    "romanization": "Koko de benkyō shite imasu",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 35,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "学生ビザを持っています",
+    "romanization": "Gakusei biza o motte imasu",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 36,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "目的は勉強です",
+    "romanization": "Mokuteki wa benkyō desu",
+    "translation": "我的目的是学习"
+  },
+  {
+    "id": 37,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "予約があります",
+    "romanization": "Yoyaku ga arimasu",
+    "translation": "我有预订"
+  },
+  {
+    "id": 38,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "部屋をお願いします",
+    "romanization": "Heya o onegaishimasu",
+    "translation": "我想要一个房间"
+  },
+  {
+    "id": 39,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "一泊いくらですか",
+    "romanization": "Ippaku ikura desu ka",
+    "translation": "一晚多少钱？"
+  },
+  {
+    "id": 40,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "空いている部屋はありますか",
+    "romanization": "Aite iru heya wa arimasu ka",
+    "translation": "有空房吗？"
+  },
+  {
+    "id": 41,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "シングルルーム",
+    "romanization": "Shinguru rūmu",
+    "translation": "单人间"
+  },
+  {
+    "id": 42,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "ダブルルーム",
+    "romanization": "Daburu rūmu",
+    "translation": "双人间"
+  },
+  {
+    "id": 43,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "何泊ですか",
+    "romanization": "Nanpaku desu ka",
+    "translation": "几晚？"
+  },
+  {
+    "id": 44,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "朝食は含まれていますか",
+    "romanization": "Chōshoku wa fukumarete imasu ka",
+    "translation": "含早餐吗？"
+  },
+  {
+    "id": 45,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Wi-Fiのパスワードは？",
+    "romanization": "Wi-Fi no pasuwādo wa",
+    "translation": "WiFi 密码？"
+  },
+  {
+    "id": 46,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "部屋を掃除してください",
+    "romanization": "Heya o sōji shite kudasai",
+    "translation": "请打扫房间"
+  },
+  {
+    "id": 47,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "追加のタオルをもらえますか",
+    "romanization": "Tsuika no taoru o moraemasu ka",
+    "translation": "请给我额外毛巾"
+  },
+  {
+    "id": 48,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "枕を追加でもらえますか",
+    "romanization": "Makura o tsuika de moraemasu ka",
+    "translation": "请给我更多枕头"
+  },
+  {
+    "id": 49,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "エアコンが動きません",
+    "romanization": "Eakon ga ugokimasen",
+    "translation": "空调不工作"
+  },
+  {
+    "id": 50,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "お湯が出ません",
+    "romanization": "Oyu ga demasen",
+    "translation": "热水不工作"
+  },
+  {
+    "id": 51,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Wi-Fiが動きません",
+    "romanization": "Wi-Fi ga ugokimasen",
+    "translation": "WiFi 不工作"
+  },
+  {
+    "id": 52,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "請求書をお願いします",
+    "romanization": "Seikyūsho o onegaishimasu",
+    "translation": "请给我账单"
+  },
+  {
+    "id": 53,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "明日チェックアウトします",
+    "romanization": "Ashita chekkuauto shimasu",
+    "translation": "我明天退房"
+  },
+  {
+    "id": 54,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "荷物を預かってもらえますか",
+    "romanization": "Nimotsu o azukatte moraemasu ka",
+    "translation": "可以寄存行李吗？"
+  },
+  {
+    "id": 55,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "タクシーを呼んでもらえますか",
+    "romanization": "Takushī o yonde moraemasu ka",
+    "translation": "请帮我叫出租车"
+  },
+  {
+    "id": 56,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "お腹が空きました",
+    "romanization": "Onaka ga sukimashita",
+    "translation": "我饿了"
+  },
+  {
+    "id": 57,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "お腹がいっぱいです",
+    "romanization": "Onaka ga ippai desu",
+    "translation": "我吃饱了"
+  },
+  {
+    "id": 58,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "喉が渇きました",
+    "romanization": "Nodo ga kawakimashita",
+    "translation": "我渴了"
+  },
+  {
+    "id": 59,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "水をください",
+    "romanization": "Mizu o kudasai",
+    "translation": "请给我水"
+  },
+  {
+    "id": 60,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "お茶をください",
+    "romanization": "Ocha o kudasai",
+    "translation": "请给我茶"
+  },
+  {
+    "id": 61,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "コーヒーをください",
+    "romanization": "Kōhī o kudasai",
+    "translation": "请给我咖啡"
+  },
+  {
+    "id": 62,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ビールをください",
+    "romanization": "Bīru o kudasai",
+    "translation": "请给我啤酒"
+  },
+  {
+    "id": 63,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "おいしいです",
+    "romanization": "Oishii desu",
+    "translation": "好吃"
+  },
+  {
+    "id": 64,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "辛いです",
+    "romanization": "Karai desu",
+    "translation": "辣"
+  },
+  {
+    "id": 65,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "甘いです",
+    "romanization": "Amai desu",
+    "translation": "甜"
+  },
+  {
+    "id": 66,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "駅はどこですか",
+    "romanization": "Eki wa doko desu ka",
+    "translation": "车站在哪里？"
+  },
+  {
+    "id": 67,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "バス停はどこですか",
+    "romanization": "Basu tei wa doko desu ka",
+    "translation": "公交车站在哪里？"
+  },
+  {
+    "id": 68,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "切符を一枚ください",
+    "romanization": "Kippu o ichimai kudasai",
+    "translation": "请给我一张票"
+  },
+  {
+    "id": 69,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "いくらですか",
+    "romanization": "Ikura desu ka",
+    "translation": "多少钱？"
+  },
+  {
+    "id": 70,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "次の電車は何時ですか",
+    "romanization": "Tsugi no densha wa nanji desu ka",
+    "translation": "下一班电车几点？"
+  },
+  {
+    "id": 71,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "降ります",
+    "romanization": "Orimasu",
+    "translation": "我下车"
+  },
+  {
+    "id": 72,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "止まってください",
+    "romanization": "Tomatte kudasai",
+    "translation": "请停车"
+  },
+  {
+    "id": 73,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "道を間違えました",
+    "romanization": "Michi o machigaemashita",
+    "translation": "我走错路了"
+  },
+  {
+    "id": 74,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "まっすぐ行ってください",
+    "romanization": "Massugu itte kudasai",
+    "translation": "请直走"
+  },
+  {
+    "id": 75,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "右に曲がってください",
+    "romanization": "Migi ni magatte kudasai",
+    "translation": "请右转"
+  },
+  {
+    "id": 76,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "いくらですか",
+    "romanization": "Ikura desu ka",
+    "translation": "多少钱？"
+  },
+  {
+    "id": 77,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "高いです",
+    "romanization": "Takai desu",
+    "translation": "贵"
+  },
+  {
+    "id": 78,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "安いです",
+    "romanization": "Yasui desu",
+    "translation": "便宜"
+  },
+  {
+    "id": 79,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "カードで払えますか",
+    "romanization": "Kādo de haraemasu ka",
+    "translation": "可以刷卡吗？"
+  },
+  {
+    "id": 80,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "現金で払います",
+    "romanization": "Genkin de haraimasu",
+    "translation": "我付现金"
+  },
+  {
+    "id": 81,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "もっと小さいサイズはありますか",
+    "romanization": "Motto chiisai saizu wa arimasu ka",
+    "translation": "有更小号吗？"
+  },
+  {
+    "id": 82,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "試着してもいいですか",
+    "romanization": "Shichaku shite mo ii desu ka",
+    "translation": "可以试穿吗？"
+  },
+  {
+    "id": 83,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "他の色はありますか",
+    "romanization": "Hoka no iro wa arimasu ka",
+    "translation": "有其他颜色吗？"
+  },
+  {
+    "id": 84,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "免税できますか",
+    "romanization": "Menzei dekimasu ka",
+    "translation": "可以免税吗？"
+  },
+  {
+    "id": 85,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "袋をください",
+    "romanization": "Fukuro o kudasai",
+    "translation": "请给我袋子"
+  },
+  {
+    "id": 86,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "今何時ですか",
+    "romanization": "Ima nanji desu ka",
+    "translation": "现在几点？"
+  },
+  {
+    "id": 87,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "今日は何日ですか",
+    "romanization": "Kyō wa nannichi desu ka",
+    "translation": "今天几号？"
+  },
+  {
+    "id": 88,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "何曜日ですか",
+    "romanization": "Nan'yōbi desu ka",
+    "translation": "星期几？"
+  },
+  {
+    "id": 89,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "一週間",
+    "romanization": "Isshūkan",
+    "translation": "一周"
+  },
+  {
+    "id": 90,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "一ヶ月",
+    "romanization": "Ikkagetsu",
+    "translation": "一个月"
+  },
+  {
+    "id": 91,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "一年",
+    "romanization": "Ichinen",
+    "translation": "一年"
+  },
+  {
+    "id": 92,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "明日",
+    "romanization": "Ashita",
+    "translation": "明天"
+  },
+  {
+    "id": 93,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "昨日",
+    "romanization": "Kinō",
+    "translation": "昨天"
+  },
+  {
+    "id": 94,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "朝",
+    "romanization": "Asa",
+    "translation": "早上"
+  },
+  {
+    "id": 95,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "夜",
+    "romanization": "Yoru",
+    "translation": "晚上"
+  },
+  {
+    "id": 96,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "駅はどこですか",
+    "romanization": "Eki wa doko desu ka",
+    "translation": "车站在哪里？"
+  },
+  {
+    "id": 97,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "病院はどこですか",
+    "romanization": "Byōin wa doko desu ka",
+    "translation": "医院在哪里？"
+  },
+  {
+    "id": 98,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "薬局はどこですか",
+    "romanization": "Yakkyoku wa doko desu ka",
+    "translation": "药店在哪里？"
+  },
+  {
+    "id": 99,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "銀行はどこですか",
+    "romanization": "Ginkō wa doko desu ka",
+    "translation": "银行在哪里？"
+  },
+  {
+    "id": 100,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "レストランはどこですか",
+    "romanization": "Resutoran wa doko desu ka",
+    "translation": "餐厅在哪里？"
+  },
+  {
+    "id": 101,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "トイレはどこですか",
+    "romanization": "Toire wa doko desu ka",
+    "translation": "洗手间在哪里？"
+  },
+  {
+    "id": 102,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "まっすぐ",
+    "romanization": "Massugu",
+    "translation": "直走"
+  },
+  {
+    "id": 103,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "右",
+    "romanization": "Migi",
+    "translation": "右"
+  },
+  {
+    "id": 104,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "左",
+    "romanization": "Hidari",
+    "translation": "左"
+  },
+  {
+    "id": 105,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "近いです",
+    "romanization": "Chikai desu",
+    "translation": "近"
+  },
+  {
+    "id": 106,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "一",
+    "romanization": "Ichi",
+    "translation": "一"
+  },
+  {
+    "id": 107,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "二",
+    "romanization": "Ni",
+    "translation": "二"
+  },
+  {
+    "id": 108,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "三",
+    "romanization": "San",
+    "translation": "三"
+  },
+  {
+    "id": 109,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "四",
+    "romanization": "Shi/Yon",
+    "translation": "四"
+  },
+  {
+    "id": 110,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "五",
+    "romanization": "Go",
+    "translation": "五"
+  },
+  {
+    "id": 111,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "六",
+    "romanization": "Roku",
+    "translation": "六"
+  },
+  {
+    "id": 112,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "七",
+    "romanization": "Shichi/Nana",
+    "translation": "七"
+  },
+  {
+    "id": 113,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "八",
+    "romanization": "Hachi",
+    "translation": "八"
+  },
+  {
+    "id": 114,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "九",
+    "romanization": "Kyū/Ku",
+    "translation": "九"
+  },
+  {
+    "id": 115,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "十",
+    "romanization": "Jū",
+    "translation": "十"
+  },
+  {
+    "id": 116,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "父",
+    "romanization": "Chichi",
+    "translation": "父亲"
+  },
+  {
+    "id": 117,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "母",
+    "romanization": "Haha",
+    "translation": "母亲"
+  },
+  {
+    "id": 118,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "兄弟",
+    "romanization": "Kyōdai",
+    "translation": "兄弟"
+  },
+  {
+    "id": 119,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "姉妹",
+    "romanization": "Shimai",
+    "translation": "姐妹"
+  },
+  {
+    "id": 120,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "夫",
+    "romanization": "Otto",
+    "translation": "丈夫"
+  },
+  {
+    "id": 121,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "妻",
+    "romanization": "Tsuma",
+    "translation": "妻子"
+  },
+  {
+    "id": 122,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "息子",
+    "romanization": "Musuko",
+    "translation": "儿子"
+  },
+  {
+    "id": 123,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "娘",
+    "romanization": "Musume",
+    "translation": "女儿"
+  },
+  {
+    "id": 124,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "家族",
+    "romanization": "Kazoku",
+    "translation": "家人"
+  },
+  {
+    "id": 125,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "子供",
+    "romanization": "Kodomo",
+    "translation": "孩子"
+  },
+  {
+    "id": 126,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "はい",
+    "romanization": "Hai",
+    "translation": "是"
+  },
+  {
+    "id": 127,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "いいえ",
+    "romanization": "Iie",
+    "translation": "不是"
+  },
+  {
+    "id": 128,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "もちろん",
+    "romanization": "Mochiron",
+    "translation": "当然"
+  },
+  {
+    "id": 129,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "たぶん",
+    "romanization": "Tabun",
+    "translation": "也许"
+  },
+  {
+    "id": 130,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "大丈夫です",
+    "romanization": "Daijōbu desu",
+    "translation": "没关系"
+  },
+  {
+    "id": 131,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "分かりません",
+    "romanization": "Wakarimasen",
+    "translation": "我不知道"
+  },
+  {
+    "id": 132,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "もう一度言ってください",
+    "romanization": "Mō ichido itte kudasai",
+    "translation": "请再说一遍"
+  },
+  {
+    "id": 133,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ゆっくり話してください",
+    "romanization": "Yukuri hanashite kudasai",
+    "translation": "请说慢点"
+  },
+  {
+    "id": 134,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "助けてください",
+    "romanization": "Tasukete kudasai",
+    "translation": "请帮帮我"
+  },
+  {
+    "id": 135,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "どういたしまして",
+    "romanization": "Dō itashimashite",
+    "translation": "不客气"
+  },
+  {
+    "id": 136,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "メニューを見せてください",
+    "romanization": "Menyū o misete kudasai",
+    "translation": "请给我菜单"
+  },
+  {
+    "id": 137,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "おすすめは何ですか",
+    "romanization": "Osusume wa nan desu ka",
+    "translation": "您推荐什么？"
+  },
+  {
+    "id": 138,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "注文したいです",
+    "romanization": "Chūmon shitai desu",
+    "translation": "我想点餐"
+  },
+  {
+    "id": 139,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "ベジタリアンです",
+    "romanization": "Bejitarian desu",
+    "translation": "我是素食者"
+  },
+  {
+    "id": 140,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "この料理は辛いですか",
+    "romanization": "Kono ryōri wa karai desu ka",
+    "translation": "这道菜辣吗？"
+  },
+  {
+    "id": 141,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "ナッツのアレルギーがあります",
+    "romanization": "Nattsu no arerugī ga arimasu",
+    "translation": "我对坚果过敏"
+  },
+  {
+    "id": 142,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "フォークをください",
+    "romanization": "Fōku o kudasai",
+    "translation": "请给我叉子"
+  },
+  {
+    "id": 143,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "お会計をお願いします",
+    "romanization": "Okaikei o onegaishimasu",
+    "translation": "请给我账单"
+  },
+  {
+    "id": 144,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "サービス料は含まれていますか",
+    "romanization": "Sābisu ryō wa fukumarete imasu ka",
+    "translation": "服务费含了吗？"
+  },
+  {
+    "id": 145,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "持ち帰りできますか",
+    "romanization": "Mochikaeri dekimasu ka",
+    "translation": "可以打包吗？"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "医者が必要です",
+    "romanization": "Isha ga hitsuyō desu",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "病院はどこですか",
+    "romanization": "Byōin wa doko desu ka",
+    "translation": "医院在哪里？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "薬局はどこですか",
+    "romanization": "Yakkyoku wa doko desu ka",
+    "translation": "药店在哪里？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "頭が痛みます",
+    "romanization": "Atama ga itamimasu",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "熱があります",
+    "romanization": "Netsu ga arimasu",
+    "translation": "我发烧"
+  },
+  {
+    "id": 151,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "どこで両替できますか",
+    "romanization": "Doko de ryōgae dekimasu ka",
+    "translation": "在哪里可以换钱？"
+  },
+  {
+    "id": 152,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "為替レートはいくらですか",
+    "romanization": "Kawase rēto wa ikura desu ka",
+    "translation": "汇率是多少？"
+  },
+  {
+    "id": 153,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ATMはどこですか",
+    "romanization": "ATM wa doko desu ka",
+    "translation": "ATM 在哪里？"
+  },
+  {
+    "id": 154,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "クレジットカードは使えますか",
+    "romanization": "Kurejitto kādo wa tsukaemasu ka",
+    "translation": "可以用信用卡吗？"
+  },
+  {
+    "id": 155,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "観光案内所はどこですか",
+    "romanization": "Kankō annaijo wa doko desu ka",
+    "translation": "旅游信息中心在哪？"
+  },
+  {
+    "id": 156,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Wi-Fiはありますか",
+    "romanization": "Wi-Fi wa arimasu ka",
+    "translation": "这里有 Wi-Fi 吗？"
+  },
+  {
+    "id": 157,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ここの電圧は？",
+    "romanization": "Koko no den'atsu wa",
+    "translation": "这里的电压是多少？"
+  },
+  {
+    "id": 158,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "SIMカードが必要です",
+    "romanization": "SIM kādo ga hitsuyō desu",
+    "translation": "我需要一张 SIM 卡"
+  },
+  {
+    "id": 159,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "どうやって電話しますか",
+    "romanization": "Dō yatte denwa shimasu ka",
+    "translation": "怎么打电话？"
+  },
+  {
+    "id": 160,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "緊急電話番号は？",
+    "romanization": "Kinkyū denwa bangō wa",
+    "translation": "紧急电话是多少？"
+  }
+]

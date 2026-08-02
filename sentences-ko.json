@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "안녕하세요",
+    "romanization": "Annyeonghaseyo",
+    "translation": "你好"
+  },
+  {
+    "id": 2,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "안녕히 주무세요",
+    "romanization": "Annyeonghi jumuseyo",
+    "translation": "晚安"
+  },
+  {
+    "id": 3,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "안녕히 가세요",
+    "romanization": "Annyeonghi gaseyo",
+    "translation": "再见（您走好）"
+  },
+  {
+    "id": 4,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "감사합니다",
+    "romanization": "Gamsahamnida",
+    "translation": "非常感谢"
+  },
+  {
+    "id": 5,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "죄송합니다",
+    "romanization": "Joesonghamnida",
+    "translation": "对不起"
+  },
+  {
+    "id": 6,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "실례합니다",
+    "romanization": "Sillyehamnida",
+    "translation": "不好意思/请问"
+  },
+  {
+    "id": 7,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "처음 뵙겠습니다",
+    "romanization": "Cheoeum boepgessseumnida",
+    "translation": "初次见面"
+  },
+  {
+    "id": 8,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "잘 부탁드립니다",
+    "romanization": "Jal butakdeurimnida",
+    "translation": "请多关照"
+  },
+  {
+    "id": 9,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "또 만나요",
+    "romanization": "Tto mannayo",
+    "translation": "后会有期"
+  },
+  {
+    "id": 10,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "좋은 아침이에요",
+    "romanization": "Jo-eun achimieyo",
+    "translation": "早上好"
+  },
+  {
+    "id": 11,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "저는...입니다",
+    "romanization": "Jeoneun ... imnida",
+    "translation": "我叫..."
+  },
+  {
+    "id": 12,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "제 이름은...입니다",
+    "romanization": "Je ireumeun ... imnida",
+    "translation": "我的名字是..."
+  },
+  {
+    "id": 13,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "중국에서 왔어요",
+    "romanization": "Junggugeseo wasseoyo",
+    "translation": "我从中国来"
+  },
+  {
+    "id": 14,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "상하이에서 왔어요",
+    "romanization": "Sanghaieseo wasseoyo",
+    "translation": "我从上海来"
+  },
+  {
+    "id": 15,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "25살이에요",
+    "romanization": "Isipsaseorieyo",
+    "translation": "我 25 岁"
+  },
+  {
+    "id": 16,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "학생이에요",
+    "romanization": "Hagsaengieyo",
+    "translation": "我是学生"
+  },
+  {
+    "id": 17,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "직장인이에요",
+    "romanization": "Jikjanginieyo",
+    "translation": "我是上班族"
+  },
+  {
+    "id": 18,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "독신이에요",
+    "romanization": "Doksinieyo",
+    "translation": "我是单身"
+  },
+  {
+    "id": 19,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "결혼했어요",
+    "romanization": "Gyeolhonhaesseoyo",
+    "translation": "我已婚"
+  },
+  {
+    "id": 20,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "베이징에 살아요",
+    "romanization": "Beijing-eseo sarayo",
+    "translation": "我住北京"
+  },
+  {
+    "id": 21,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "여권 보여 주세요",
+    "romanization": "Yeogwon boyeo juseyo",
+    "translation": "请出示护照"
+  },
+  {
+    "id": 22,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "관광으로 왔어요",
+    "romanization": "Gwangwangeuro wasseoyo",
+    "translation": "我来旅游"
+  },
+  {
+    "id": 23,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "출장으로 왔어요",
+    "romanization": "Chuljang-euro wasseoyo",
+    "translation": "我来出差"
+  },
+  {
+    "id": 24,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "이 호텔에 묵을 거예요",
+    "romanization": "I hotele mugeul geoyeyo",
+    "translation": "我住这家酒店"
+  },
+  {
+    "id": 25,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "일주일 있을 거예요",
+    "romanization": "Iljuil isseul geoyeyo",
+    "translation": "我停留一周"
+  },
+  {
+    "id": 26,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "신고할 게 없어요",
+    "romanization": "Singohal ge eopseoyo",
+    "translation": "我没有东西要申报"
+  },
+  {
+    "id": 27,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "신고할 게 있어요",
+    "romanization": "Singohal ge isseoyo",
+    "translation": "我有东西要申报"
+  },
+  {
+    "id": 28,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "얼마나 있을 건가요?",
+    "romanization": "Eolmana isseul geongayo",
+    "translation": "您停留多久？"
+  },
+  {
+    "id": 29,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "가방 열어 주세요",
+    "romanization": "Gabang yeolyeo juseyo",
+    "translation": "请打开包"
+  },
+  {
+    "id": 30,
+    "category": "airport",
+    "category_zh": "机场海关",
+    "text": "제 짐은 어디예요?",
+    "romanization": "Je jimeun eodiyeyo",
+    "translation": "我的行李在哪？"
+  },
+  {
+    "id": 31,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "출장입니다",
+    "romanization": "Chuljangimnida",
+    "translation": "我来出差"
+  },
+  {
+    "id": 32,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "비즈니스 비자가 있어요",
+    "romanization": "Bijeuniseu bijaga isseoyo",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 33,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "일하러 왔어요",
+    "romanization": "Ilhareo wasseoyo",
+    "translation": "我来工作"
+  },
+  {
+    "id": 34,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "여기서 공부하고 있어요",
+    "romanization": "Yeogiseo gongbuhago isseoyo",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 35,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "학생 비자가 있어요",
+    "romanization": "Hagsaeng bijaga isseoyo",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 36,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "목적은 공부예요",
+    "romanization": "Mokjeong-eun gongbu-yeyo",
+    "translation": "我的目的是学习"
+  },
+  {
+    "id": 37,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "예약했어요",
+    "romanization": "Yeyakhaesseoyo",
+    "translation": "我有预订"
+  },
+  {
+    "id": 38,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "방 부탁해요",
+    "romanization": "Bang butakhaeyo",
+    "translation": "我想要一个房间"
+  },
+  {
+    "id": 39,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "1박에 얼마예요?",
+    "romanization": "1bage eolmayeyo",
+    "translation": "一晚多少钱？"
+  },
+  {
+    "id": 40,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "빈 방 있어요?",
+    "romanization": "Bin bang isseoyo",
+    "translation": "有空房吗？"
+  },
+  {
+    "id": 41,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "싱글룸",
+    "romanization": "Singgeullum",
+    "translation": "单人间"
+  },
+  {
+    "id": 42,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "더블룸",
+    "romanization": "Deobeullum",
+    "translation": "双人间"
+  },
+  {
+    "id": 43,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "몇 박이에요?",
+    "romanization": "Myeot bagieyo",
+    "translation": "几晚？"
+  },
+  {
+    "id": 44,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "조식 포함이에요?",
+    "romanization": "Josik pohamieyo",
+    "translation": "含早餐吗？"
+  },
+  {
+    "id": 45,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "Wi-Fi 비밀번호는?",
+    "romanization": "Wi-Fi bimilbeonhoneun",
+    "translation": "WiFi 密码？"
+  },
+  {
+    "id": 46,
+    "category": "hotel",
+    "category_zh": "宾馆入住",
+    "text": "방 청소해 주세요",
+    "romanization": "Bang cheongsohae juseyo",
+    "translation": "请打扫房间"
+  },
+  {
+    "id": 47,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "수건 더 주실 수 있어요?",
+    "romanization": "Sugeon deo jusil su isseoyo",
+    "translation": "请给我额外毛巾"
+  },
+  {
+    "id": 48,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "베개 더 주실 수 있어요?",
+    "romanization": "Begae deo jusil su isseoyo",
+    "translation": "请给我更多枕头"
+  },
+  {
+    "id": 49,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "에어컨이 안 돼요",
+    "romanization": "Eeokeon-i andwaeyo",
+    "translation": "空调不工作"
+  },
+  {
+    "id": 50,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "뜨거운 물이 안 나와요",
+    "romanization": "Tteugeoun mul-i an nawayo",
+    "translation": "热水不工作"
+  },
+  {
+    "id": 51,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Wi-Fi가 안 돼요",
+    "romanization": "Wi-Fi-ga an dwaeyo",
+    "translation": "WiFi 不工作"
+  },
+  {
+    "id": 52,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "계산서 부탁해요",
+    "romanization": "Gyesanseo butakhaeyo",
+    "translation": "请给我账单"
+  },
+  {
+    "id": 53,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "내일 체크아웃이에요",
+    "romanization": "Naeil chekeuausieyo",
+    "translation": "我明天退房"
+  },
+  {
+    "id": 54,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "짐 맡아 주실 수 있어요?",
+    "romanization": "Jim mat-a jusil su isseoyo",
+    "translation": "可以寄存行李吗？"
+  },
+  {
+    "id": 55,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "택시 불러 주실 수 있어요?",
+    "romanization": "Taeksi bulleo jusil su isseoyo",
+    "translation": "请帮我叫出租车"
+  },
+  {
+    "id": 56,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "배고파요",
+    "romanization": "Baegopayo",
+    "translation": "我饿了"
+  },
+  {
+    "id": 57,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "배불러요",
+    "romanization": "Baebulleoyo",
+    "translation": "我吃饱了"
+  },
+  {
+    "id": 58,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "목말라요",
+    "romanization": "Mongmallayo",
+    "translation": "我渴了"
+  },
+  {
+    "id": 59,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "물 주세요",
+    "romanization": "Mul juseyo",
+    "translation": "请给我水"
+  },
+  {
+    "id": 60,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "차 주세요",
+    "romanization": "Cha juseyo",
+    "translation": "请给我茶"
+  },
+  {
+    "id": 61,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "커피 주세요",
+    "romanization": "Keopi juseyo",
+    "translation": "请给我咖啡"
+  },
+  {
+    "id": 62,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "맥주 주세요",
+    "romanization": "Maekju juseyo",
+    "translation": "请给我啤酒"
+  },
+  {
+    "id": 63,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "맛있어요",
+    "romanization": "Masisseoyo",
+    "translation": "好吃"
+  },
+  {
+    "id": 64,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "매워요",
+    "romanization": "Maewoyo",
+    "translation": "辣"
+  },
+  {
+    "id": 65,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "달아요",
+    "romanization": "Dalayo",
+    "translation": "甜"
+  },
+  {
+    "id": 66,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "역이 어디예요?",
+    "romanization": "Yeogi eodiyeyo",
+    "translation": "车站在哪里？"
+  },
+  {
+    "id": 67,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "버스 정류장은 어디예요?",
+    "romanization": "Beoseu jeongnyujang-eun eodiyeyo",
+    "translation": "公交车站在哪里？"
+  },
+  {
+    "id": 68,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "표 한 장 주세요",
+    "romanization": "Pyo han jang juseyo",
+    "translation": "请给我一张票"
+  },
+  {
+    "id": 69,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "얼마예요?",
+    "romanization": "Eolmayeyo",
+    "translation": "多少钱？"
+  },
+  {
+    "id": 70,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "다음 전철은 몇 시예요?",
+    "romanization": "Daeum jeoncheoreun myeot siyeyo",
+    "translation": "下一班电车几点？"
+  },
+  {
+    "id": 71,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "내릴게요",
+    "romanization": "Naerilgeyo",
+    "translation": "我下车"
+  },
+  {
+    "id": 72,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "세워 주세요",
+    "romanization": "Sewo juseyo",
+    "translation": "请停车"
+  },
+  {
+    "id": 73,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "길을 잃었어요",
+    "romanization": "Gireul ireosseoyo",
+    "translation": "我走错路了"
+  },
+  {
+    "id": 74,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "직진해 주세요",
+    "romanization": "Jikjinhae juseyo",
+    "translation": "请直走"
+  },
+  {
+    "id": 75,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "오른쪽으로 가 주세요",
+    "romanization": "Oreunjjogeuro ga juseyo",
+    "translation": "请右转"
+  },
+  {
+    "id": 76,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "얼마예요?",
+    "romanization": "Eolmayeyo",
+    "translation": "多少钱？"
+  },
+  {
+    "id": 77,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "비싸요",
+    "romanization": "Bissayo",
+    "translation": "贵"
+  },
+  {
+    "id": 78,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "싸요",
+    "romanization": "Ssayo",
+    "translation": "便宜"
+  },
+  {
+    "id": 79,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "카드 돼요?",
+    "romanization": "Kadeu dwaeyo",
+    "translation": "可以刷卡吗？"
+  },
+  {
+    "id": 80,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "현금으로 낼게요",
+    "romanization": "Hyeongeumeuro naelgeyo",
+    "translation": "我付现金"
+  },
+  {
+    "id": 81,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "더 작은 사이즈 있어요?",
+    "romanization": "Deo jageun saijeu isseoyo",
+    "translation": "有更小号吗？"
+  },
+  {
+    "id": 82,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "입어 봐도 돼요?",
+    "romanization": "Ibeo bwado dwaeyo",
+    "translation": "可以试穿吗？"
+  },
+  {
+    "id": 83,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "다른 색 있어요?",
+    "romanization": "Dareun saek isseoyo",
+    "translation": "有其他颜色吗？"
+  },
+  {
+    "id": 84,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "면세 돼요?",
+    "romanization": "Myeonse dwaeyo",
+    "translation": "可以免税吗？"
+  },
+  {
+    "id": 85,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "봉투 주세요",
+    "romanization": "Bongtu juseyo",
+    "translation": "请给我袋子"
+  },
+  {
+    "id": 86,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "지금 몇 시예요?",
+    "romanization": "Jigeum myeot siyeyo",
+    "translation": "现在几点？"
+  },
+  {
+    "id": 87,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "오늘 며칠이에요?",
+    "romanization": "Oneul myeochirieyo",
+    "translation": "今天几号？"
+  },
+  {
+    "id": 88,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "무슨 요일이에요?",
+    "romanization": "Museun yoilieyo",
+    "translation": "星期几？"
+  },
+  {
+    "id": 89,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "일주일",
+    "romanization": "Iljuil",
+    "translation": "一周"
+  },
+  {
+    "id": 90,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "한 달",
+    "romanization": "Han dal",
+    "translation": "一个月"
+  },
+  {
+    "id": 91,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "일 년",
+    "romanization": "Il nyeon",
+    "translation": "一年"
+  },
+  {
+    "id": 92,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "내일",
+    "romanization": "Naeil",
+    "translation": "明天"
+  },
+  {
+    "id": 93,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "어제",
+    "romanization": "Eoje",
+    "translation": "昨天"
+  },
+  {
+    "id": 94,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "아침",
+    "romanization": "Achim",
+    "translation": "早上"
+  },
+  {
+    "id": 95,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "밤",
+    "romanization": "Bam",
+    "translation": "晚上"
+  },
+  {
+    "id": 96,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "역이 어디예요?",
+    "romanization": "Yeogi eodiyeyo",
+    "translation": "车站在哪里？"
+  },
+  {
+    "id": 97,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "병원이 어디예요?",
+    "romanization": "Byeongwoni eodiyeyo",
+    "translation": "医院在哪里？"
+  },
+  {
+    "id": 98,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "약국이 어디예요?",
+    "romanization": "Yakgi-ga eodiyeyo",
+    "translation": "药店在哪里？"
+  },
+  {
+    "id": 99,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "은행이 어디예요?",
+    "romanization": "Eunhaengi eodiyeyo",
+    "translation": "银行在哪里？"
+  },
+  {
+    "id": 100,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "식당이 어디예요?",
+    "romanization": "Sikdange eodiyeyo",
+    "translation": "餐厅在哪里？"
+  },
+  {
+    "id": 101,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "화장실은 어디예요?",
+    "romanization": "Hwajangsireun eodiyeyo",
+    "translation": "洗手间在哪里？"
+  },
+  {
+    "id": 102,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "직진",
+    "romanization": "Jikjin",
+    "translation": "直走"
+  },
+  {
+    "id": 103,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "오른쪽",
+    "romanization": "Oreunjjok",
+    "translation": "右"
+  },
+  {
+    "id": 104,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "왼쪽",
+    "romanization": "Oenjjok",
+    "translation": "左"
+  },
+  {
+    "id": 105,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "가까워요",
+    "romanization": "Gakkaweoyo",
+    "translation": "近"
+  },
+  {
+    "id": 106,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "하나",
+    "romanization": "Hana",
+    "translation": "一"
+  },
+  {
+    "id": 107,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "둘",
+    "romanization": "Dul",
+    "translation": "二"
+  },
+  {
+    "id": 108,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "셋",
+    "romanization": "Set",
+    "translation": "三"
+  },
+  {
+    "id": 109,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "넷",
+    "romanization": "Net",
+    "translation": "四"
+  },
+  {
+    "id": 110,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "다섯",
+    "romanization": "Daseot",
+    "translation": "五"
+  },
+  {
+    "id": 111,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "여섯",
+    "romanization": "Yeoseot",
+    "translation": "六"
+  },
+  {
+    "id": 112,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "일곱",
+    "romanization": "Ilgop",
+    "translation": "七"
+  },
+  {
+    "id": 113,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "여덟",
+    "romanization": "Yeodeol",
+    "translation": "八"
+  },
+  {
+    "id": 114,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "아홉",
+    "romanization": "Ahop",
+    "translation": "九"
+  },
+  {
+    "id": 115,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "열",
+    "romanization": "Yeol",
+    "translation": "十"
+  },
+  {
+    "id": 116,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "아버지",
+    "romanization": "Abeoji",
+    "translation": "父亲"
+  },
+  {
+    "id": 117,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "어머니",
+    "romanization": "Eomeoni",
+    "translation": "母亲"
+  },
+  {
+    "id": 118,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "형제",
+    "romanization": "Hyeongje",
+    "translation": "兄弟"
+  },
+  {
+    "id": 119,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "자매",
+    "romanization": "Jamae",
+    "translation": "姐妹"
+  },
+  {
+    "id": 120,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "남편",
+    "romanization": "Nampyeon",
+    "translation": "丈夫"
+  },
+  {
+    "id": 121,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "아내",
+    "romanization": "Anae",
+    "translation": "妻子"
+  },
+  {
+    "id": 122,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "아들",
+    "romanization": "Adeul",
+    "translation": "儿子"
+  },
+  {
+    "id": 123,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "딸",
+    "romanization": "Ttal",
+    "translation": "女儿"
+  },
+  {
+    "id": 124,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "가족",
+    "romanization": "Gajok",
+    "translation": "家人"
+  },
+  {
+    "id": 125,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "아이",
+    "romanization": "Ai",
+    "translation": "孩子"
+  },
+  {
+    "id": 126,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "네",
+    "romanization": "Ne",
+    "translation": "是"
+  },
+  {
+    "id": 127,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "아니요",
+    "romanization": "Aniyo",
+    "translation": "不是"
+  },
+  {
+    "id": 128,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "물론이죠",
+    "romanization": "Mullonijyo",
+    "translation": "当然"
+  },
+  {
+    "id": 129,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "아마",
+    "romanization": "Ama",
+    "translation": "也许"
+  },
+  {
+    "id": 130,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "괜찮아요",
+    "romanization": "Gwaenchanayo",
+    "translation": "没关系"
+  },
+  {
+    "id": 131,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "모르겠어요",
+    "romanization": "Moreugesseoyo",
+    "translation": "我不知道"
+  },
+  {
+    "id": 132,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "다시 말해 주세요",
+    "romanization": "Dasi malhae juseyo",
+    "translation": "请再说一遍"
+  },
+  {
+    "id": 133,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "천천히 말해 주세요",
+    "romanization": "Cheoncheonhi malhae juseyo",
+    "translation": "请说慢点"
+  },
+  {
+    "id": 134,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "도와 주세요",
+    "romanization": "Dowa juseyo",
+    "translation": "请帮帮我"
+  },
+  {
+    "id": 135,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "천만에요",
+    "romanization": "Cheonmaneyo",
+    "translation": "不客气"
+  },
+  {
+    "id": 136,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "메뉴판 보여 주세요",
+    "romanization": "Menyupan boyeo juseyo",
+    "translation": "请给我菜单"
+  },
+  {
+    "id": 137,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "추천 메뉴가 뭐예요?",
+    "romanization": "Chucheon menyuga mwoyeyo",
+    "translation": "您推荐什么？"
+  },
+  {
+    "id": 138,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "주문하고 싶어요",
+    "romanization": "Jumunhago sipeoyo",
+    "translation": "我想点餐"
+  },
+  {
+    "id": 139,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "저는 채식주의자예요",
+    "romanization": "Jeoneun chaesikjuuijayeyo",
+    "translation": "我是素食者"
+  },
+  {
+    "id": 140,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "이 요리 매워요?",
+    "romanization": "I yori maewoyo",
+    "translation": "这道菜辣吗？"
+  },
+  {
+    "id": 141,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "견과류 알레르기가 있어요",
+    "romanization": "Gyeongwaryu allereugiga isseoyo",
+    "translation": "我对坚果过敏"
+  },
+  {
+    "id": 142,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "포크 주세요",
+    "romanization": "Pokeu juseyo",
+    "translation": "请给我叉子"
+  },
+  {
+    "id": 143,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "계산서 주세요",
+    "romanization": "Gyesanseo juseyo",
+    "translation": "请给我账单"
+  },
+  {
+    "id": 144,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "서비스 요금 포함이에요?",
+    "romanization": "Seobiseu yogeum pohamieyo",
+    "translation": "服务费含了吗？"
+  },
+  {
+    "id": 145,
+    "category": "restaurant",
+    "category_zh": "餐厅",
+    "text": "포장 가능해요?",
+    "romanization": "Pojang ganeunghaeyo",
+    "translation": "可以打包吗？"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "의사가 필요해요",
+    "romanization": "Uisaga piryohaeyo",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "병원이 어디예요?",
+    "romanization": "Byeongwoni eodiyeyo",
+    "translation": "医院在哪里？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "약국이 어디예요?",
+    "romanization": "Yakgi-ga eodiyeyo",
+    "translation": "药店在哪里？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "머리가 아파요",
+    "romanization": "Meoriga apayo",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "열이 나요",
+    "romanization": "Yeori nayo",
+    "translation": "我发烧"
+  },
+  {
+    "id": 151,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "어디서 환전할 수 있어요?",
+    "romanization": "Eodiseo hwanjheonhal su isseoyo",
+    "translation": "在哪里可以换钱？"
+  },
+  {
+    "id": 152,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "환율은 얼마예요?",
+    "romanization": "Hwanryeoneun eolmayeyo",
+    "translation": "汇率是多少？"
+  },
+  {
+    "id": 153,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ATM은 어디예요?",
+    "romanization": "ATMeun eodiyeyo",
+    "translation": "ATM 在哪里？"
+  },
+  {
+    "id": 154,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "신용카드 돼요?",
+    "romanization": "Sinyongkadeu dwaeyo",
+    "translation": "可以用信用卡吗？"
+  },
+  {
+    "id": 155,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "관광 안내소는 어디예요?",
+    "romanization": "Gwangwang annaesoneun eodiyeyo",
+    "translation": "旅游信息中心在哪？"
+  },
+  {
+    "id": 156,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Wi-Fi 있어요?",
+    "romanization": "Wi-Fi isseoyo",
+    "translation": "这里有 Wi-Fi 吗？"
+  },
+  {
+    "id": 157,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "여기 전압은 얼마예요?",
+    "romanization": "Yeogi jeonapeun eolmayeyo",
+    "translation": "这里的电压是多少？"
+  },
+  {
+    "id": 158,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "SIM 카드가 필요해요",
+    "romanization": "SIM kadeuga piryohaeyo",
+    "translation": "我需要一张 SIM 卡"
+  },
+  {
+    "id": 159,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "전화 어떻게 해요?",
+    "romanization": "Jeonhwa eotteoke haeyo",
+    "translation": "怎么打电话？"
+  },
+  {
+    "id": 160,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "긴급 전화번호는?",
+    "romanization": "Gingeup jeonhwabeonhoneun",
+    "translation": "紧急电话是多少？"
+  }
+]

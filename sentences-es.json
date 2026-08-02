@@ -1198,5 +1198,85 @@
     "text": "Tengo fiebre",
     "romanization": "Tengo fiebre",
     "translation": "我发烧"
+  },
+  {
+    "id": 151,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Dónde puedo cambiar dinero?",
+    "romanization": "¿Dónde puedo cambiar dinero?",
+    "translation": "在哪里可以换钱？"
+  },
+  {
+    "id": 152,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Cuál es el tipo de cambio?",
+    "romanization": "¿Cuál es el tipo de cambio?",
+    "translation": "汇率是多少？"
+  },
+  {
+    "id": 153,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Dónde está el cajero automático?",
+    "romanization": "¿Dónde está el cajero automático?",
+    "translation": "ATM 在哪里？"
+  },
+  {
+    "id": 154,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Puedo usar mi tarjeta de crédito?",
+    "romanization": "¿Puedo usar mi tarjeta de crédito?",
+    "translation": "可以用信用卡吗？"
+  },
+  {
+    "id": 155,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Dónde está la oficina de turismo?",
+    "romanization": "¿Dónde está la oficina de turismo?",
+    "translation": "旅游信息中心在哪？"
+  },
+  {
+    "id": 156,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Hay Wi-Fi aquí?",
+    "romanization": "¿Hay Wi-Fi aquí?",
+    "translation": "这里有 Wi-Fi 吗？"
+  },
+  {
+    "id": 157,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Cuál es el voltaje aquí?",
+    "romanization": "¿Cuál es el voltaje aquí?",
+    "translation": "这里的电压是多少？"
+  },
+  {
+    "id": 158,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Necesito una tarjeta SIM",
+    "romanization": "Necesito una tarjeta SIM",
+    "translation": "我需要一张 SIM 卡"
+  },
+  {
+    "id": 159,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Cómo hago una llamada?",
+    "romanization": "¿Cómo hago una llamada?",
+    "translation": "怎么打电话？"
+  },
+  {
+    "id": 160,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "¿Cuál es el número de emergencia?",
+    "romanization": "¿Cuál es el número de emergencia?",
+    "translation": "紧急电话是多少？"
   }
 ]

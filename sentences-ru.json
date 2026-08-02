@@ -1198,5 +1198,85 @@
     "text": "У меня температура",
     "romanization": "U menya temperatura",
     "translation": "我发烧"
+  },
+  {
+    "id": 151,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Где можно обменять деньги?",
+    "romanization": "Gde mozhno obmenyat' den'gi?",
+    "translation": "在哪里可以换钱？"
+  },
+  {
+    "id": 152,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Какой курс обмена?",
+    "romanization": "Kakoy kurs obmena?",
+    "translation": "汇率是多少？"
+  },
+  {
+    "id": 153,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Где банкомат?",
+    "romanization": "Gde bankomat?",
+    "translation": "ATM 在哪里？"
+  },
+  {
+    "id": 154,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Можно расплатиться кредитной картой?",
+    "romanization": "Mozhno raspl'atit'sya kreditnoy kartoy?",
+    "translation": "可以用信用卡吗？"
+  },
+  {
+    "id": 155,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Где туристический офис?",
+    "romanization": "Gde turisticheskiy ofis?",
+    "translation": "旅游信息中心在哪？"
+  },
+  {
+    "id": 156,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Здесь есть Wi-Fi?",
+    "romanization": "Zdes' yest' Wi-Fi?",
+    "translation": "这里有 Wi-Fi 吗？"
+  },
+  {
+    "id": 157,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Какое здесь напряжение?",
+    "romanization": "Kakoye zdes' napryazheniye?",
+    "translation": "这里的电压是多少？"
+  },
+  {
+    "id": 158,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Мне нужна SIM-карта",
+    "romanization": "Mne nuzhna SIM-karta",
+    "translation": "我需要一张 SIM 卡"
+  },
+  {
+    "id": 159,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Как позвонить?",
+    "romanization": "Kak pozvonit'?",
+    "translation": "怎么打电话？"
+  },
+  {
+    "id": 160,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Какой номер экстренной службы?",
+    "romanization": "Kakoy nomer ekstrennoy sluzhby?",
+    "translation": "紧急电话是多少？"
   }
 ]
