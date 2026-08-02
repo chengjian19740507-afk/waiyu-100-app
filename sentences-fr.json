@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Bonjour",
+    "romanization": "Bonjour",
+    "translation": "你好"
+  },
+  {
+    "id": 2,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Bonjour (réponse)",
+    "romanization": "Bonjour",
+    "translation": "你好（回应）"
+  },
+  {
+    "id": 3,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Bonjour (matin)",
+    "romanization": "Bonjour",
+    "translation": "早上好"
+  },
+  {
+    "id": 4,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Bonjour (matin, réponse)",
+    "romanization": "Bonjour",
+    "translation": "早上好（回应）"
+  },
+  {
+    "id": 5,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Bonsoir",
+    "romanization": "Bonsoir",
+    "translation": "晚上好"
+  },
+  {
+    "id": 6,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Bonsoir (réponse)",
+    "romanization": "Bonsoir",
+    "translation": "晚上好（回应）"
+  },
+  {
+    "id": 7,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Comment allez-vous ?",
+    "romanization": "Comment allez-vous ?",
+    "translation": "您好？（正式）"
+  },
+  {
+    "id": 8,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Comment vas-tu ?",
+    "romanization": "Comment vas-tu ?",
+    "translation": "你好吗？（非正式）"
+  },
+  {
+    "id": 9,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Je vais bien",
+    "romanization": "Je vais bien",
+    "translation": "我很好"
+  },
+  {
+    "id": 10,
+    "category": "greetings",
+    "category_zh": "问候",
+    "text": "Merci beaucoup",
+    "romanization": "Merci beaucoup",
+    "translation": "非常感谢"
+  },
+  {
+    "id": 11,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Comment vous appelez-vous ?",
+    "romanization": "Comment vous appelez-vous ?",
+    "translation": "您叫什么名字？"
+  },
+  {
+    "id": 12,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Je m'appelle ...",
+    "romanization": "Je m'appelle ...",
+    "translation": "我叫..."
+  },
+  {
+    "id": 13,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Je viens de Chine",
+    "romanization": "Je viens de Chine",
+    "translation": "我来自中国"
+  },
+  {
+    "id": 14,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Je suis étudiant",
+    "romanization": "Je suis étudiant",
+    "translation": "我是学生"
+  },
+  {
+    "id": 15,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Je suis ingénieur",
+    "romanization": "Je suis ingénieur",
+    "translation": "我是工程师"
+  },
+  {
+    "id": 16,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "J'ai trente ans",
+    "romanization": "J'ai trente ans",
+    "translation": "我30岁"
+  },
+  {
+    "id": 17,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "J'habite à Shanghai",
+    "romanization": "J'habite à Shanghai",
+    "translation": "我住在上海"
+  },
+  {
+    "id": 18,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Enchanté",
+    "romanization": "Enchanté",
+    "translation": "幸会"
+  },
+  {
+    "id": 19,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Ravi de vous rencontrer",
+    "romanization": "Ravi de vous rencontrer",
+    "translation": "很高兴见到您"
+  },
+  {
+    "id": 20,
+    "category": "intro",
+    "category_zh": "自我介绍",
+    "text": "Au revoir",
+    "romanization": "Au revoir",
+    "translation": "再见"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "J'ai faim",
+    "romanization": "J'ai faim",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "J'ai soif",
+    "romanization": "J'ai soif",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Je voudrais manger",
+    "romanization": "Je voudrais manger",
+    "translation": "我想吃东西"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Je voudrais de l'eau",
+    "romanization": "Je voudrais de l'eau",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Quel est votre plat préféré ?",
+    "romanization": "Quel est votre plat préféré ?",
+    "translation": "您最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Bœuf",
+    "romanization": "Bœuf",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Poulet",
+    "romanization": "Poulet",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Poisson",
+    "romanization": "Poisson",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Riz",
+    "romanization": "Riz",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Pain",
+    "romanization": "Pain",
+    "translation": "面包"
+  },
+  {
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Où est l'aéroport ?",
+    "romanization": "Où est l'aéroport ?",
+    "translation": "机场在哪？"
+  },
+  {
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Je voudrais un billet",
+    "romanization": "Je voudrais un billet",
+    "translation": "我想要一张票"
+  },
+  {
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Combien ça coûte ?",
+    "romanization": "Combien ça coûte ?",
+    "translation": "多少钱？"
+  },
+  {
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "À quelle heure part le train ?",
+    "romanization": "À quelle heure part le train ?",
+    "translation": "火车几点开？"
+  },
+  {
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "À quelle gare ?",
+    "romanization": "À quelle gare ?",
+    "translation": "哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "S'il vous plaît, où est ... ?",
+    "romanization": "S'il vous plaît, où est ... ?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Je voudrais un taxi",
+    "romanization": "Je voudrais un taxi",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Ici",
+    "romanization": "Ici",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Arrêtez-vous ici, s'il vous plaît",
+    "romanization": "Arrêtez-vous ici, s'il vous plaît",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "C'est loin ?",
+    "romanization": "C'est loin ?",
+    "translation": "距离远吗？"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Combien ça coûte ?",
+    "romanization": "Combien ça coûte ?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "C'est trop cher",
+    "romanization": "C'est trop cher",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "C'est bon marché",
+    "romanization": "C'est bon marché",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Peut-on négocier ?",
+    "romanization": "Peut-on négocier ?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Je voudrais ceci",
+    "romanization": "Je voudrais ceci",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Où est le magasin de ... ?",
+    "romanization": "Où est le magasin de ... ?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "La taille",
+    "romanization": "La taille",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Je voudrais un sac",
+    "romanization": "Je voudrais un sac",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "La monnaie",
+    "romanization": "La monnaie",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Le reçu",
+    "romanization": "Le reçu",
+    "translation": "收据"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "L'heure",
+    "romanization": "L'heure",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Aujourd'hui",
+    "romanization": "Aujourd'hui",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Hier",
+    "romanization": "Hier",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Demain",
+    "romanization": "Demain",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Le matin",
+    "romanization": "Le matin",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Le soir",
+    "romanization": "Le soir",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "La nuit",
+    "romanization": "La nuit",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Il est huit heures",
+    "romanization": "Il est huit heures",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Combien de temps ?",
+    "romanization": "Combien de temps ?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "À cinq heures",
+    "romanization": "À cinq heures",
+    "translation": "5点钟"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Où sont les toilettes ?",
+    "romanization": "Où sont les toilettes ?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "À droite",
+    "romanization": "À droite",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "À gauche",
+    "romanization": "À gauche",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Tout droit",
+    "romanization": "Tout droit",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "C'est loin",
+    "romanization": "C'est loin",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "C'est proche",
+    "romanization": "C'est proche",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Ici",
+    "romanization": "Ici",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Là",
+    "romanization": "Là",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "La rue",
+    "romanization": "La rue",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "La carte",
+    "romanization": "La carte",
+    "translation": "地图"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Un",
+    "romanization": "Un",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Deux",
+    "romanization": "Deux",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Trois",
+    "romanization": "Trois",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Quatre",
+    "romanization": "Quatre",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Cinq",
+    "romanization": "Cinq",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Six",
+    "romanization": "Six",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Sept",
+    "romanization": "Sept",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Huit",
+    "romanization": "Huit",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Neuf",
+    "romanization": "Neuf",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Dix",
+    "romanization": "Dix",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Le père",
+    "romanization": "Le père",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "La mère",
+    "romanization": "La mère",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Le frère",
+    "romanization": "Le frère",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "La sœur",
+    "romanization": "La sœur",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Le mari",
+    "romanization": "Le mari",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "La femme",
+    "romanization": "La femme",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Le fils",
+    "romanization": "Le fils",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "La fille",
+    "romanization": "La fille",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "La famille",
+    "romanization": "La famille",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Le grand-père",
+    "romanization": "Le grand-père",
+    "translation": "祖父"
+  },
+  {
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Oui",
+    "romanization": "Oui",
+    "translation": "是"
+  },
+  {
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Non",
+    "romanization": "Non",
+    "translation": "不"
+  },
+  {
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "S'il vous plaît",
+    "romanization": "S'il vous plaît",
+    "translation": "请"
+  },
+  {
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Pardon",
+    "romanization": "Pardon",
+    "translation": "对不起"
+  },
+  {
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Je ne comprends pas",
+    "romanization": "Je ne comprends pas",
+    "translation": "我不懂"
+  },
+  {
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Je ne parle pas français",
+    "romanization": "Je ne parle pas français",
+    "translation": "我不会说法语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Parlez-vous chinois ?",
+    "romanization": "Parlez-vous chinois ?",
+    "translation": "你会说中文吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Comment dit-on ce mot ?",
+    "romanization": "Comment dit-on ce mot ?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Qu'est-ce que ça veut dire ?",
+    "romanization": "Qu'est-ce que ça veut dire ?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Je vais essayer",
+    "romanization": "Je vais essayer",
+    "translation": "我试试"
+  }
+]
