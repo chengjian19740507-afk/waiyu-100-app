@@ -92,6 +92,29 @@
   </article>
 </template>
 
+<!-- 悬浮打赏按钮 -->
+<button class="tip-fab" id="tip-fab" aria-label="支持开发者" hidden>☕</button>
+
+<!-- 打赏弹窗 -->
+<div class="tip-modal" id="tip-modal" hidden role="dialog" aria-modal="true" aria-labelledby="tip-modal-title">
+  <div class="tip-modal-backdrop" data-close></div>
+  <div class="tip-modal-card">
+    <button class="tip-modal-close" aria-label="关闭" data-close>×</button>
+    <h2 id="tip-modal-title">觉得有用？支持一下</h2>
+    <p class="tip-modal-desc">如果你愿意，请我喝杯咖啡 ☕ · 北极虎 持续更新</p>
+    <div class="tip-modal-codes">
+      <div class="tip-modal-code">
+        <img src="tip-card.png" alt="微信赞赏码" loading="lazy" />
+        <p>↓ 微信扫一扫</p>
+      </div>
+      <div class="tip-modal-code">
+        <img src="tip-alipay.png" alt="支付宝收款码" loading="lazy" />
+        <p>↓ 支付宝扫一扫</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>

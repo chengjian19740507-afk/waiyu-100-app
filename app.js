@@ -210,4 +210,42 @@
   renderCats();
   allData = await load(currentLang);
   render();
+
+  // === 悬浮打赏按钮 + 弹窗 ===
+  const tipFab = document.getElementById('tip-fab');
+  const tipModal = document.getElementById('tip-modal');
+  tipFab.hidden = false;
+
+  // 5 张卡片浏览后脉冲一次（每个用户只触发一次）
+  const PULSE_KEY = 'waiyu-tip-pulse-v1';
+  if (!localStorage.getItem(PULSE_KEY)) {
+    const viewed = new Set();
+    const cardObs = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting && e.target.dataset.id) viewed.add(e.target.dataset.id);
+      });
+      if (viewed.size >= 5) {
+        tipFab.classList.add('pulse');
+        setTimeout(() => tipFab.classList.remove('pulse'), 3500);
+        localStorage.setItem(PULSE_KEY, '1');
+        cardObs.disconnect();
+      }
+    }, { threshold: 0.5 });
+    const observeAll = () => cardsEl.querySelectorAll('.card').forEach(c => cardObs.observe(c));
+    new MutationObserver(observeAll).observe(cardsEl, { childList: true });
+    observeAll();
+  }
+
+  // FAB 点击 → 打开弹窗
+  tipFab.addEventListener('click', () => { tipModal.hidden = false; });
+
+  // 弹窗关闭（背景或关闭按钮）
+  tipModal.addEventListener('click', e => {
+    if (e.target.dataset && e.target.dataset.close !== undefined) tipModal.hidden = true;
+  });
+
+  // ESC 键关闭弹窗
+  document.addEventListener('keydown', e => {
+    if (e.code === 'Escape' && !tipModal.hidden) tipModal.hidden = true;
+  });
 })();
