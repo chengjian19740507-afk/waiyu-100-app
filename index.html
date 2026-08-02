@@ -18,16 +18,16 @@
 <meta property="og:image" content="https://chengjian19740507-afk.github.io/waiyu-100-app/og-image.png">
 <meta property="og:image:secure_url" content="https://chengjian19740507-afk.github.io/waiyu-100-app/og-image.png">
 <meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="800">
-<meta property="og:image:height" content="800">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="海外旅游日常用语150句 · 多语种入门 · 7 国语言版">
 
 <!-- WeChat 专用 meta（部分客户端优先读取 wx: 前缀）-->
 <meta name="wx:title" content="海外旅游日常用语150句 · 多语种入门">
 <meta name="wx:description" content="英 / 西 / 法 / 俄 / 日 / 韩 / 阿 7 语种 · 160 句 · 海外旅游日常 · 文字 + 罗马字 + 中文 + 浏览器原生发音">
 <meta name="wx:image" content="https://chengjian19740507-afk.github.io/waiyu-100-app/og-image.png">
-<meta name="wx:image:width" content="800">
-<meta name="wx:image:height" content="800">
+<meta name="wx:image:width" content="1200">
+<meta name="wx:image:height" content="630">
 <meta name="wx:url" content="https://chengjian19740507-afk.github.io/waiyu-100-app/">
 
 <!-- Twitter / X -->
@@ -37,19 +37,30 @@
 <meta name="twitter:image" content="https://chengjian19740507-afk.github.io/waiyu-100-app/og-image.png">
 
 <title>海外旅游日常用语150句 · 多语种入门</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-title" content="外语 150">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="top">
-  <div class="title">
-    <h1 id="app-title">海外旅游日常用语150句</h1>
-    <p class="subtitle" id="app-subtitle">英/西/法/俄/日/韩/阿 7 语种切换</p>
-  </div>
-  <div class="stats" id="stats"></div>
+<header class="hero">
+  <h1 class="hero-title" id="app-title">海外旅游日常用语150句</h1>
+  <p class="hero-tagline" id="app-subtitle">7 语种 · 160 句 · 出国直接用 · 文字 + 罗马字 + 中文 + 浏览器原生发音</p>
+  <ul class="hero-langs" aria-label="支持语种">
+    <li><span class="lang-name">English</span><span class="lang-zh">英语</span></li>
+    <li><span class="lang-name">Español</span><span class="lang-zh">西语</span></li>
+    <li><span class="lang-name">Français</span><span class="lang-zh">法语</span></li>
+    <li><span class="lang-name">Русский</span><span class="lang-zh">俄语</span></li>
+    <li><span class="lang-name">日本語</span><span class="lang-zh">日语</span></li>
+    <li><span class="lang-name">한국어</span><span class="lang-zh">韩语</span></li>
+    <li><span class="lang-name">العربية</span><span class="lang-zh">阿语</span></li>
+  </ul>
 </header>
+<div class="stats" id="stats"></div>
 
 <div class="search-box">
   <input type="search" id="search" placeholder="🔍 搜索单词 · 中文 / 外语 / 罗马字" autocomplete="off" aria-label="搜索">

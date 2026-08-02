@@ -22,35 +22,89 @@ html, body {
   overscroll-behavior: none;
 }
 
-.top {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  padding: 18px 20px 10px;
-  background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
+.hero {
+  padding: 32px 20px 22px;
+  text-align: center;
+  background:
+    radial-gradient(circle at 50% 0%, rgba(220,38,38,0.08) 0%, transparent 55%),
+    linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
   border-bottom: 1px solid var(--border);
-  position: sticky;
-  top: 0;
-  z-index: 10;
 }
 
-.title h1 {
-  margin: 0;
-  font-size: 20px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
+.hero-title {
+  margin: 0 0 10px;
+  font-family: 'Noto Sans SC', -apple-system, sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--fg);
+  line-height: 1.2;
 }
 
-.subtitle {
-  margin: 4px 0 0;
-  font-size: 12px;
+.hero-tagline {
+  margin: 0 0 18px;
+  font-family: 'Noto Sans SC', -apple-system, sans-serif;
+  font-size: 13px;
   color: var(--fg-dim);
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+
+.hero-langs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+}
+
+.hero-langs li {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  padding: 5px 11px;
+  background: rgba(30,41,59,0.6);
+  border: 1px solid rgba(148,163,184,0.18);
+  border-radius: 999px;
+  font-size: 12px;
+  color: var(--fg);
+  font-weight: 500;
+}
+
+.hero-langs li .lang-name {
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.hero-langs li .lang-zh {
+  font-size: 11px;
+  color: var(--fg-dim);
+  letter-spacing: 1px;
+}
+
+.hero-langs li:nth-child(7) .lang-name {
+  font-family: "Noto Naskh Arabic", serif;
+  font-size: 13px;
+  direction: rtl;
 }
 
 .stats {
+  padding: 10px 20px 0;
   font-size: 12px;
   color: var(--fg-dim);
   font-variant-numeric: tabular-nums;
+  text-align: center;
+}
+
+@media (max-width: 380px) {
+  .hero { padding: 24px 16px 18px; }
+  .hero-title { font-size: 22px; }
+  .hero-tagline { font-size: 12px; }
+  .hero-langs li { font-size: 11px; padding: 4px 9px; }
+  .cats { padding: 10px 12px; }
+  .cards { padding: 10px 12px 60px; }
 }
 
 .cats {
@@ -203,12 +257,7 @@ html, body {
   to { transform: rotate(360deg); }
 }
 
-@media (max-width: 380px) {
-  .ar { font-size: 21px; }
-  .top { padding: 14px 14px 8px; }
-  .cats { padding: 10px 12px; }
-  .cards { padding: 10px 12px 60px; }
-}
+/* .top 已迁移至 .hero（2026-08-02）*/
 
 /* ============ 搜索框 ============ */
 .search-box {

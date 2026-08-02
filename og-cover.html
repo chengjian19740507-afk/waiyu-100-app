@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>OG Cover · 海外旅游日常用语150句</title>
+<title>OG Cover 1200x630 · 海外旅游日常用语150句</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700;900&family=Noto+Sans+SC:wght@400;700;900&family=Noto+Naskh+Arabic:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
 <style>
   html, body {
@@ -11,27 +11,41 @@
     background: #0f172a;
     color: #f8fafc;
     font-family: 'Inter', 'Noto Sans SC', sans-serif;
-    width: 800px;
-    height: 800px;
+    width: 1200px;
+    height: 630px;
     overflow: hidden;
   }
   .cover {
-    width: 800px;
-    height: 800px;
+    width: 1200px;
+    height: 630px;
     box-sizing: border-box;
-    padding: 80px 70px 70px;
+    padding: 60px 70px 46px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    gap: 50px;
     background:
-      radial-gradient(circle at 20% 0%, rgba(220,38,38,0.10) 0%, transparent 55%),
+      radial-gradient(circle at 18% 0%, rgba(220,38,38,0.12) 0%, transparent 55%),
       radial-gradient(circle at 100% 100%, rgba(59,130,246,0.08) 0%, transparent 50%),
       #0f172a;
+  }
+  .left {
+    flex: 1.15;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .right {
+    flex: 0.85;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
   }
   .top-line {
     display: flex;
     align-items: center;
-    gap: 10px;
-    margin-bottom: 22px;
+    gap: 12px;
+    margin-bottom: 24px;
   }
   .top-line::before {
     content: '';
@@ -47,38 +61,47 @@
     color: #94a3b8;
     text-transform: uppercase;
   }
+  .badge {
+    display: inline-block;
+    padding: 4px 12px;
+    border: 1px solid rgba(220,38,38,0.5);
+    color: #fca5a5;
+    border-radius: 999px;
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
   .title {
     font-family: 'Noto Sans SC', 'Inter', sans-serif;
-    font-size: 56px;
+    font-size: 54px;
     font-weight: 700;
-    line-height: 1.15;
+    line-height: 1.1;
     letter-spacing: 2px;
     color: #f8fafc;
-    margin: 0 0 14px;
+    margin: 0 0 18px;
   }
   .num-row {
     display: flex;
     align-items: baseline;
     gap: 14px;
-    margin: 14px 0 8px;
+    margin: 6px 0 14px;
   }
   .num {
     font-family: 'Inter', sans-serif;
-    font-size: 180px;
+    font-size: 130px;
     font-weight: 900;
     line-height: 0.9;
     color: #dc2626;
-    letter-spacing: -6px;
+    letter-spacing: -4px;
   }
   .num-unit {
     font-family: 'Noto Sans SC', sans-serif;
-    font-size: 38px;
+    font-size: 36px;
     font-weight: 700;
     color: #f8fafc;
     letter-spacing: 4px;
   }
   .num-sub {
-    margin-left: 6px;
+    margin-left: 4px;
     font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -86,26 +109,23 @@
     letter-spacing: 2px;
   }
   .divider {
-    margin: 30px 0 26px;
+    margin: 22px 0 20px;
     height: 1px;
     background: linear-gradient(to right, rgba(148,163,184,0.5), transparent);
   }
   .langs {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px 32px;
   }
   .lang-row {
     display: flex;
     align-items: baseline;
-    gap: 14px;
+    gap: 12px;
     font-size: 22px;
     line-height: 1.3;
   }
-  .lang-row .name {
-    font-weight: 700;
-  }
+  .lang-row .name { font-weight: 700; }
   .lang-row .zh {
     font-family: 'Noto Sans SC', sans-serif;
     font-weight: 400;
@@ -113,13 +133,13 @@
     color: #94a3b8;
     letter-spacing: 1px;
   }
-  .lang-en    { font-family: 'Inter', sans-serif; }
-  .lang-es    { font-family: 'Inter', sans-serif; }
-  .lang-fr    { font-family: 'Inter', sans-serif; }
-  .lang-ru    { font-family: 'Inter', sans-serif; }
-  .lang-ja    { font-family: 'Noto Sans JP', 'Inter', sans-serif; }
-  .lang-ko    { font-family: 'Noto Sans KR', 'Inter', sans-serif; }
-  .lang-ar    { font-family: 'Noto Naskh Arabic', 'Inter', sans-serif; direction: rtl; }
+  .lang-en { font-family: 'Inter', sans-serif; }
+  .lang-es { font-family: 'Inter', sans-serif; }
+  .lang-fr { font-family: 'Inter', sans-serif; }
+  .lang-ru { font-family: 'Inter', sans-serif; }
+  .lang-ja { font-family: 'Noto Sans JP', 'Inter', sans-serif; }
+  .lang-ko { font-family: 'Noto Sans KR', 'Inter', sans-serif; }
+  .lang-ar { font-family: 'Noto Naskh Arabic', 'Inter', sans-serif; direction: rtl; }
   .footer {
     margin-top: auto;
     display: flex;
@@ -134,47 +154,88 @@
     color: #cbd5e1;
     font-weight: 700;
   }
-  .badge {
-    display: inline-block;
-    padding: 5px 12px;
-    border: 1px solid rgba(220,38,38,0.5);
-    color: #fca5a5;
-    border-radius: 999px;
-    font-size: 12px;
-    letter-spacing: 2px;
+  /* Right visual block */
+  .visual {
+    width: 380px;
+    height: 380px;
+    border-radius: 32px;
+    background:
+      radial-gradient(circle at 30% 25%, rgba(220,38,38,0.18) 0%, transparent 65%),
+      linear-gradient(135deg, rgba(220,38,38,0.08), rgba(59,130,246,0.04));
+    border: 1px solid rgba(220,38,38,0.25);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .visual .big-num {
+    font-family: 'Inter', sans-serif;
+    font-size: 230px;
+    font-weight: 900;
+    line-height: 0.9;
+    color: #dc2626;
+    letter-spacing: -10px;
+    text-shadow: 0 0 80px rgba(220,38,38,0.35);
+  }
+  .visual .label {
+    margin-top: 18px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 6px;
+    color: #94a3b8;
+  }
+  .visual .cn {
+    margin-top: 8px;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: #f8fafc;
+    letter-spacing: 8px;
   }
 </style>
 </head>
 <body>
 <div class="cover">
-  <div class="top-line">
-    <span class="label">MULTILINGUAL · 7 LANGUAGES</span>
-    <span class="badge">2026</span>
+  <div class="left">
+    <div class="top-line">
+      <span class="label">MULTILINGUAL · 7 LANGUAGES</span>
+      <span class="badge">2026</span>
+    </div>
+
+    <h1 class="title">海外旅游日常用语</h1>
+
+    <div class="num-row">
+      <span class="num">150</span>
+      <span class="num-unit">句</span>
+      <span class="num-sub">DAILY PHRASES</span>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="langs">
+      <div class="lang-row"><span class="name lang-en">English</span><span class="zh">英 语</span></div>
+      <div class="lang-row"><span class="name lang-es">Español</span><span class="zh">西 语</span></div>
+      <div class="lang-row"><span class="name lang-fr">Français</span><span class="zh">法 语</span></div>
+      <div class="lang-row"><span class="name lang-ru">Русский</span><span class="zh">俄 语</span></div>
+      <div class="lang-row"><span class="name lang-ja">日本語</span><span class="zh">日 语</span></div>
+      <div class="lang-row"><span class="name lang-ko">한국어</span><span class="zh">韩 语</span></div>
+      <div class="lang-row"><span class="name lang-ar">العربية</span><span class="zh">阿 语</span></div>
+    </div>
+
+    <div class="footer">
+      <span class="author">北 极 虎</span>
+      <span>chengjian19740507-afk.github.io/waiyu-100-app/</span>
+    </div>
   </div>
 
-  <h1 class="title">海外旅游日常用语</h1>
-
-  <div class="num-row">
-    <span class="num">150</span>
-    <span class="num-unit">句</span>
-    <span class="num-sub">DAILY PHRASES</span>
-  </div>
-
-  <div class="divider"></div>
-
-  <div class="langs">
-    <div class="lang-row"><span class="name lang-en">English</span><span class="zh">英 语</span></div>
-    <div class="lang-row"><span class="name lang-es">Español</span><span class="zh">西 语</span></div>
-    <div class="lang-row"><span class="name lang-fr">Français</span><span class="zh">法 语</span></div>
-    <div class="lang-row"><span class="name lang-ru">Русский</span><span class="zh">俄 语</span></div>
-    <div class="lang-row"><span class="name lang-ja">日本語</span><span class="zh">日 语</span></div>
-    <div class="lang-row"><span class="name lang-ko">한국어</span><span class="zh">韩 语</span></div>
-    <div class="lang-row"><span class="name lang-ar">العربية</span><span class="zh">阿 语</span></div>
-  </div>
-
-  <div class="footer">
-    <span class="author">北 极 虎</span>
-    <span>chengjian19740507-afk.github.io</span>
+  <div class="right">
+    <div class="visual">
+      <div class="big-num">150</div>
+      <div class="label">DAILY PHRASES</div>
+      <div class="cn">外 语</div>
+    </div>
   </div>
 </div>
 </body>
