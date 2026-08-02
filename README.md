@@ -59,10 +59,11 @@ python3 -m http.server 8000
 
 ## 赞赏支持
 
-打开页面底部的 `tip-card.png`，微信扫一扫即可支持北极虎持续创作。
+打开页面底部的双码卡片（横排），任选一种扫码即可支持北极虎持续创作。
 
-- Buy Me a Coffee：https://www.buymeacoffee.com/jimmaa
-- 微信赞赏码：见页面底部 tip-card.png
+- 微信赞赏码：见页面底部 `tip-card.png`
+- 支付宝收款码：见页面底部 `tip-alipay.png`
+- Buy Me a Coffee：https://www.buymeacoffee.com/jimmaa （待替换为正式链接）
 
 ## 关联项目
 
