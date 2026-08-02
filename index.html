@@ -15,10 +15,15 @@
 <header class="top">
   <div class="title">
     <h1 id="app-title">海外旅游日常用语150句</h1>
-    <p class="subtitle" id="app-subtitle">英/西/法/俄/日/韩 6 语种切换</p>
+    <p class="subtitle" id="app-subtitle">英/西/法/俄/日/韩/阿 7 语种切换</p>
   </div>
   <div class="stats" id="stats"></div>
 </header>
+
+<div class="search-box">
+  <input type="search" id="search" placeholder="🔍 搜索单词 · 中文 / 外语 / 罗马字" autocomplete="off" aria-label="搜索">
+  <button id="search-clear" aria-label="清除搜索" hidden>×</button>
+</div>
 
 <nav class="langs" id="langs" aria-label="语种切换">
   <button class="lang-chip active" data-lang="en">English 英语</button>
@@ -27,6 +32,7 @@
   <button class="lang-chip" data-lang="ru">Русский 俄语</button>
   <button class="lang-chip" data-lang="ja">日本語 日语</button>
   <button class="lang-chip" data-lang="ko">한국어 韩语</button>
+  <button class="lang-chip" data-lang="ar">العربية 阿语</button>
 </nav>
 
 <nav class="cats" id="cats" aria-label="类别"></nav>

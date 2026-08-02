@@ -210,6 +210,53 @@ html, body {
   .cards { padding: 10px 12px 60px; }
 }
 
+/* ============ 搜索框 ============ */
+.search-box {
+  position: relative;
+  padding: 12px 16px 0;
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-2) 100%);
+}
+#search {
+  width: 100%;
+  padding: 10px 36px 10px 14px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--fg);
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+  transition: all 0.15s;
+  -webkit-appearance: none;
+  appearance: none;
+}
+#search::placeholder { color: var(--fg-dim); }
+#search:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
+}
+#search::-webkit-search-cancel-button { display: none; }
+#search-clear {
+  position: absolute;
+  right: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 22px;
+  height: 22px;
+  border: none;
+  border-radius: 50%;
+  background: var(--fg-dim);
+  color: var(--bg);
+  font-size: 14px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+#search-clear:hover { background: var(--accent); }
+
 /* ============ 多语种切换器 ============ */
 .langs {
   display: flex;
@@ -256,6 +303,17 @@ html, body {
 .text[lang="ru"] {
   font-family: "Noto Sans", -apple-system, sans-serif;
   font-size: 21px;
+}
+.text[lang="ar"] {
+  font-family: "Noto Naskh Arabic", "Noto Sans Arabic", "Geeza Pro", "Geeza", serif;
+  font-size: 24px;
+  text-align: right;
+  line-height: 1.5;
+  color: #fef3c7;
+}
+.text[dir="rtl"] {
+  text-align: right;
+  direction: rtl;
 }
 .romanization {
   font-size: 13px;
@@ -346,4 +404,6 @@ html, body {
 @media (max-width: 380px) {
   .text { font-size: 19px; }
   .tip-btn { padding: 8px 14px; font-size: 13px; }
+  .text[lang="ar"] { font-size: 21px; }
+  #search { font-size: 13px; padding: 9px 32px 9px 12px; }
 }

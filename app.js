@@ -6,7 +6,11 @@
   const statsEl = document.getElementById('stats');
   const titleEl = document.getElementById('app-title');
   const subtitleEl = document.getElementById('app-subtitle');
+  const searchEl = document.getElementById('search');
+  const searchClearEl = document.getElementById('search-clear');
   const tpl = document.getElementById('card-tpl');
+
+  const RTL_LANGS = new Set(['ar']);
 
   const LANGS = {
     en: { label: '英语海外旅游150句', sub: '文字+语音 · 英语母语发音 · 海外旅游日常 150 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
@@ -15,6 +19,7 @@
     ru: { label: '俄语海外旅游150句', sub: '文字+语音 · 俄语母语发音 · 海外旅游日常 150 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
     ja: { label: '日语海外旅游150句', sub: '文字+罗马字 · 日语假名发音 · 海外旅游日常 150 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
     ko: { label: '韩语海外旅游150句', sub: '文字+罗马字 · 韩语母语发音 · 海外旅游日常 150 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
+    ar: { label: '阿语海外旅游150句', sub: '文字+罗马字 · 阿语母语发音 · 海外旅游日常 150 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
   };
 
   const catDefs = [
@@ -44,8 +49,17 @@
   let currentLang = localStorage.getItem('waiyu-lang') || 'en';
   let allData = [];
   let currentCat = 'all';
+  let currentSearch = '';
   let currentUtter = null;
   let currentCard = null;
+
+  function matchesSearch(s, q) {
+    if (!q) return true;
+    const t = (s.text || '').toLowerCase();
+    const r = (s.romanization || '').toLowerCase();
+    const c = (s.translation || '').toLowerCase();
+    return t.includes(q) || r.includes(q) || c.includes(q);
+  }
 
   async function load(lang) {
     const cfg = LANGS[lang];
@@ -86,11 +100,18 @@
     const cfg = LANGS[currentLang];
     titleEl.textContent = `${cfg.label}`;
     subtitleEl.textContent = cfg.sub;
-    const list = (currentCat === 'all' ? [...allData] : allData.filter(s => s.category === currentCat))
-      .sort((a, b) => (CAT_ORDER[a.category] - CAT_ORDER[b.category]) || (a.id - b.id));
+    let list = currentCat === 'all' ? [...allData] : allData.filter(s => s.category === currentCat);
+    if (currentSearch) list = list.filter(s => matchesSearch(s, currentSearch));
+    list.sort((a, b) => (CAT_ORDER[a.category] - CAT_ORDER[b.category]) || (a.id - b.id));
+    if (list.length === 0 && currentSearch) {
+      cardsEl.innerHTML = `<div style="padding:48px 20px;text-align:center;color:#94a3b8">未找到匹配 “<strong style="color:#475569">${currentSearch}</strong>” 的句子</div>`;
+      statsEl.textContent = `共 ${allData.length} 句 · 匹配 0`;
+      return;
+    }
     cardsEl.innerHTML = '';
     list.forEach(s => cardsEl.appendChild(makeCard(s, cfg)));
-    statsEl.textContent = `共 ${allData.length} 句 · 当前 ${list.length}`;
+    const matchNote = currentSearch ? ` · 匹配 ${list.length}` : '';
+    statsEl.textContent = `共 ${allData.length} 句 · 当前 ${list.length}${matchNote}`;
   }
 
   function makeCard(s, cfg) {
@@ -99,7 +120,7 @@
     node.querySelector('.num').textContent = String(s.id).padStart(3, '0');
     const textEl = node.querySelector('.text');
     textEl.textContent = s.text;
-    textEl.setAttribute('dir', 'ltr');
+    textEl.setAttribute('dir', RTL_LANGS.has(currentLang) ? 'rtl' : 'ltr');
     textEl.setAttribute('lang', currentLang);
     node.querySelector('.romanization').textContent = s.romanization;
     node.querySelector('.translation').textContent = s.translation;
@@ -168,6 +189,19 @@
       const first = cardsEl.querySelector('.card');
       if (first) first.click();
     }
+  });
+
+  searchEl.addEventListener('input', e => {
+    currentSearch = e.target.value.trim().toLowerCase();
+    searchClearEl.hidden = !currentSearch;
+    render();
+  });
+  searchClearEl.addEventListener('click', () => {
+    searchEl.value = '';
+    currentSearch = '';
+    searchClearEl.hidden = true;
+    render();
+    searchEl.focus();
   });
 
   langsEl.querySelectorAll('.lang-chip').forEach(b => {
