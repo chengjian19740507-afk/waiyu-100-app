@@ -111,6 +111,192 @@ html, body {
 }
 .voice-btn:active { transform: scale(0.96); }
 
+/* ============ 付费门控弹窗 ============ */
+.paywall-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+.paywall-modal[hidden] { display: none; }
+.paywall-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(15,23,42,0.85);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.paywall-modal-card {
+  position: relative;
+  background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 26px 20px 22px;
+  max-width: 440px;
+  width: 100%;
+  max-height: 92vh;
+  overflow-y: auto;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.55);
+  animation: tip-modal-in 0.2s ease-out;
+}
+.paywall-modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: var(--bg-2);
+  color: var(--fg-dim);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+.paywall-modal-close:hover { color: var(--fg); background: var(--border); }
+.paywall-modal-card h2 {
+  margin: 0 0 12px;
+  font-size: 19px;
+  color: var(--fg);
+  text-align: center;
+  font-weight: 700;
+}
+.paywall-desc {
+  margin: 0 0 18px;
+  font-size: 13px;
+  color: var(--fg-dim);
+  line-height: 1.65;
+  text-align: center;
+}
+.paywall-desc strong { color: var(--accent); font-weight: 600; }
+.paywall-tip-section, .paywall-unlock-section {
+  margin-bottom: 16px;
+  padding: 14px;
+  background: rgba(30,41,59,0.45);
+  border-radius: 12px;
+  border: 1px solid rgba(148,163,184,0.1);
+}
+.paywall-tip-title {
+  margin: 0 0 12px;
+  font-size: 13px;
+  color: var(--accent);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.paywall-tip-codes {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+.paywall-tip-code {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.paywall-tip-code img {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  border-radius: 8px;
+  background: white;
+  padding: 6px;
+}
+.paywall-tip-code p {
+  margin: 0;
+  font-size: 11px;
+  color: var(--fg-dim);
+}
+.paywall-tip-btn {
+  display: block;
+  text-align: center;
+  padding: 9px 16px;
+  margin: 6px 0;
+  background: #FFDD00;
+  color: #0f172a;
+  font-weight: 700;
+  font-size: 13px;
+  text-decoration: none;
+  border-radius: 999px;
+  transition: all 0.15s;
+}
+.paywall-tip-btn:hover { background: #FFED4E; transform: translateY(-1px); }
+.paywall-tip-hint {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: var(--fg-dim);
+  text-align: center;
+  line-height: 1.5;
+}
+.paywall-tip-hint strong { color: #fca5a5; font-weight: 600; }
+.paywall-unlock-section input {
+  width: 100%;
+  padding: 10px 12px;
+  font-family: inherit;
+  font-size: 14px;
+  color: var(--fg);
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  outline: none;
+  margin-bottom: 8px;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.paywall-unlock-section input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(56,189,248,0.2);
+}
+.paywall-unlock-section button {
+  width: 100%;
+  padding: 10px 16px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  color: #0f172a;
+  background: linear-gradient(135deg, #38bdf8 0%, #0ea5e9 100%);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.paywall-unlock-section button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(56,189,248,0.35);
+}
+.paywall-unlock-section button:active { transform: translateY(0); }
+.paywall-error {
+  margin: 8px 0 0;
+  padding: 8px 12px;
+  font-size: 13px;
+  color: #fca5a5;
+  background: rgba(220,38,38,0.15);
+  border-radius: 6px;
+  text-align: center;
+}
+.paywall-success {
+  margin: 8px 0 0;
+  padding: 8px 12px;
+  font-size: 13px;
+  color: #86efac;
+  background: rgba(34,197,94,0.15);
+  border-radius: 6px;
+  text-align: center;
+}
+@media (max-width: 380px) {
+  .paywall-modal-card { padding: 22px 16px 18px; }
+  .paywall-tip-codes { flex-direction: column; gap: 10px; }
+}
+
 /* ============ 声音设置弹窗 ============ */
 .voice-modal {
   position: fixed;
@@ -258,6 +444,21 @@ html, body {
   color: #0f172a;
   border-color: var(--accent);
   font-weight: 600;
+}
+.chip.locked {
+  border-style: dashed;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+.chip.locked:hover {
+  background: rgba(220,38,38,0.08);
+  border-color: rgba(220,38,38,0.4);
+  opacity: 0.95;
+}
+.chip .lock-icon {
+  font-size: 10px;
+  margin-left: 4px;
+  opacity: 0.6;
 }
 
 .cards {

@@ -121,6 +121,40 @@
 <button class="tip-fab" id="tip-fab" aria-label="支持开发者" hidden>☕</button>
 
 <!-- 打赏弹窗 -->
+<!-- 付费门控弹窗 -->
+<div class="paywall-modal" id="paywall-modal" hidden role="dialog" aria-modal="true" aria-labelledby="paywall-title">
+  <div class="paywall-modal-backdrop" data-close></div>
+  <div class="paywall-modal-card">
+    <button class="paywall-modal-close" aria-label="关闭" data-close>×</button>
+    <h2 id="paywall-title">🔒 解锁全部内容</h2>
+    <p class="paywall-desc">本应用由 <strong>北极虎</strong> 独立维护。免费仅 <strong>问候 + 自我介绍</strong> 两类（共 20 句），其他 <strong>15 类</strong> 共 140 句需要打赏后解锁。</p>
+
+    <div class="paywall-tip-section">
+      <p class="paywall-tip-title">打赏方式（任选其一）</p>
+      <div class="paywall-tip-codes">
+        <div class="paywall-tip-code">
+          <img src="tip-card.png" alt="微信赞赏码" loading="lazy" />
+          <p>↓ 微信扫一扫</p>
+        </div>
+        <div class="paywall-tip-code">
+          <img src="tip-alipay.png" alt="支付宝收款码" loading="lazy" />
+          <p>↓ 支付宝扫一扫</p>
+        </div>
+      </div>
+      <a class="paywall-tip-btn" href="https://www.buymeacoffee.com/jimmaa" target="_blank" rel="noopener">☕ Buy Me a Coffee（国际信用卡）</a>
+      <p class="paywall-tip-hint">打赏后请微信联系 <strong>北极虎</strong> 索取解锁码（无期限）</p>
+    </div>
+
+    <div class="paywall-unlock-section">
+      <p class="paywall-tip-title">输入解锁码</p>
+      <input type="text" id="paywall-code" placeholder="例如 waiyu-paid-2026" autocomplete="off" spellcheck="false" />
+      <button id="paywall-unlock-btn">解锁</button>
+      <p id="paywall-error" class="paywall-error" hidden></p>
+      <p id="paywall-success" class="paywall-success" hidden></p>
+    </div>
+  </div>
+</div>
+
 <!-- 声音设置弹窗 -->
 <div class="voice-modal" id="voice-modal" hidden role="dialog" aria-modal="true" aria-labelledby="voice-modal-title">
   <div class="voice-modal-backdrop" data-close></div>

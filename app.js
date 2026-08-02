@@ -60,6 +60,25 @@
     ar: { label: '阿语海外旅游150句', sub: '文字+罗马字 · 阿语母语发音 · 海外旅游日常 150 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
   };
 
+  // ============ 付费门控 ============
+  // 免费仅问候 + 自我介绍两类，其他 15 类需打赏后解锁
+  const FREE_CATS = new Set(['greetings', 'intro']);
+  const UNLOCK_HASH = 'd99cb9c36b1c6f7fd26edad8308d002fbd1a6b71db6b74d5b71cc3f8b5908eb4';
+
+  async function sha256(text) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function isUnlocked() {
+    return localStorage.getItem('paid') === '1';
+  }
+
+  async function tryUnlock(code) {
+    const hash = await sha256(code.trim());
+    return hash === UNLOCK_HASH;
+  }
+
   const catDefs = [
     { key: 'all', zh: '全部' },
     { key: 'greetings', zh: '问候' },
@@ -116,17 +135,91 @@
 
   function renderCats() {
     catsEl.innerHTML = '';
+    const unlocked = isUnlocked();
     for (const cat of catDefs) {
       const btn = document.createElement('button');
-      btn.className = 'chip' + (cat.key === 'all' ? ' active' : '');
-      btn.textContent = cat.zh;
+      const isFree = FREE_CATS.has(cat.key);
+      const locked = !unlocked && !isFree && cat.key !== 'all';
+      btn.className = 'chip'
+        + (cat.key === currentCat ? ' active' : '')
+        + (locked ? ' locked' : '');
+      btn.innerHTML = cat.zh + (locked ? ' <span class="lock-icon">🔒</span>' : '');
       btn.dataset.cat = cat.key;
-      btn.addEventListener('click', () => filter(cat.key));
+      btn.addEventListener('click', () => {
+        if (locked) {
+          showPaywall();
+        } else {
+          filter(cat.key);
+        }
+      });
       catsEl.appendChild(btn);
     }
   }
 
+  // ============ 付费弹窗 ============
+  const paywallModal = document.getElementById('paywall-modal');
+  const paywallCodeEl = document.getElementById('paywall-code');
+  const paywallErrorEl = document.getElementById('paywall-error');
+  const paywallSuccessEl = document.getElementById('paywall-success');
+
+  function showPaywall() {
+    paywallCodeEl.value = '';
+    paywallErrorEl.hidden = true;
+    paywallSuccessEl.hidden = true;
+    paywallModal.hidden = false;
+    setTimeout(() => paywallCodeEl.focus(), 100);
+  }
+
+  function closePaywall() {
+    paywallModal.hidden = true;
+  }
+
+  async function handleUnlock() {
+    const code = paywallCodeEl.value;
+    if (!code) {
+      paywallErrorEl.textContent = '请输入解锁码';
+      paywallErrorEl.hidden = false;
+      return;
+    }
+    const ok = await tryUnlock(code);
+    if (ok) {
+      localStorage.setItem('paid', '1');
+      paywallSuccessEl.textContent = '✅ 解锁成功！全部内容已开放';
+      paywallSuccessEl.hidden = false;
+      setTimeout(() => {
+        closePaywall();
+        renderCats();
+        filter('all');
+      }, 1200);
+    } else {
+      paywallErrorEl.textContent = '解锁码错误，请检查后重试';
+      paywallErrorEl.hidden = false;
+    }
+  }
+
+  if (paywallModal) {
+    document.getElementById('paywall-unlock-btn').addEventListener('click', handleUnlock);
+    paywallCodeEl.addEventListener('keydown', e => {
+      if (e.key === 'Enter') handleUnlock();
+    });
+    paywallModal.querySelectorAll('[data-close]').forEach(el => {
+      el.addEventListener('click', closePaywall);
+    });
+  }
+
   function filter(cat) {
+    if (cat === 'all' && !isUnlocked()) {
+      // 未解锁："全部" 仅显示免费内容
+      const free = allData.filter(s => FREE_CATS.has(s.category));
+      currentCat = 'all';
+      render(free);
+      return;
+    }
+    currentCat = cat;
+    render(cat === 'all' ? allData : allData.filter(s => s.category === cat));
+  }
+
+  function _filterOriginal(cat) {
     currentCat = cat;
     document.querySelectorAll('.chip').forEach(c => {
       c.classList.toggle('active', c.dataset.cat === cat);
