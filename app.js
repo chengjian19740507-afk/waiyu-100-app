@@ -1,4 +1,4 @@
-// 外语日常生活100句 · 4 语种
+// 外语日常生活150句 · 4 语种
 (async () => {
   const langsEl = document.getElementById('langs');
   const catsEl = document.getElementById('cats');
@@ -9,16 +9,20 @@
   const tpl = document.getElementById('card-tpl');
 
   const LANGS = {
-    en: { label: '英语日常生活用语', sub: '文字+语音 · 英语母语发音 · 初学者日常 100 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
-    es: { label: '西语日常生活用语', sub: '文字+语音 · 西语母语发音 · 初学者日常 100 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
-    fr: { label: '法语日常生活用语', sub: '文字+语音 · 法语母语发音 · 初学者日常 100 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
-    ru: { label: '俄语日常生活用语', sub: '文字+语音 · 俄语母语发音 · 初学者日常 100 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    en: { label: '英语日常生活150句', sub: '文字+语音 · 英语母语发音 · 初学者日常 150 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
+    es: { label: '西语日常生活150句', sub: '文字+语音 · 西语母语发音 · 初学者日常 150 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
+    fr: { label: '法语日常生活150句', sub: '文字+语音 · 法语母语发音 · 初学者日常 150 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
+    ru: { label: '俄语日常生活150句', sub: '文字+语音 · 俄语母语发音 · 初学者日常 150 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
   };
 
   const catDefs = [
     { key: 'all', zh: '全部' },
     { key: 'greetings', zh: '问候' },
     { key: 'intro', zh: '自我介绍' },
+    { key: 'airport', zh: '机场海关' },
+    { key: 'hotel', zh: '宾馆入住' },
+    { key: 'visa', zh: '签证类型' },
+    { key: 'frontdesk', zh: '前台常用' },
     { key: 'food', zh: '饮食' },
     { key: 'transport', zh: '交通' },
     { key: 'shopping', zh: '购物' },
@@ -27,11 +31,12 @@
     { key: 'numbers', zh: '数字' },
     { key: 'family', zh: '家庭' },
     { key: 'common', zh: '常用' },
-    { key: 'airport', zh: '机场海关' },
-    { key: 'hotel', zh: '宾馆入住' },
-    { key: 'visa', zh: '签证类型' },
-    { key: 'frontdesk', zh: '前台常用' },
+    { key: 'restaurant', zh: '餐厅' },
+    { key: 'medical', zh: '医疗' },
   ];
+
+  const CAT_ORDER = {};
+  catDefs.forEach((c, i) => CAT_ORDER[c.key] = i);
 
   let currentLang = localStorage.getItem('waiyu-lang') || 'en';
   let allData = [];
@@ -78,7 +83,8 @@
     const cfg = LANGS[currentLang];
     titleEl.textContent = `${cfg.label}`;
     subtitleEl.textContent = cfg.sub;
-    const list = currentCat === 'all' ? allData : allData.filter(s => s.category === currentCat);
+    const list = (currentCat === 'all' ? [...allData] : allData.filter(s => s.category === currentCat))
+      .sort((a, b) => (CAT_ORDER[a.category] - CAT_ORDER[b.category]) || (a.id - b.id));
     cardsEl.innerHTML = '';
     list.forEach(s => cardsEl.appendChild(makeCard(s, cfg)));
     statsEl.textContent = `共 ${allData.length} 句 · 当前 ${list.length}`;
