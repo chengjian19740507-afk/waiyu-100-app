@@ -198,7 +198,14 @@
     }
 
     const voices = await ensureVoices();
-    const voice = pickBestVoice(voices, cfg.lang);
+    // 优先用用户保存的 voice
+    let voice = null;
+    const savedName = localStorage.getItem('voice-' + currentLang);
+    if (savedName) {
+      voice = voices.find(v => v.name === savedName);
+      if (!voice) console.warn(`保存的 voice "${savedName}" 在当前浏览器不可用，回退到自动选择`);
+    }
+    if (!voice) voice = pickBestVoice(voices, cfg.lang);
 
     const utter = new SpeechSynthesisUtterance(s.text);
     utter.lang = cfg.lang;
@@ -227,6 +234,101 @@
 
     window.speechSynthesis.speak(utter);
   }
+
+  // ============ 声音设置弹窗 ============
+  const voiceBtn = document.getElementById('voice-btn');
+  const voiceModal = document.getElementById('voice-modal');
+  const voiceModalBody = document.getElementById('voice-modal-body');
+
+  async function openVoiceModal() {
+    const voices = await ensureVoices();
+    voiceModalBody.innerHTML = '';
+
+    for (const [key, cfg] of Object.entries(LANGS)) {
+      const lang = cfg.lang.toLowerCase().split('-')[0];
+      const matching = voices.filter(v => v.lang.toLowerCase().startsWith(lang));
+      const saved = localStorage.getItem('voice-' + key);
+
+      const group = document.createElement('div');
+      group.className = 'voice-group';
+
+      const h3 = document.createElement('h3');
+      const langZh = cfg.label.split('海外')[0];
+      h3.textContent = key.toUpperCase() + ' · ' + langZh;
+      group.appendChild(h3);
+
+      if (!matching.length) {
+        const empty = document.createElement('div');
+        empty.className = 'voice-empty';
+        empty.textContent = '当前浏览器无 ' + langZh + ' 语 voice';
+        group.appendChild(empty);
+        voiceModalBody.appendChild(group);
+        continue;
+      }
+
+      const select = document.createElement('select');
+      select.dataset.langKey = key;
+
+      const autoOpt = document.createElement('option');
+      autoOpt.value = '__auto__';
+      autoOpt.textContent = '🔄 自动（推荐）';
+      select.appendChild(autoOpt);
+
+      matching.forEach(v => {
+        const opt = document.createElement('option');
+        opt.value = v.name;
+        opt.textContent = v.name + ' (' + v.lang + ')';
+        if (saved && v.name === saved) opt.selected = true;
+        select.appendChild(opt);
+      });
+
+      if (!saved) autoOpt.selected = true;
+
+      select.addEventListener('change', (e) => {
+        const v = e.target.value;
+        if (v === '__auto__') {
+          localStorage.removeItem('voice-' + key);
+        } else {
+          localStorage.setItem('voice-' + key, v);
+        }
+        // 试听（读语种名）
+        try {
+          window.speechSynthesis.cancel();
+          const u = new SpeechSynthesisUtterance(langZh);
+          u.lang = cfg.lang;
+          const matched = v === '__auto__'
+            ? pickBestVoice(voices, cfg.lang)
+            : voices.find(voice => voice.name === v);
+          if (matched) {
+            u.voice = matched;
+            u.lang = matched.lang;
+          }
+          u.rate = 0.9;
+          window.speechSynthesis.speak(u);
+        } catch (err) {
+          console.warn('试听失败:', err);
+        }
+      });
+
+      group.appendChild(select);
+      voiceModalBody.appendChild(group);
+    }
+
+    voiceModal.hidden = false;
+  }
+
+  function closeVoiceModal() {
+    voiceModal.hidden = true;
+    window.speechSynthesis.cancel();
+  }
+
+  if (voiceBtn) voiceBtn.addEventListener('click', openVoiceModal);
+  voiceModal.querySelectorAll('[data-close]').forEach(el => {
+    el.addEventListener('click', closeVoiceModal);
+  });
+  document.addEventListener('keydown', e => {
+    if (e.code === 'Escape' && !voiceModal.hidden) closeVoiceModal();
+  });
 
   for (const btn of langsEl.querySelectorAll('.lang-chip')) {
     btn.addEventListener('click', async () => {
