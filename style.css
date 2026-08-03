@@ -50,6 +50,56 @@ html, body {
   line-height: 1.5;
 }
 
+/* ============ 首页软件介绍（首次显示 + 可关闭）============ */
+.hero-intro {
+  margin: 0 auto 18px;
+  max-width: 580px;
+  padding: 14px 16px 12px;
+  background: rgba(30, 41, 59, 0.55);
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  border-radius: 12px;
+  text-align: left;
+  animation: hero-intro-in 0.35s ease-out;
+}
+.hero-intro-text {
+  margin: 0 0 10px;
+  font-family: 'Noto Sans SC', -apple-system, sans-serif;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--fg);
+  letter-spacing: 0.3px;
+}
+.hero-intro-text strong {
+  color: var(--accent);
+  font-weight: 600;
+}
+.hero-intro-hide {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'Noto Sans SC', -apple-system, sans-serif;
+  font-size: 12px;
+  color: var(--fg-dim);
+  cursor: pointer;
+  user-select: none;
+}
+.hero-intro-hide input {
+  width: 14px;
+  height: 14px;
+  accent-color: var(--accent);
+  cursor: pointer;
+  margin: 0;
+}
+.hero-intro[hidden] { display: none; }
+@keyframes hero-intro-in {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@media (max-width: 380px) {
+  .hero-intro { padding: 12px 14px 10px; }
+  .hero-intro-text { font-size: 12px; }
+}
+
 .hero-langs {
   list-style: none;
   padding: 0;

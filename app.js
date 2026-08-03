@@ -12,6 +12,29 @@
 
   const RTL_LANGS = new Set(['ar']);
 
+  // ============ 首页软件介绍（首次显示 · 可关闭并记住）============
+  const heroIntroEl = document.getElementById('hero-intro');
+  const heroIntroHideEl = document.getElementById('hero-intro-hide');
+  const HERO_INTRO_KEY = 'waiyu-hero-intro-hidden-v1';
+  if (heroIntroEl) {
+    if (localStorage.getItem(HERO_INTRO_KEY) === '1') {
+      heroIntroEl.hidden = true;
+    } else {
+      heroIntroEl.hidden = false;
+    }
+    if (heroIntroHideEl) {
+      heroIntroHideEl.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          localStorage.setItem(HERO_INTRO_KEY, '1');
+          heroIntroEl.hidden = true;
+        } else {
+          localStorage.removeItem(HERO_INTRO_KEY);
+          heroIntroEl.hidden = false;
+        }
+      });
+    }
+  }
+
   // ============ TTS 声音管理 ============
   let _voicesCache = null;
   function ensureVoices() {
