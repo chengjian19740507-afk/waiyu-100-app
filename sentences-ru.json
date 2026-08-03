@@ -960,54 +960,6 @@
     "translation": "请打扫我的房间"
   },
   {
-    "id": 121,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Я в командировке",
-    "romanization": "Ya v komandirovke",
-    "translation": "我来出差"
-  },
-  {
-    "id": 122,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "У меня деловая виза",
-    "romanization": "U menya delovaya viza",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 123,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Я приехал работать",
-    "romanization": "Ya priyekhal rabotat'",
-    "translation": "我来工作"
-  },
-  {
-    "id": 124,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Я здесь учусь",
-    "romanization": "Ya zdes' uchus'",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 125,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "У меня студенческая виза",
-    "romanization": "U menya studencheskaya viza",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 126,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Моя цель - учёба",
-    "romanization": "Moya tsel' - uchyoba",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 127,
     "category": "frontdesk",
     "category_zh": "前台常用",
@@ -1278,5 +1230,213 @@
     "text": "Какой номер экстренной службы?",
     "romanization": "Kakoy nomer ekstrennoy sluzhby?",
     "translation": "紧急电话是多少？"
+  },
+  {
+    "id": 161,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Очень приятно познакомиться",
+    "romanization": "Ochen' priyatno poznakomit'sya",
+    "translation": "您好，很高兴认识您"
+  },
+  {
+    "id": 162,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Вот моя визитная карточка",
+    "romanization": "Vot moya vizitnaya kartochka",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 163,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Можно добавить вас в WeChat?",
+    "romanization": "Mozhno dobavit' vas v WeChat",
+    "translation": "我可以加您的微信吗"
+  },
+  {
+    "id": 164,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Где зал для совещаний?",
+    "romanization": "Gde zal dlya soveshchaniy",
+    "translation": "请问会议在哪里"
+  },
+  {
+    "id": 165,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Во сколько начинается совещание?",
+    "romanization": "Vo skol'ko nachinayetsya soveshchaniye",
+    "translation": "会议几点开始"
+  },
+  {
+    "id": 166,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Подождите, я уточню",
+    "romanization": "Podozhdite, ya utochnyu",
+    "translation": "请稍等，我查一下"
+  },
+  {
+    "id": 167,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Где туалет?",
+    "romanization": "Gde tualet",
+    "translation": "请问洗手间在哪里"
+  },
+  {
+    "id": 168,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Можно взять вашу ручку?",
+    "romanization": "Mozhno vzyat' vashu ruchku",
+    "translation": "我可以借用一下您的笔吗"
+  },
+  {
+    "id": 169,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Пришлите мне файл, пожалуйста",
+    "romanization": "Prishlite mne fayl pozhaluysta",
+    "translation": "请把文件发给我"
+  },
+  {
+    "id": 170,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Когда срок сдачи?",
+    "romanization": "Kogda sdachi",
+    "translation": "这个项目什么时候截止"
+  },
+  {
+    "id": 171,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Можем перенести обсуждение?",
+    "romanization": "Mozhem perenesti obsuzhdeniye",
+    "translation": "我们可以另约时间讨论吗"
+  },
+  {
+    "id": 172,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Я согласен с этим предложением",
+    "romanization": "Ya soglasen s etim predlozheniyem",
+    "translation": "我同意这个方案"
+  },
+  {
+    "id": 173,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Большое спасибо за помощь",
+    "romanization": "Bol'shoye spasibo za pomoshch'",
+    "translation": "非常感谢您的帮助"
+  },
+  {
+    "id": 174,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Простите, как вас зовут?",
+    "romanization": "Prostite kak vas zovut",
+    "translation": "您好，请问您贵姓"
+  },
+  {
+    "id": 175,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Рад познакомиться",
+    "romanization": "Rad poznakomitsya",
+    "translation": "初次见面，请多关照"
+  },
+  {
+    "id": 176,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Я много о вас слышал",
+    "romanization": "Ya mnogo o vas slyshal",
+    "translation": "久仰大名"
+  },
+  {
+    "id": 177,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Вы очень любезны",
+    "romanization": "Vy ochen' lyubezny",
+    "translation": "您太客气了"
+  },
+  {
+    "id": 178,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Это небольшой подарок, примите",
+    "romanization": "Eto nebol'shoy podarok primite",
+    "translation": "这是我的一点心意，请收下"
+  },
+  {
+    "id": 179,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "С днём рождения!",
+    "romanization": "S dnyom rozhdeniya",
+    "translation": "祝您生日快乐"
+  },
+  {
+    "id": 180,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "С праздником!",
+    "romanization": "S prazdnikom",
+    "translation": "节日快乐"
+  },
+  {
+    "id": 181,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Добро пожаловать к нам",
+    "romanization": "Dobro pozhalovat' k nam",
+    "translation": "欢迎来我家做客"
+  },
+  {
+    "id": 182,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Мне пора идти",
+    "romanization": "Mne pora idti",
+    "translation": "我先告辞了"
+  },
+  {
+    "id": 183,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "До новой встречи",
+    "romanization": "Do novoy vstrechi",
+    "translation": "后会有期"
+  },
+  {
+    "id": 184,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Всего доброго",
+    "romanization": "Vsego dobrogo",
+    "translation": "一切顺利"
+  },
+  {
+    "id": 185,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Передайте привет вашей семье",
+    "romanization": "Peredayte privet vashhey sem'ye",
+    "translation": "请代我向您家人问好"
+  },
+  {
+    "id": 186,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Надеюсь увидеться снова",
+    "romanization": "Nadeyus' uvidetsya snova",
+    "translation": "期待下次再见面"
   }
 ]

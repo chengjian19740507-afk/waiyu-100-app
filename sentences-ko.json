@@ -240,54 +240,6 @@
     "translation": "我的行李在哪？"
   },
   {
-    "id": 31,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "출장입니다",
-    "romanization": "Chuljangimnida",
-    "translation": "我来出差"
-  },
-  {
-    "id": 32,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "비즈니스 비자가 있어요",
-    "romanization": "Bijeuniseu bijaga isseoyo",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 33,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "일하러 왔어요",
-    "romanization": "Ilhareo wasseoyo",
-    "translation": "我来工作"
-  },
-  {
-    "id": 34,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "여기서 공부하고 있어요",
-    "romanization": "Yeogiseo gongbuhago isseoyo",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 35,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "학생 비자가 있어요",
-    "romanization": "Hagsaeng bijaga isseoyo",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 36,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "목적은 공부예요",
-    "romanization": "Mokjeong-eun gongbu-yeyo",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 37,
     "category": "hotel",
     "category_zh": "宾馆入住",
@@ -1278,5 +1230,213 @@
     "text": "긴급 전화번호는?",
     "romanization": "Gingeup jeonhwabeonhoneun",
     "translation": "紧急电话是多少？"
+  },
+  {
+    "id": 161,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "반갑습니다",
+    "romanization": "Bangapseumnida",
+    "translation": "您好，很高兴认识您"
+  },
+  {
+    "id": 162,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "제 명함입니다",
+    "romanization": "Je myeonghamimnida",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 163,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "위챗 추가 가능할까요",
+    "romanization": "Wichaet chuga ganeungalkkayo",
+    "translation": "我可以加您的微信吗"
+  },
+  {
+    "id": 164,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "회의실은 어디에 있나요",
+    "romanization": "Hoeeueison eodie inneunya",
+    "translation": "请问会议在哪里"
+  },
+  {
+    "id": 165,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "회의는 몇 시에 시작합니까",
+    "romanization": "Hoeeui myeot ssi sijakhalkkayo",
+    "translation": "会议几点开始"
+  },
+  {
+    "id": 166,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "잠시만요, 확인해 보겠습니다",
+    "romanization": "Jamsimanyo hwaginhae bo겠습니다",
+    "translation": "请稍等，我查一下"
+  },
+  {
+    "id": 167,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "화장실은 어디에 있나요",
+    "romanization": "Hwajangsireun eodie inneunya",
+    "translation": "请问洗手间在哪里"
+  },
+  {
+    "id": 168,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "펜을 빌려도 될까요",
+    "romanization": "Peneul billyeodo doelkka",
+    "translation": "我可以借用一下您的笔吗"
+  },
+  {
+    "id": 169,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "파일을 보내 주세요",
+    "romanization": "Paileul bonae juseyo",
+    "translation": "请把文件发给我"
+  },
+  {
+    "id": 170,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "마감일은 언제입니까",
+    "romanization": "Magamneun eonaemnikka",
+    "translation": "这个项目什么时候截止"
+  },
+  {
+    "id": 171,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "다른 시간에 다시 이야기할 수 있을까요",
+    "romanization": "Daeun sigane dasi iyagihal su isseulkka",
+    "translation": "我们可以另约时间讨论吗"
+  },
+  {
+    "id": 172,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "이 제안에 동의합니다",
+    "romanization": "I jeane donguideulamnida",
+    "translation": "我同意这个方案"
+  },
+  {
+    "id": 173,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "도와주셔서 대단히 감사합니다",
+    "romanization": "Dowojuseoseo daedanhi gamsahabnida",
+    "translation": "非常感谢您的帮助"
+  },
+  {
+    "id": 174,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "실례지만, 성함이 어떻게 되세요?",
+    "romanization": "Silrejiman seonghamie eottaeke doeseyo",
+    "translation": "您好，请问您贵姓"
+  },
+  {
+    "id": 175,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "처음 뵙겠습니다, 잘 부탁드립니다",
+    "romanization": "Cheoeum bwepseumnida jal butakdeulibnida",
+    "translation": "初次见面，请多关照"
+  },
+  {
+    "id": 176,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "당신의 명성은 익히 들었습니다",
+    "romanization": "Dangsinui myeongseongeun ikhi deutseumnida",
+    "translation": "久仰大名"
+  },
+  {
+    "id": 177,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "너무 친절하시네요",
+    "romanization": "Neomu chinjeolhasineyo",
+    "translation": "您太客气了"
+  },
+  {
+    "id": 178,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "작은 선물이지만 받아주세요",
+    "romanization": "Jageun seolmunijiman batadeuseyo",
+    "translation": "这是我的一点心意，请收下"
+  },
+  {
+    "id": 179,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "생일 축하합니다",
+    "romanization": "Saengil chukahabnida",
+    "translation": "祝您生日快乐"
+  },
+  {
+    "id": 180,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "행복한 휴일 되세요",
+    "romanization": "Haengbokhan hyujeul doeseyo",
+    "translation": "节日快乐"
+  },
+  {
+    "id": 181,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "저희 집에 오신 것을 환영합니다",
+    "romanization": "Jeohui jibe osin geoseul hwanyeonghabnida",
+    "translation": "欢迎来我家做客"
+  },
+  {
+    "id": 182,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "먼저 가보겠습니다",
+    "romanization": "Meonjeo gabopseumnida",
+    "translation": "我先告辞了"
+  },
+  {
+    "id": 183,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "다음에 또 뵙겠습니다",
+    "romanization": "Daeume tto bwepseumnida",
+    "translation": "后会有期"
+  },
+  {
+    "id": 184,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "모든 일이 잘 되길 바랍니다",
+    "romanization": "Modeun il-i jal doegil barabnida",
+    "translation": "一切顺利"
+  },
+  {
+    "id": 185,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "가족분들께 안부 전해주세요",
+    "romanization": "Gajokbundeulkke anbu jeonhaejuseyo",
+    "translation": "请代我向您家人问好"
+  },
+  {
+    "id": 186,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "다시 뵐 수 있기를 기대합니다",
+    "romanization": "Dasi bwil su isseulgileul gidahabnida",
+    "translation": "期待下次再见面"
   }
 ]

@@ -872,70 +872,6 @@
     "translation": "航班几点起飞？"
   },
   {
-    "id": 110,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "تَأْشِيرَةُ سِيَاحِيَّةٌ",
-    "romanization": "Tashīrat siyāḥiyyatun",
-    "translation": "旅游签证"
-  },
-  {
-    "id": 111,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "تَأْشِيرَةُ عَمَلٍ",
-    "romanization": "Tashīrat ʿamal",
-    "translation": "工作签证"
-  },
-  {
-    "id": 112,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "تَأْشِيرَةُ دِرَاسَةٍ",
-    "romanization": "Tashīrat dirāsah",
-    "translation": "学习签证"
-  },
-  {
-    "id": 113,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "تَأْشِيرَةُ عَبُورٍ",
-    "romanization": "Tashīrat ʿabūr",
-    "translation": "过境签证"
-  },
-  {
-    "id": 114,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "كَمْ مُدَّةُ التَّأْشِيرَةِ؟",
-    "romanization": "Kam muddat at-tashīra?",
-    "translation": "签证有效期多久？"
-  },
-  {
-    "id": 115,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "هَلْ يُمْكِنُ تَمْدِيدُ التَّأْشِيرَةِ؟",
-    "romanization": "Hal yumkinu tamdīdu at-tashīra?",
-    "translation": "签证能延期吗？"
-  },
-  {
-    "id": 116,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "أُرِيدُ التَّقْدِيمَ لِلتَّأْشِيرَةِ",
-    "romanization": "Urīdu at-taqdīm lil-tashīra",
-    "translation": "我想申请签证"
-  },
-  {
-    "id": 117,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "أَيْنَ مَكْتَبُ التَّأْشِيرَاتِ؟",
-    "romanization": "Ayna maktabu at-tashīrāt?",
-    "translation": "签证办公室在哪？"
-  },
-  {
     "id": 118,
     "category": "hotel",
     "category_zh": "宾馆入住",
@@ -1278,5 +1214,229 @@
     "text": "أَيْنَ الْمَتْحَفُ؟",
     "romanization": "Ayna al-mathafu?",
     "translation": "博物馆在哪？"
+  },
+  {
+    "id": 161,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "تشرفت بمعرفتك",
+    "romanization": "Tasharaftu bi-ma'rifatik",
+    "translation": "您好，很高兴认识您"
+  },
+  {
+    "id": 162,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "هذه بطاقة أعمالي",
+    "romanization": "Hadih bitakat a'mali",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 163,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "هل يمكنني إضافة حسابك على WeChat",
+    "romanization": "Hal yumkinuni idafat hisabika ala WeChat",
+    "translation": "我可以加您的微信吗"
+  },
+  {
+    "id": 164,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "أين غرفة الاجتماعات",
+    "romanization": "Ayna ghurfat al-ijtima'at",
+    "translation": "请问会议在哪里"
+  },
+  {
+    "id": 165,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "في أي ساعة تبدأ الاجتماعات",
+    "romanization": "Fi ayyi sa'at ta bda al-ijtima'at",
+    "translation": "会议几点开始"
+  },
+  {
+    "id": 166,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "لحظة، دعني أتحقق",
+    "romanization": "Lahdhat, dha'ni ata'ahaq",
+    "translation": "请稍等，我查一下"
+  },
+  {
+    "id": 167,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "أين دورة المياه",
+    "romanization": "Ayna dawrat al-miyyah",
+    "translation": "请问洗手间在哪里"
+  },
+  {
+    "id": 168,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "هل يمكنني استعارة قلمك",
+    "romanization": "Hal yumkinuni isti'arat qalamik",
+    "translation": "我可以借用一下您的笔吗"
+  },
+  {
+    "id": 169,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "من فضلك أرسل لي الملف",
+    "romanization": "Min fadlik ursil li al-malaf",
+    "translation": "请把文件发给我"
+  },
+  {
+    "id": 170,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "متى الموعد النهائي",
+    "romanization": "Mat al-maw'id al-nihawi",
+    "translation": "这个项目什么时候截止"
+  },
+  {
+    "id": 171,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "هل يمكننا إعادة جدولة النقاش",
+    "romanization": "Hal yumkinuna i'adat jadwala al-niqash",
+    "translation": "我们可以另约时间讨论吗"
+  },
+  {
+    "id": 172,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "أوافق على هذا الاقتراح",
+    "romanization": "Uwafiq 'ala hatha al-iqtirah",
+    "translation": "我同意这个方案"
+  },
+  {
+    "id": 173,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "شكراً جزيلاً على مساعدتك",
+    "romanization": "Shukran jazilan 'ala musa'adatik",
+    "translation": "非常感谢您的帮助"
+  },
+  {
+    "id": 174,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "عذراً، ما اسمك",
+    "romanization": "Udhran, ma ismuk",
+    "translation": "您好，请问您贵姓"
+  },
+  {
+    "id": 175,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "تشرفت بلقائك",
+    "romanization": "Tasharaftu biliqa'ik",
+    "translation": "初次见面，请多关照"
+  },
+  {
+    "id": 176,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "سمعت عنك الكثير",
+    "romanization": "Sami'tu 'ank al-kathir",
+    "translation": "久仰大名"
+  },
+  {
+    "id": 177,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "أنت لطيف جداً",
+    "romanization": "Anta latif jiddan",
+    "translation": "您太客气了"
+  },
+  {
+    "id": 178,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "هذه هدية صغيرة، تفضل بقبولها",
+    "romanization": "Hadih hadiyyah saghira tafaḍḍal biqubuliha",
+    "translation": "这是我的一点心意，请收下"
+  },
+  {
+    "id": 179,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "عيد ميلاد سعيد",
+    "romanization": "'Id milad sa'id",
+    "translation": "祝您生日快乐"
+  },
+  {
+    "id": 180,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "أعياد سعيدة",
+    "romanization": "A'yad sa'ida",
+    "translation": "节日快乐"
+  },
+  {
+    "id": 181,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "أهلاً بك في بيتي",
+    "romanization": "Ahlan bik fi bayti",
+    "translation": "欢迎来我家做客"
+  },
+  {
+    "id": 182,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "يجب أن أذهب",
+    "romanization": "Yajibu an adhab",
+    "translation": "我先告辞了"
+  },
+  {
+    "id": 183,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "إلى اللقاء",
+    "romanization": "Ila al-liqa'",
+    "translation": "后会有期"
+  },
+  {
+    "id": 184,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "أتمنى لك كل التوفيق",
+    "romanization": "Atamanna lak kull al-tawfiq",
+    "translation": "一切顺利"
+  },
+  {
+    "id": 185,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "أبلغ سلامي لعائلتك",
+    "romanization": "Abligh silami li'a'ilatik",
+    "translation": "请代我向您家人问好"
+  },
+  {
+    "id": 186,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "أتطلع لرؤيتك مرة أخرى",
+    "romanization": "Atatalla' li ru'yatik marrah ukhra",
+    "translation": "期待下次再见面"
+  },
+  {
+    "id": 187,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Please pass this message to him",
+    "romanization": "Please pass this message to him",
+    "translation": "请帮我转告他"
+  },
+  {
+    "id": 188,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Thank you for your hospitality",
+    "romanization": "Thank you for your hospitality",
+    "translation": "谢谢您的款待"
   }
 ]

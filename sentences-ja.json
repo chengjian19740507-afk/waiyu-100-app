@@ -240,54 +240,6 @@
     "translation": "我的行李在哪？"
   },
   {
-    "id": 31,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "出張です",
-    "romanization": "Shutchō desu",
-    "translation": "我来出差"
-  },
-  {
-    "id": 32,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ビジネスビザを持っています",
-    "romanization": "Bijinesu biza o motte imasu",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 33,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "働きに来ました",
-    "romanization": "Hataraiki ni kimashita",
-    "translation": "我来工作"
-  },
-  {
-    "id": 34,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ここで勉強しています",
-    "romanization": "Koko de benkyō shite imasu",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 35,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "学生ビザを持っています",
-    "romanization": "Gakusei biza o motte imasu",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 36,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "目的は勉強です",
-    "romanization": "Mokuteki wa benkyō desu",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 37,
     "category": "hotel",
     "category_zh": "宾馆入住",
@@ -1278,5 +1230,213 @@
     "text": "緊急電話番号は？",
     "romanization": "Kinkyū denwa bangō wa",
     "translation": "紧急电话是多少？"
+  },
+  {
+    "id": 161,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "はじめまして、どうぞよろしく",
+    "romanization": "Hajimemashite douzo yoroshiku",
+    "translation": "您好，很高兴认识您"
+  },
+  {
+    "id": 162,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "私の名刺です",
+    "romanization": "Watashi no meishi desu",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 163,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "WeChatを追加できますか",
+    "romanization": "WeChat wo tsuika dekimasu ka",
+    "translation": "我可以加您的微信吗"
+  },
+  {
+    "id": 164,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "会議室はどこですか",
+    "romanization": "Kaigishitsu wa doko desu ka",
+    "translation": "请问会议在哪里"
+  },
+  {
+    "id": 165,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "会議は何時に始まりますか",
+    "romanization": "Kaigi wa nanji ni hajimarimasu ka",
+    "translation": "会议几点开始"
+  },
+  {
+    "id": 166,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "少々お待ちください、確認します",
+    "romanization": "Shoushou omachi kudasai kakunin shimasu",
+    "translation": "请稍等，我查一下"
+  },
+  {
+    "id": 167,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "お手洗いはどこですか",
+    "romanization": "Otearai wa doko desu ka",
+    "translation": "请问洗手间在哪里"
+  },
+  {
+    "id": 168,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "ペンを借りてもいいですか",
+    "romanization": "Pen wo karite mo ii desu ka",
+    "translation": "我可以借用一下您的笔吗"
+  },
+  {
+    "id": 169,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "ファイルを送ってください",
+    "romanization": "Fairu wo okutte kudasai",
+    "translation": "请把文件发给我"
+  },
+  {
+    "id": 170,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "締め切りはいつですか",
+    "romanization": "Shimekiri wa itsu desu ka",
+    "translation": "这个项目什么时候截止"
+  },
+  {
+    "id": 171,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "別の日時に話し合いませんか",
+    "romanization": "Betsu no nichiji ni hanashi aimasen ka",
+    "translation": "我们可以另约时间讨论吗"
+  },
+  {
+    "id": 172,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "この提案に同意します",
+    "romanization": "Kono teian ni doui shimasu",
+    "translation": "我同意这个方案"
+  },
+  {
+    "id": 173,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "ご協力ありがとうございます",
+    "romanization": "Go kyoryoku arigatou gozaimasu",
+    "translation": "非常感谢您的帮助"
+  },
+  {
+    "id": 174,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "失礼ですが、お名前は？",
+    "romanization": "Shitsurei desu ga onamae wa",
+    "translation": "您好，请问您贵姓"
+  },
+  {
+    "id": 175,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "はじめまして、よろしくお願いします",
+    "romanization": "Hajimemashite yoroshiku onegaishimasu",
+    "translation": "初次见面，请多关照"
+  },
+  {
+    "id": 176,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "お名前はよく存じております",
+    "romanization": "Onamae wa yoku zonjite orimasu",
+    "translation": "久仰大名"
+  },
+  {
+    "id": 177,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "お気遣いなく",
+    "romanization": "Okizukainaku",
+    "translation": "您太客气了"
+  },
+  {
+    "id": 178,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "気持ちばかりですが、お受け取りください",
+    "romanization": "Kimochi bakari desu ga uketotte kudasai",
+    "translation": "这是我的一点心意，请收下"
+  },
+  {
+    "id": 179,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "お誕生日おめでとうございます",
+    "romanization": "Otanjoubi omedetou gozaimasu",
+    "translation": "祝您生日快乐"
+  },
+  {
+    "id": 180,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "祝日おめでとうございます",
+    "romanization": "Shukujitsu omedetou gozaimasu",
+    "translation": "节日快乐"
+  },
+  {
+    "id": 181,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "わが家へようこそ",
+    "romanization": "Wagaya e youkoso",
+    "translation": "欢迎来我家做客"
+  },
+  {
+    "id": 182,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "お先に失礼します",
+    "romanization": "Osaki ni shitsurei shimasu",
+    "translation": "我先告辞了"
+  },
+  {
+    "id": 183,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "またお会いしましょう",
+    "romanization": "Mata oai shimashou",
+    "translation": "后会有期"
+  },
+  {
+    "id": 184,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "順調に進むよう願っています",
+    "romanization": "Junchou ni susumu you negatte imasu",
+    "translation": "一切顺利"
+  },
+  {
+    "id": 185,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "ご家族によろしくお伝えください",
+    "romanization": "Go kazoku ni yoroshiku otsutae kudasai",
+    "translation": "请代我向您家人问好"
+  },
+  {
+    "id": 186,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "またお会いできるのを楽しみにしています",
+    "romanization": "Mata oai dekiru no wo tanoshimi ni shite imasu",
+    "translation": "期待下次再见面"
   }
 ]

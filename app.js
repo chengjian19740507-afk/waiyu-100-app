@@ -1,4 +1,4 @@
-// 海外旅游日常用语150句 · 6 语种
+// 出境无忧180句 · 7 语种
 (async () => {
   const langsEl = document.getElementById('langs');
   const catsEl = document.getElementById('cats');
@@ -74,17 +74,17 @@
   ensureVoices(); // 预加载
 
   const LANGS = {
-    en: { label: '英语海外旅游150句', sub: '文字+语音 · 英语母语发音 · 海外旅游日常 150 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
-    es: { label: '西语海外旅游150句', sub: '文字+语音 · 西语母语发音 · 海外旅游日常 150 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
-    fr: { label: '法语海外旅游150句', sub: '文字+语音 · 法语母语发音 · 海外旅游日常 150 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
-    ru: { label: '俄语海外旅游150句', sub: '文字+语音 · 俄语母语发音 · 海外旅游日常 150 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
-    ja: { label: '日语海外旅游150句', sub: '文字+罗马字 · 日语假名发音 · 海外旅游日常 150 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
-    ko: { label: '韩语海外旅游150句', sub: '文字+罗马字 · 韩语母语发音 · 海外旅游日常 150 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
-    ar: { label: '阿语海外旅游150句', sub: '文字+罗马字 · 阿语母语发音 · 海外旅游日常 150 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
+    en: { label: '英语出境无忧180句', sub: '文字+语音 · 英语母语发音 · 出境无忧 180 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
+    es: { label: '西语出境无忧180句', sub: '文字+语音 · 西语母语发音 · 出境无忧 180 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
+    fr: { label: '法语出境无忧180句', sub: '文字+语音 · 法语母语发音 · 出境无忧 180 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
+    ru: { label: '俄语出境无忧180句', sub: '文字+语音 · 俄语母语发音 · 出境无忧 180 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    ja: { label: '日语出境无忧180句', sub: '文字+罗马字 · 日语假名发音 · 出境无忧 180 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
+    ko: { label: '韩语出境无忧180句', sub: '文字+罗马字 · 韩语母语发音 · 出境无忧 180 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
+    ar: { label: '阿语出境无忧180句', sub: '文字+罗马字 · 阿语母语发音 · 出境无忧 180 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
   };
 
   // ============ 付费门控 ============
-  // 免费仅问候 + 自我介绍两类，其他 15 类需打赏后解锁
+  // 免费仅问候 + 自我介绍两类，其他 16 类需打赏后解锁
   const FREE_CATS = new Set(['greetings', 'intro']);
   const UNLOCK_HASH = 'd99cb9c36b1c6f7fd26edad8308d002fbd1a6b71db6b74d5b71cc3f8b5908eb4';
 
@@ -107,7 +107,6 @@
     { key: 'greetings', zh: '问候' },
     { key: 'intro', zh: '自我介绍' },
     { key: 'airport', zh: '机场海关' },
-    { key: 'visa', zh: '签证类型' },
     { key: 'hotel', zh: '宾馆入住' },
     { key: 'frontdesk', zh: '前台常用' },
     { key: 'food', zh: '饮食' },
@@ -120,7 +119,8 @@
     { key: 'common', zh: '常用表达' },
     { key: 'restaurant', zh: '餐厅' },
     { key: 'medical', zh: '医疗' },
-    { key: 'travel', zh: '旅游实用' },
+    { key: 'work', zh: '工作场景' },
+    { key: 'social', zh: '社交礼仪' },
   ];
 
   const CAT_ORDER = {};

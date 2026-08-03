@@ -960,54 +960,6 @@
     "translation": "请打扫房间"
   },
   {
-    "id": 121,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Vengo por negocios",
-    "romanization": "Vengo por negocios",
-    "translation": "我来出差"
-  },
-  {
-    "id": 122,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tengo visa de negocios",
-    "romanization": "Tengo visa de negocios",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 123,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Vengo a trabajar",
-    "romanization": "Vengo a trabajar",
-    "translation": "我来工作"
-  },
-  {
-    "id": 124,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Estoy estudiando aquí",
-    "romanization": "Estoy estudiando aquí",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 125,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tengo visa de estudiante",
-    "romanization": "Tengo visa de estudiante",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 126,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Mi objetivo es estudiar",
-    "romanization": "Mi objetivo es estudiar",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 127,
     "category": "frontdesk",
     "category_zh": "前台常用",
@@ -1278,5 +1230,213 @@
     "text": "¿Cuál es el número de emergencia?",
     "romanization": "¿Cuál es el número de emergencia?",
     "translation": "紧急电话是多少？"
+  },
+  {
+    "id": 161,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Mucho gusto en conocerle",
+    "romanization": "Mucho gusto en conocerle",
+    "translation": "您好，很高兴认识您"
+  },
+  {
+    "id": 162,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Aquí tiene mi tarjeta",
+    "romanization": "Aquí tiene mi tarjeta",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 163,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿Puedo agregar su WeChat?",
+    "romanization": "Puedo agregar su WeChat",
+    "translation": "我可以加您的微信吗"
+  },
+  {
+    "id": 164,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿Dónde está la sala de reuniones?",
+    "romanization": "Donde esta la sala de reuniones",
+    "translation": "请问会议在哪里"
+  },
+  {
+    "id": 165,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿A qué hora empieza la reunión?",
+    "romanization": "A que hora empieza la reunion",
+    "translation": "会议几点开始"
+  },
+  {
+    "id": 166,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Espere un momento, voy a consultar",
+    "romanization": "Espere un momento, voy a consultar",
+    "translation": "请稍等，我查一下"
+  },
+  {
+    "id": 167,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿Dónde está el baño?",
+    "romanization": "Donde esta el bano",
+    "translation": "请问洗手间在哪里"
+  },
+  {
+    "id": 168,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿Me permite tomar prestado su bolígrafo?",
+    "romanization": "Me permite tomar prestado su boligrafo",
+    "translation": "我可以借用一下您的笔吗"
+  },
+  {
+    "id": 169,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Por favor, envíeme el archivo",
+    "romanization": "Por favor, envieme el archivo",
+    "translation": "请把文件发给我"
+  },
+  {
+    "id": 170,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿Cuándo es la fecha límite?",
+    "romanization": "Cuando es la fecha limite",
+    "translation": "这个项目什么时候截止"
+  },
+  {
+    "id": 171,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "¿Podemos reprogramar la discusión?",
+    "romanization": "Podemos reprogramar la discusion",
+    "translation": "我们可以另约时间讨论吗"
+  },
+  {
+    "id": 172,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Estoy de acuerdo con esta propuesta",
+    "romanization": "Estoy de acuerdo con esta propuesta",
+    "translation": "我同意这个方案"
+  },
+  {
+    "id": 173,
+    "category": "work",
+    "category_zh": "工作场景",
+    "text": "Muchas gracias por su ayuda",
+    "romanization": "Muchas gracias por su ayuda",
+    "translation": "非常感谢您的帮助"
+  },
+  {
+    "id": 174,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Disculpe, ¿cuál es su nombre?",
+    "romanization": "Disculpe, cual es su nombre",
+    "translation": "您好，请问您贵姓"
+  },
+  {
+    "id": 175,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Mucho gusto, un placer conocerle",
+    "romanization": "Mucho gusto, un placer conocerle",
+    "translation": "初次见面，请多关照"
+  },
+  {
+    "id": 176,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "He oído mucho sobre usted",
+    "romanization": "He oido mucho sobre usted",
+    "translation": "久仰大名"
+  },
+  {
+    "id": 177,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Es usted muy amable",
+    "romanization": "Es usted muy amable",
+    "translation": "您太客气了"
+  },
+  {
+    "id": 178,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Este es un pequeño detalle, acéptelo",
+    "romanization": "Este es un pequeno detalle, aceptelo",
+    "translation": "这是我的一点心意，请收下"
+  },
+  {
+    "id": 179,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "¡Feliz cumpleaños!",
+    "romanization": "Feliz cumpleanos",
+    "translation": "祝您生日快乐"
+  },
+  {
+    "id": 180,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "¡Felices fiestas!",
+    "romanization": "Felices fiestas",
+    "translation": "节日快乐"
+  },
+  {
+    "id": 181,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Bienvenido a mi casa",
+    "romanization": "Bienvenido a mi casa",
+    "translation": "欢迎来我家做客"
+  },
+  {
+    "id": 182,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Debo irme",
+    "romanization": "Debo irme",
+    "translation": "我先告辞了"
+  },
+  {
+    "id": 183,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Hasta la próxima",
+    "romanization": "Hasta la proxima",
+    "translation": "后会有期"
+  },
+  {
+    "id": 184,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Que todo le vaya bien",
+    "romanization": "Que todo le vaya bien",
+    "translation": "一切顺利"
+  },
+  {
+    "id": 185,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Salude a su familia de mi parte",
+    "romanization": "Salude a su familia de mi parte",
+    "translation": "请代我向您家人问好"
+  },
+  {
+    "id": 186,
+    "category": "social",
+    "category_zh": "社交礼仪",
+    "text": "Espero verte de nuevo",
+    "romanization": "Espero verte de nuevo",
+    "translation": "期待下次再见面"
   }
 ]
