@@ -964,3 +964,129 @@ html, body {
   font-size: 13px;
   color: var(--fg-dim);
 }
+
+
+/* ============ 模式切换 180句 / 1000词 ============ */
+.mode-toggle {
+  display: flex;
+  gap: 8px;
+  padding: 8px 12px 0;
+  max-width: 720px;
+  margin: 0 auto;
+}
+.mode-btn {
+  flex: 1;
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  background: var(--bg-2);
+  color: var(--fg-dim);
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.mode-btn:hover { background: var(--border); color: var(--fg); }
+.mode-btn.active {
+  background: var(--accent, #3b82f6);
+  color: white;
+  border-color: var(--accent, #3b82f6);
+}
+
+/* ============ 词汇表 1000 词 ============ */
+.vocab {
+  max-width: 720px;
+  margin: 12px auto;
+  padding: 0 12px 60px;
+}
+.vocab-info {
+  font-size: 13px;
+  color: var(--fg-dim);
+  padding: 8px 4px 12px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 8px;
+}
+.vocab-table-wrap {
+  overflow-x: auto;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.vocab-table th {
+  background: var(--bg-2);
+  color: var(--fg-dim);
+  font-weight: 600;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+}
+.vocab-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.vocab-table tbody tr:nth-child(even) td { background: rgba(255,255,255,0.02); }
+.vocab-table tbody tr:hover td { background: rgba(59,130,246,0.06); }
+.vocab-rank {
+  width: 56px;
+  color: var(--fg-dim);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+.vocab-word {
+  font-weight: 600;
+  color: var(--fg);
+  cursor: pointer;
+  min-width: 80px;
+}
+.vocab-word:hover { color: var(--accent, #3b82f6); text-decoration: underline; }
+.vocab-ipa {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 13px;
+  color: var(--fg-dim);
+  white-space: nowrap;
+  min-width: 140px;
+}
+.vocab-trans {
+  color: var(--fg);
+  min-width: 200px;
+}
+.vocab-more {
+  text-align: center;
+  padding: 16px 0;
+}
+.vocab-more-btn {
+  padding: 8px 20px;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.vocab-more-btn:hover { background: var(--accent, #3b82f6); color: white; border-color: var(--accent, #3b82f6); }
+.vocab-count {
+  display: block;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--fg-dim);
+}
+
+/* 移动端 */
+@media (max-width: 600px) {
+  .vocab-table { font-size: 13px; }
+  .vocab-rank { width: 36px; padding: 8px 6px; }
+  .vocab-word { padding: 8px 6px; }
+  .vocab-ipa { padding: 8px 6px; min-width: 100px; font-size: 12px; }
+  .vocab-trans { padding: 8px 6px; }
+  .vocab-table th { padding: 8px 6px; font-size: 12px; }
+}
+
+/* RTL 阿语 */
+[dir="rtl"] .vocab-rank { text-align: left; }

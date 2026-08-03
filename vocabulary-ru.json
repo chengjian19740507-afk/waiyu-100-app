@@ -1,0 +1,6002 @@
+[
+  {
+    "rank": 1,
+    "word": "как",
+    "ipa": "",
+    "translation": "as"
+  },
+  {
+    "rank": 2,
+    "word": "Я",
+    "ipa": "",
+    "translation": "I"
+  },
+  {
+    "rank": 3,
+    "word": "его",
+    "ipa": "",
+    "translation": "his"
+  },
+  {
+    "rank": 4,
+    "word": "что",
+    "ipa": "",
+    "translation": "that"
+  },
+  {
+    "rank": 5,
+    "word": "он",
+    "ipa": "",
+    "translation": "he"
+  },
+  {
+    "rank": 6,
+    "word": "было",
+    "ipa": "",
+    "translation": "was"
+  },
+  {
+    "rank": 7,
+    "word": "для",
+    "ipa": "",
+    "translation": "for"
+  },
+  {
+    "rank": 8,
+    "word": "на",
+    "ipa": "",
+    "translation": "on"
+  },
+  {
+    "rank": 9,
+    "word": "являются",
+    "ipa": "",
+    "translation": "are"
+  },
+  {
+    "rank": 10,
+    "word": "с",
+    "ipa": "",
+    "translation": "with"
+  },
+  {
+    "rank": 11,
+    "word": "они",
+    "ipa": "",
+    "translation": "they"
+  },
+  {
+    "rank": 12,
+    "word": "быть",
+    "ipa": "",
+    "translation": "be"
+  },
+  {
+    "rank": 13,
+    "word": "в",
+    "ipa": "",
+    "translation": "at"
+  },
+  {
+    "rank": 14,
+    "word": "один",
+    "ipa": "",
+    "translation": "one"
+  },
+  {
+    "rank": 15,
+    "word": "иметь",
+    "ipa": "",
+    "translation": "have"
+  },
+  {
+    "rank": 16,
+    "word": "это",
+    "ipa": "",
+    "translation": "this"
+  },
+  {
+    "rank": 17,
+    "word": "от",
+    "ipa": "",
+    "translation": "from"
+  },
+  {
+    "rank": 18,
+    "word": "по",
+    "ipa": "",
+    "translation": "by"
+  },
+  {
+    "rank": 19,
+    "word": "горячий",
+    "ipa": "",
+    "translation": "hot"
+  },
+  {
+    "rank": 20,
+    "word": "слово",
+    "ipa": "",
+    "translation": "word"
+  },
+  {
+    "rank": 21,
+    "word": "но",
+    "ipa": "",
+    "translation": "but"
+  },
+  {
+    "rank": 22,
+    "word": "что",
+    "ipa": "",
+    "translation": "what"
+  },
+  {
+    "rank": 23,
+    "word": "некоторые",
+    "ipa": "",
+    "translation": "some"
+  },
+  {
+    "rank": 24,
+    "word": "является",
+    "ipa": "",
+    "translation": "is"
+  },
+  {
+    "rank": 25,
+    "word": "это",
+    "ipa": "",
+    "translation": "it"
+  },
+  {
+    "rank": 26,
+    "word": "вы",
+    "ipa": "",
+    "translation": "you"
+  },
+  {
+    "rank": 27,
+    "word": "или",
+    "ipa": "",
+    "translation": "or"
+  },
+  {
+    "rank": 28,
+    "word": "было",
+    "ipa": "",
+    "translation": "had"
+  },
+  {
+    "rank": 29,
+    "word": "площадь",
+    "ipa": "",
+    "translation": "the"
+  },
+  {
+    "rank": 30,
+    "word": "из",
+    "ipa": "",
+    "translation": "of"
+  },
+  {
+    "rank": 31,
+    "word": "гора",
+    "ipa": "",
+    "translation": "to"
+  },
+  {
+    "rank": 32,
+    "word": "и",
+    "ipa": "",
+    "translation": "and"
+  },
+  {
+    "rank": 33,
+    "word": "основной",
+    "ipa": "",
+    "translation": "a"
+  },
+  {
+    "rank": 34,
+    "word": "взял",
+    "ipa": "",
+    "translation": "in"
+  },
+  {
+    "rank": 35,
+    "word": "мы",
+    "ipa": "",
+    "translation": "we"
+  },
+  {
+    "rank": 36,
+    "word": "может",
+    "ipa": "",
+    "translation": "can"
+  },
+  {
+    "rank": 37,
+    "word": "из",
+    "ipa": "",
+    "translation": "out"
+  },
+  {
+    "rank": 38,
+    "word": "другой",
+    "ipa": "",
+    "translation": "other"
+  },
+  {
+    "rank": 39,
+    "word": "были",
+    "ipa": "",
+    "translation": "were"
+  },
+  {
+    "rank": 40,
+    "word": "который",
+    "ipa": "",
+    "translation": "which"
+  },
+  {
+    "rank": 41,
+    "word": "сделать",
+    "ipa": "",
+    "translation": "do"
+  },
+  {
+    "rank": 42,
+    "word": "их",
+    "ipa": "",
+    "translation": "their"
+  },
+  {
+    "rank": 43,
+    "word": "время",
+    "ipa": "",
+    "translation": "time"
+  },
+  {
+    "rank": 44,
+    "word": "если",
+    "ipa": "",
+    "translation": "if"
+  },
+  {
+    "rank": 45,
+    "word": "будет",
+    "ipa": "",
+    "translation": "will"
+  },
+  {
+    "rank": 46,
+    "word": "как",
+    "ipa": "",
+    "translation": "how"
+  },
+  {
+    "rank": 47,
+    "word": "указанный",
+    "ipa": "",
+    "translation": "said"
+  },
+  {
+    "rank": 48,
+    "word": "назад",
+    "ipa": "",
+    "translation": "an"
+  },
+  {
+    "rank": 49,
+    "word": "каждый",
+    "ipa": "",
+    "translation": "each"
+  },
+  {
+    "rank": 50,
+    "word": "сказать",
+    "ipa": "",
+    "translation": "tell"
+  },
+  {
+    "rank": 51,
+    "word": "делает",
+    "ipa": "",
+    "translation": "does"
+  },
+  {
+    "rank": 52,
+    "word": "набор",
+    "ipa": "",
+    "translation": "set"
+  },
+  {
+    "rank": 53,
+    "word": "три",
+    "ipa": "",
+    "translation": "three"
+  },
+  {
+    "rank": 54,
+    "word": "хочу",
+    "ipa": "",
+    "translation": "want"
+  },
+  {
+    "rank": 55,
+    "word": "воздух",
+    "ipa": "",
+    "translation": "air"
+  },
+  {
+    "rank": 56,
+    "word": "хорошо",
+    "ipa": "",
+    "translation": "well"
+  },
+  {
+    "rank": 57,
+    "word": "также",
+    "ipa": "",
+    "translation": "also"
+  },
+  {
+    "rank": 58,
+    "word": "играть",
+    "ipa": "",
+    "translation": "play"
+  },
+  {
+    "rank": 59,
+    "word": "небольшой",
+    "ipa": "",
+    "translation": "small"
+  },
+  {
+    "rank": 60,
+    "word": "конец",
+    "ipa": "",
+    "translation": "end"
+  },
+  {
+    "rank": 61,
+    "word": "положить",
+    "ipa": "",
+    "translation": "put"
+  },
+  {
+    "rank": 62,
+    "word": "домой",
+    "ipa": "",
+    "translation": "home"
+  },
+  {
+    "rank": 63,
+    "word": "читать",
+    "ipa": "",
+    "translation": "read"
+  },
+  {
+    "rank": 64,
+    "word": "рука",
+    "ipa": "",
+    "translation": "hand"
+  },
+  {
+    "rank": 65,
+    "word": "порт",
+    "ipa": "",
+    "translation": "port"
+  },
+  {
+    "rank": 66,
+    "word": "большой",
+    "ipa": "",
+    "translation": "large"
+  },
+  {
+    "rank": 67,
+    "word": "заклинание",
+    "ipa": "",
+    "translation": "spell"
+  },
+  {
+    "rank": 68,
+    "word": "добавлять",
+    "ipa": "",
+    "translation": "add"
+  },
+  {
+    "rank": 69,
+    "word": "даже",
+    "ipa": "",
+    "translation": "even"
+  },
+  {
+    "rank": 70,
+    "word": "земля",
+    "ipa": "",
+    "translation": "land"
+  },
+  {
+    "rank": 71,
+    "word": "здесь",
+    "ipa": "",
+    "translation": "here"
+  },
+  {
+    "rank": 72,
+    "word": "должны",
+    "ipa": "",
+    "translation": "must"
+  },
+  {
+    "rank": 73,
+    "word": "большой",
+    "ipa": "",
+    "translation": "big"
+  },
+  {
+    "rank": 74,
+    "word": "высокий",
+    "ipa": "",
+    "translation": "high"
+  },
+  {
+    "rank": 75,
+    "word": "такие",
+    "ipa": "",
+    "translation": "such"
+  },
+  {
+    "rank": 76,
+    "word": "следовать",
+    "ipa": "",
+    "translation": "follow"
+  },
+  {
+    "rank": 77,
+    "word": "акт",
+    "ipa": "",
+    "translation": "act"
+  },
+  {
+    "rank": 78,
+    "word": "почему",
+    "ipa": "",
+    "translation": "why"
+  },
+  {
+    "rank": 79,
+    "word": "спросите",
+    "ipa": "",
+    "translation": "ask"
+  },
+  {
+    "rank": 80,
+    "word": "люди",
+    "ipa": "",
+    "translation": "men"
+  },
+  {
+    "rank": 81,
+    "word": "изменение",
+    "ipa": "",
+    "translation": "change"
+  },
+  {
+    "rank": 82,
+    "word": "пошел",
+    "ipa": "",
+    "translation": "went"
+  },
+  {
+    "rank": 83,
+    "word": "свет",
+    "ipa": "",
+    "translation": "light"
+  },
+  {
+    "rank": 84,
+    "word": "вид",
+    "ipa": "",
+    "translation": "kind"
+  },
+  {
+    "rank": 85,
+    "word": "от",
+    "ipa": "",
+    "translation": "off"
+  },
+  {
+    "rank": 86,
+    "word": "нуждаться",
+    "ipa": "",
+    "translation": "need"
+  },
+  {
+    "rank": 87,
+    "word": "дом",
+    "ipa": "",
+    "translation": "house"
+  },
+  {
+    "rank": 88,
+    "word": "картинка",
+    "ipa": "",
+    "translation": "picture"
+  },
+  {
+    "rank": 89,
+    "word": "пытаться",
+    "ipa": "",
+    "translation": "try"
+  },
+  {
+    "rank": 90,
+    "word": "нам",
+    "ipa": "",
+    "translation": "us"
+  },
+  {
+    "rank": 91,
+    "word": "снова",
+    "ipa": "",
+    "translation": "again"
+  },
+  {
+    "rank": 92,
+    "word": "животных",
+    "ipa": "",
+    "translation": "animal"
+  },
+  {
+    "rank": 93,
+    "word": "точка",
+    "ipa": "",
+    "translation": "point"
+  },
+  {
+    "rank": 94,
+    "word": "мать",
+    "ipa": "",
+    "translation": "mother"
+  },
+  {
+    "rank": 95,
+    "word": "мир",
+    "ipa": "",
+    "translation": "world"
+  },
+  {
+    "rank": 96,
+    "word": "около",
+    "ipa": "",
+    "translation": "near"
+  },
+  {
+    "rank": 97,
+    "word": "строить",
+    "ipa": "",
+    "translation": "build"
+  },
+  {
+    "rank": 98,
+    "word": "самостоятельно",
+    "ipa": "",
+    "translation": "self"
+  },
+  {
+    "rank": 99,
+    "word": "земля",
+    "ipa": "",
+    "translation": "earth"
+  },
+  {
+    "rank": 100,
+    "word": "отец",
+    "ipa": "",
+    "translation": "father"
+  },
+  {
+    "rank": 101,
+    "word": "любой",
+    "ipa": "",
+    "translation": "any"
+  },
+  {
+    "rank": 102,
+    "word": "новый",
+    "ipa": "",
+    "translation": "new"
+  },
+  {
+    "rank": 103,
+    "word": "работа",
+    "ipa": "",
+    "translation": "work"
+  },
+  {
+    "rank": 104,
+    "word": "часть",
+    "ipa": "",
+    "translation": "part"
+  },
+  {
+    "rank": 105,
+    "word": "принимать",
+    "ipa": "",
+    "translation": "take"
+  },
+  {
+    "rank": 106,
+    "word": "получать",
+    "ipa": "",
+    "translation": "get"
+  },
+  {
+    "rank": 107,
+    "word": "место",
+    "ipa": "",
+    "translation": "place"
+  },
+  {
+    "rank": 108,
+    "word": "сделал",
+    "ipa": "",
+    "translation": "made"
+  },
+  {
+    "rank": 109,
+    "word": "жить",
+    "ipa": "",
+    "translation": "live"
+  },
+  {
+    "rank": 110,
+    "word": "где",
+    "ipa": "",
+    "translation": "where"
+  },
+  {
+    "rank": 111,
+    "word": "после",
+    "ipa": "",
+    "translation": "after"
+  },
+  {
+    "rank": 112,
+    "word": "назад",
+    "ipa": "",
+    "translation": "back"
+  },
+  {
+    "rank": 113,
+    "word": "немного",
+    "ipa": "",
+    "translation": "little"
+  },
+  {
+    "rank": 114,
+    "word": "только",
+    "ipa": "",
+    "translation": "only"
+  },
+  {
+    "rank": 115,
+    "word": "круглый",
+    "ipa": "",
+    "translation": "round"
+  },
+  {
+    "rank": 116,
+    "word": "человек",
+    "ipa": "",
+    "translation": "man"
+  },
+  {
+    "rank": 117,
+    "word": "год",
+    "ipa": "",
+    "translation": "year"
+  },
+  {
+    "rank": 118,
+    "word": "пришел",
+    "ipa": "",
+    "translation": "came"
+  },
+  {
+    "rank": 119,
+    "word": "шоу",
+    "ipa": "",
+    "translation": "show"
+  },
+  {
+    "rank": 120,
+    "word": "каждый",
+    "ipa": "",
+    "translation": "every"
+  },
+  {
+    "rank": 121,
+    "word": "хорошее",
+    "ipa": "",
+    "translation": "good"
+  },
+  {
+    "rank": 122,
+    "word": "меня",
+    "ipa": "",
+    "translation": "me"
+  },
+  {
+    "rank": 123,
+    "word": "давать",
+    "ipa": "",
+    "translation": "give"
+  },
+  {
+    "rank": 124,
+    "word": "наш",
+    "ipa": "",
+    "translation": "our"
+  },
+  {
+    "rank": 125,
+    "word": "под",
+    "ipa": "",
+    "translation": "under"
+  },
+  {
+    "rank": 126,
+    "word": "название",
+    "ipa": "",
+    "translation": "name"
+  },
+  {
+    "rank": 127,
+    "word": "очень",
+    "ipa": "",
+    "translation": "very"
+  },
+  {
+    "rank": 128,
+    "word": "через",
+    "ipa": "",
+    "translation": "through"
+  },
+  {
+    "rank": 129,
+    "word": "просто",
+    "ipa": "",
+    "translation": "just"
+  },
+  {
+    "rank": 130,
+    "word": "форма",
+    "ipa": "",
+    "translation": "form"
+  },
+  {
+    "rank": 131,
+    "word": "приговор",
+    "ipa": "",
+    "translation": "sentence"
+  },
+  {
+    "rank": 132,
+    "word": "большой",
+    "ipa": "",
+    "translation": "great"
+  },
+  {
+    "rank": 133,
+    "word": "думать",
+    "ipa": "",
+    "translation": "think"
+  },
+  {
+    "rank": 134,
+    "word": "сказать",
+    "ipa": "",
+    "translation": "say"
+  },
+  {
+    "rank": 135,
+    "word": "помощь",
+    "ipa": "",
+    "translation": "help"
+  },
+  {
+    "rank": 136,
+    "word": "низкий",
+    "ipa": "",
+    "translation": "low"
+  },
+  {
+    "rank": 137,
+    "word": "линия",
+    "ipa": "",
+    "translation": "line"
+  },
+  {
+    "rank": 138,
+    "word": "отличаются",
+    "ipa": "",
+    "translation": "differ"
+  },
+  {
+    "rank": 139,
+    "word": "поворот",
+    "ipa": "",
+    "translation": "turn"
+  },
+  {
+    "rank": 140,
+    "word": "причиной",
+    "ipa": "",
+    "translation": "cause"
+  },
+  {
+    "rank": 141,
+    "word": "много",
+    "ipa": "",
+    "translation": "much"
+  },
+  {
+    "rank": 142,
+    "word": "означать",
+    "ipa": "",
+    "translation": "mean"
+  },
+  {
+    "rank": 143,
+    "word": "до",
+    "ipa": "",
+    "translation": "before"
+  },
+  {
+    "rank": 144,
+    "word": "движение",
+    "ipa": "",
+    "translation": "move"
+  },
+  {
+    "rank": 145,
+    "word": "право",
+    "ipa": "",
+    "translation": "right"
+  },
+  {
+    "rank": 146,
+    "word": "мальчик",
+    "ipa": "",
+    "translation": "boy"
+  },
+  {
+    "rank": 147,
+    "word": "старый",
+    "ipa": "",
+    "translation": "old"
+  },
+  {
+    "rank": 148,
+    "word": "слишком",
+    "ipa": "",
+    "translation": "too"
+  },
+  {
+    "rank": 149,
+    "word": "же",
+    "ipa": "",
+    "translation": "same"
+  },
+  {
+    "rank": 150,
+    "word": "она",
+    "ipa": "",
+    "translation": "she"
+  },
+  {
+    "rank": 151,
+    "word": "все",
+    "ipa": "",
+    "translation": "all"
+  },
+  {
+    "rank": 152,
+    "word": "там",
+    "ipa": "",
+    "translation": "there"
+  },
+  {
+    "rank": 153,
+    "word": "когда",
+    "ipa": "",
+    "translation": "when"
+  },
+  {
+    "rank": 154,
+    "word": "вверх",
+    "ipa": "",
+    "translation": "up"
+  },
+  {
+    "rank": 155,
+    "word": "использование",
+    "ipa": "",
+    "translation": "use"
+  },
+  {
+    "rank": 156,
+    "word": "ваш",
+    "ipa": "",
+    "translation": "your"
+  },
+  {
+    "rank": 157,
+    "word": "способ",
+    "ipa": "",
+    "translation": "way"
+  },
+  {
+    "rank": 158,
+    "word": "о",
+    "ipa": "",
+    "translation": "about"
+  },
+  {
+    "rank": 159,
+    "word": "многие",
+    "ipa": "",
+    "translation": "many"
+  },
+  {
+    "rank": 160,
+    "word": "затем",
+    "ipa": "",
+    "translation": "then"
+  },
+  {
+    "rank": 161,
+    "word": "их",
+    "ipa": "",
+    "translation": "them"
+  },
+  {
+    "rank": 162,
+    "word": "запись",
+    "ipa": "",
+    "translation": "write"
+  },
+  {
+    "rank": 163,
+    "word": "бы",
+    "ipa": "",
+    "translation": "would"
+  },
+  {
+    "rank": 164,
+    "word": "подобно",
+    "ipa": "",
+    "translation": "like"
+  },
+  {
+    "rank": 165,
+    "word": "так",
+    "ipa": "",
+    "translation": "so"
+  },
+  {
+    "rank": 166,
+    "word": "эти",
+    "ipa": "",
+    "translation": "these"
+  },
+  {
+    "rank": 167,
+    "word": "ее",
+    "ipa": "",
+    "translation": "her"
+  },
+  {
+    "rank": 168,
+    "word": "долго",
+    "ipa": "",
+    "translation": "long"
+  },
+  {
+    "rank": 169,
+    "word": "сделать",
+    "ipa": "",
+    "translation": "make"
+  },
+  {
+    "rank": 170,
+    "word": "вещь",
+    "ipa": "",
+    "translation": "thing"
+  },
+  {
+    "rank": 171,
+    "word": "посмотреть",
+    "ipa": "",
+    "translation": "see"
+  },
+  {
+    "rank": 172,
+    "word": "его",
+    "ipa": "",
+    "translation": "him"
+  },
+  {
+    "rank": 173,
+    "word": "два",
+    "ipa": "",
+    "translation": "two"
+  },
+  {
+    "rank": 174,
+    "word": "имеет",
+    "ipa": "",
+    "translation": "has"
+  },
+  {
+    "rank": 175,
+    "word": "искать",
+    "ipa": "",
+    "translation": "look"
+  },
+  {
+    "rank": 176,
+    "word": "еще",
+    "ipa": "",
+    "translation": "more"
+  },
+  {
+    "rank": 177,
+    "word": "день",
+    "ipa": "",
+    "translation": "day"
+  },
+  {
+    "rank": 178,
+    "word": "мог",
+    "ipa": "",
+    "translation": "could"
+  },
+  {
+    "rank": 179,
+    "word": "идти",
+    "ipa": "",
+    "translation": "go"
+  },
+  {
+    "rank": 180,
+    "word": "приходят",
+    "ipa": "",
+    "translation": "come"
+  },
+  {
+    "rank": 181,
+    "word": "сделал",
+    "ipa": "",
+    "translation": "did"
+  },
+  {
+    "rank": 182,
+    "word": "число",
+    "ipa": "",
+    "translation": "number"
+  },
+  {
+    "rank": 183,
+    "word": "звук",
+    "ipa": "",
+    "translation": "sound"
+  },
+  {
+    "rank": 184,
+    "word": "нет",
+    "ipa": "",
+    "translation": "no"
+  },
+  {
+    "rank": 185,
+    "word": "наиболее",
+    "ipa": "",
+    "translation": "most"
+  },
+  {
+    "rank": 186,
+    "word": "люди",
+    "ipa": "",
+    "translation": "people"
+  },
+  {
+    "rank": 187,
+    "word": "мой",
+    "ipa": "",
+    "translation": "my"
+  },
+  {
+    "rank": 188,
+    "word": "над",
+    "ipa": "",
+    "translation": "over"
+  },
+  {
+    "rank": 189,
+    "word": "знать",
+    "ipa": "",
+    "translation": "know"
+  },
+  {
+    "rank": 190,
+    "word": "вода",
+    "ipa": "",
+    "translation": "water"
+  },
+  {
+    "rank": 191,
+    "word": "чем",
+    "ipa": "",
+    "translation": "than"
+  },
+  {
+    "rank": 192,
+    "word": "вызов",
+    "ipa": "",
+    "translation": "call"
+  },
+  {
+    "rank": 193,
+    "word": "первый",
+    "ipa": "",
+    "translation": "first"
+  },
+  {
+    "rank": 194,
+    "word": "кто",
+    "ipa": "",
+    "translation": "who"
+  },
+  {
+    "rank": 195,
+    "word": "может",
+    "ipa": "",
+    "translation": "may"
+  },
+  {
+    "rank": 196,
+    "word": "вниз",
+    "ipa": "",
+    "translation": "down"
+  },
+  {
+    "rank": 197,
+    "word": "сторона",
+    "ipa": "",
+    "translation": "side"
+  },
+  {
+    "rank": 198,
+    "word": "был",
+    "ipa": "",
+    "translation": "been"
+  },
+  {
+    "rank": 199,
+    "word": "сейчас",
+    "ipa": "",
+    "translation": "now"
+  },
+  {
+    "rank": 200,
+    "word": "находить",
+    "ipa": "",
+    "translation": "find"
+  },
+  {
+    "rank": 201,
+    "word": "руководитель",
+    "ipa": "",
+    "translation": "head"
+  },
+  {
+    "rank": 202,
+    "word": "стоять",
+    "ipa": "",
+    "translation": "stand"
+  },
+  {
+    "rank": 203,
+    "word": "самостоятельно",
+    "ipa": "",
+    "translation": "own"
+  },
+  {
+    "rank": 204,
+    "word": "страница",
+    "ipa": "",
+    "translation": "page"
+  },
+  {
+    "rank": 205,
+    "word": "должны",
+    "ipa": "",
+    "translation": "should"
+  },
+  {
+    "rank": 206,
+    "word": "страна",
+    "ipa": "",
+    "translation": "country"
+  },
+  {
+    "rank": 207,
+    "word": "найдено",
+    "ipa": "",
+    "translation": "found"
+  },
+  {
+    "rank": 208,
+    "word": "ответ",
+    "ipa": "",
+    "translation": "answer"
+  },
+  {
+    "rank": 209,
+    "word": "школа",
+    "ipa": "",
+    "translation": "school"
+  },
+  {
+    "rank": 210,
+    "word": "расти",
+    "ipa": "",
+    "translation": "grow"
+  },
+  {
+    "rank": 211,
+    "word": "исследование",
+    "ipa": "",
+    "translation": "study"
+  },
+  {
+    "rank": 212,
+    "word": "еще",
+    "ipa": "",
+    "translation": "still"
+  },
+  {
+    "rank": 213,
+    "word": "учиться",
+    "ipa": "",
+    "translation": "learn"
+  },
+  {
+    "rank": 214,
+    "word": "завод",
+    "ipa": "",
+    "translation": "plant"
+  },
+  {
+    "rank": 215,
+    "word": "крышка",
+    "ipa": "",
+    "translation": "cover"
+  },
+  {
+    "rank": 216,
+    "word": "еда",
+    "ipa": "",
+    "translation": "food"
+  },
+  {
+    "rank": 217,
+    "word": "солнце",
+    "ipa": "",
+    "translation": "sun"
+  },
+  {
+    "rank": 218,
+    "word": "четыре",
+    "ipa": "",
+    "translation": "four"
+  },
+  {
+    "rank": 219,
+    "word": "между",
+    "ipa": "",
+    "translation": "between"
+  },
+  {
+    "rank": 220,
+    "word": "состояние",
+    "ipa": "",
+    "translation": "state"
+  },
+  {
+    "rank": 221,
+    "word": "держать",
+    "ipa": "",
+    "translation": "keep"
+  },
+  {
+    "rank": 222,
+    "word": "глаз",
+    "ipa": "",
+    "translation": "eye"
+  },
+  {
+    "rank": 223,
+    "word": "никогда не",
+    "ipa": "",
+    "translation": "never"
+  },
+  {
+    "rank": 224,
+    "word": "Последнее",
+    "ipa": "",
+    "translation": "last"
+  },
+  {
+    "rank": 225,
+    "word": "позволять",
+    "ipa": "",
+    "translation": "let"
+  },
+  {
+    "rank": 226,
+    "word": "мысль",
+    "ipa": "",
+    "translation": "thought"
+  },
+  {
+    "rank": 227,
+    "word": "город",
+    "ipa": "",
+    "translation": "city"
+  },
+  {
+    "rank": 228,
+    "word": "дерево",
+    "ipa": "",
+    "translation": "tree"
+  },
+  {
+    "rank": 229,
+    "word": "пересекают",
+    "ipa": "",
+    "translation": "cross"
+  },
+  {
+    "rank": 230,
+    "word": "ферма",
+    "ipa": "",
+    "translation": "farm"
+  },
+  {
+    "rank": 231,
+    "word": "трудно",
+    "ipa": "",
+    "translation": "hard"
+  },
+  {
+    "rank": 232,
+    "word": "начало",
+    "ipa": "",
+    "translation": "start"
+  },
+  {
+    "rank": 233,
+    "word": "мощи",
+    "ipa": "",
+    "translation": "might"
+  },
+  {
+    "rank": 234,
+    "word": "история",
+    "ipa": "",
+    "translation": "story"
+  },
+  {
+    "rank": 235,
+    "word": "пила",
+    "ipa": "",
+    "translation": "saw"
+  },
+  {
+    "rank": 236,
+    "word": "далеко",
+    "ipa": "",
+    "translation": "far"
+  },
+  {
+    "rank": 237,
+    "word": "море",
+    "ipa": "",
+    "translation": "sea"
+  },
+  {
+    "rank": 238,
+    "word": "привлечь",
+    "ipa": "",
+    "translation": "draw"
+  },
+  {
+    "rank": 239,
+    "word": "слева",
+    "ipa": "",
+    "translation": "left"
+  },
+  {
+    "rank": 240,
+    "word": "поздно",
+    "ipa": "",
+    "translation": "late"
+  },
+  {
+    "rank": 241,
+    "word": "запустить",
+    "ipa": "",
+    "translation": "run"
+  },
+  {
+    "rank": 242,
+    "word": "не",
+    "ipa": "",
+    "translation": "don’t"
+  },
+  {
+    "rank": 243,
+    "word": "в то время как",
+    "ipa": "",
+    "translation": "while"
+  },
+  {
+    "rank": 244,
+    "word": "нажмите",
+    "ipa": "",
+    "translation": "press"
+  },
+  {
+    "rank": 245,
+    "word": "близко",
+    "ipa": "",
+    "translation": "close"
+  },
+  {
+    "rank": 246,
+    "word": "ночь",
+    "ipa": "",
+    "translation": "night"
+  },
+  {
+    "rank": 247,
+    "word": "реальный",
+    "ipa": "",
+    "translation": "real"
+  },
+  {
+    "rank": 248,
+    "word": "жизнь",
+    "ipa": "",
+    "translation": "life"
+  },
+  {
+    "rank": 249,
+    "word": "несколько",
+    "ipa": "",
+    "translation": "few"
+  },
+  {
+    "rank": 250,
+    "word": "к северу",
+    "ipa": "",
+    "translation": "north"
+  },
+  {
+    "rank": 251,
+    "word": "книга",
+    "ipa": "",
+    "translation": "book"
+  },
+  {
+    "rank": 252,
+    "word": "нести",
+    "ipa": "",
+    "translation": "carry"
+  },
+  {
+    "rank": 253,
+    "word": "взял",
+    "ipa": "",
+    "translation": "took"
+  },
+  {
+    "rank": 254,
+    "word": "наука",
+    "ipa": "",
+    "translation": "science"
+  },
+  {
+    "rank": 255,
+    "word": "есть",
+    "ipa": "",
+    "translation": "eat"
+  },
+  {
+    "rank": 256,
+    "word": "номер",
+    "ipa": "",
+    "translation": "room"
+  },
+  {
+    "rank": 257,
+    "word": "друг",
+    "ipa": "",
+    "translation": "friend"
+  },
+  {
+    "rank": 258,
+    "word": "начал",
+    "ipa": "",
+    "translation": "began"
+  },
+  {
+    "rank": 259,
+    "word": "идея",
+    "ipa": "",
+    "translation": "idea"
+  },
+  {
+    "rank": 260,
+    "word": "рыба",
+    "ipa": "",
+    "translation": "fish"
+  },
+  {
+    "rank": 261,
+    "word": "гора",
+    "ipa": "",
+    "translation": "mountain"
+  },
+  {
+    "rank": 262,
+    "word": "остановить",
+    "ipa": "",
+    "translation": "stop"
+  },
+  {
+    "rank": 263,
+    "word": "раз",
+    "ipa": "",
+    "translation": "once"
+  },
+  {
+    "rank": 264,
+    "word": "база",
+    "ipa": "",
+    "translation": "base"
+  },
+  {
+    "rank": 265,
+    "word": "слышать",
+    "ipa": "",
+    "translation": "hear"
+  },
+  {
+    "rank": 266,
+    "word": "лошадь",
+    "ipa": "",
+    "translation": "horse"
+  },
+  {
+    "rank": 267,
+    "word": "вырезать",
+    "ipa": "",
+    "translation": "cut"
+  },
+  {
+    "rank": 268,
+    "word": "уверен",
+    "ipa": "",
+    "translation": "sure"
+  },
+  {
+    "rank": 269,
+    "word": "смотреть",
+    "ipa": "",
+    "translation": "watch"
+  },
+  {
+    "rank": 270,
+    "word": "цвет",
+    "ipa": "",
+    "translation": "color"
+  },
+  {
+    "rank": 271,
+    "word": "лицо",
+    "ipa": "",
+    "translation": "face"
+  },
+  {
+    "rank": 272,
+    "word": "дерево",
+    "ipa": "",
+    "translation": "wood"
+  },
+  {
+    "rank": 273,
+    "word": "основной",
+    "ipa": "",
+    "translation": "main"
+  },
+  {
+    "rank": 274,
+    "word": "открыт",
+    "ipa": "",
+    "translation": "open"
+  },
+  {
+    "rank": 275,
+    "word": "кажется",
+    "ipa": "",
+    "translation": "seem"
+  },
+  {
+    "rank": 276,
+    "word": "вместе",
+    "ipa": "",
+    "translation": "together"
+  },
+  {
+    "rank": 277,
+    "word": "следующий",
+    "ipa": "",
+    "translation": "next"
+  },
+  {
+    "rank": 278,
+    "word": "белый",
+    "ipa": "",
+    "translation": "white"
+  },
+  {
+    "rank": 279,
+    "word": "дети",
+    "ipa": "",
+    "translation": "children"
+  },
+  {
+    "rank": 280,
+    "word": "начать",
+    "ipa": "",
+    "translation": "begin"
+  },
+  {
+    "rank": 281,
+    "word": "получил",
+    "ipa": "",
+    "translation": "got"
+  },
+  {
+    "rank": 282,
+    "word": "ходить",
+    "ipa": "",
+    "translation": "walk"
+  },
+  {
+    "rank": 283,
+    "word": "пример",
+    "ipa": "",
+    "translation": "example"
+  },
+  {
+    "rank": 284,
+    "word": "легкость",
+    "ipa": "",
+    "translation": "ease"
+  },
+  {
+    "rank": 285,
+    "word": "бумага",
+    "ipa": "",
+    "translation": "paper"
+  },
+  {
+    "rank": 286,
+    "word": "группа",
+    "ipa": "",
+    "translation": "group"
+  },
+  {
+    "rank": 287,
+    "word": "всегда",
+    "ipa": "",
+    "translation": "always"
+  },
+  {
+    "rank": 288,
+    "word": "музыка",
+    "ipa": "",
+    "translation": "music"
+  },
+  {
+    "rank": 289,
+    "word": "тех,",
+    "ipa": "",
+    "translation": "those"
+  },
+  {
+    "rank": 290,
+    "word": "как",
+    "ipa": "",
+    "translation": "both"
+  },
+  {
+    "rank": 291,
+    "word": "знак",
+    "ipa": "",
+    "translation": "mark"
+  },
+  {
+    "rank": 292,
+    "word": "часто",
+    "ipa": "",
+    "translation": "often"
+  },
+  {
+    "rank": 293,
+    "word": "письмо",
+    "ipa": "",
+    "translation": "letter"
+  },
+  {
+    "rank": 294,
+    "word": "до",
+    "ipa": "",
+    "translation": "until"
+  },
+  {
+    "rank": 295,
+    "word": "км",
+    "ipa": "",
+    "translation": "mile"
+  },
+  {
+    "rank": 296,
+    "word": "река",
+    "ipa": "",
+    "translation": "river"
+  },
+  {
+    "rank": 297,
+    "word": "автомобиль",
+    "ipa": "",
+    "translation": "car"
+  },
+  {
+    "rank": 298,
+    "word": "футов",
+    "ipa": "",
+    "translation": "feet"
+  },
+  {
+    "rank": 299,
+    "word": "уход",
+    "ipa": "",
+    "translation": "care"
+  },
+  {
+    "rank": 300,
+    "word": "Второй",
+    "ipa": "",
+    "translation": "second"
+  },
+  {
+    "rank": 301,
+    "word": "достаточно",
+    "ipa": "",
+    "translation": "enough"
+  },
+  {
+    "rank": 302,
+    "word": "равнина",
+    "ipa": "",
+    "translation": "plain"
+  },
+  {
+    "rank": 303,
+    "word": "девушка",
+    "ipa": "",
+    "translation": "girl"
+  },
+  {
+    "rank": 304,
+    "word": "обычно",
+    "ipa": "",
+    "translation": "usual"
+  },
+  {
+    "rank": 305,
+    "word": "молодой",
+    "ipa": "",
+    "translation": "young"
+  },
+  {
+    "rank": 306,
+    "word": "готовый",
+    "ipa": "",
+    "translation": "ready"
+  },
+  {
+    "rank": 307,
+    "word": "выше",
+    "ipa": "",
+    "translation": "above"
+  },
+  {
+    "rank": 308,
+    "word": "когда-либо",
+    "ipa": "",
+    "translation": "ever"
+  },
+  {
+    "rank": 309,
+    "word": "красный",
+    "ipa": "",
+    "translation": "red"
+  },
+  {
+    "rank": 310,
+    "word": "список",
+    "ipa": "",
+    "translation": "list"
+  },
+  {
+    "rank": 311,
+    "word": "хотя",
+    "ipa": "",
+    "translation": "though"
+  },
+  {
+    "rank": 312,
+    "word": "чувствовать",
+    "ipa": "",
+    "translation": "feel"
+  },
+  {
+    "rank": 313,
+    "word": "разговор",
+    "ipa": "",
+    "translation": "talk"
+  },
+  {
+    "rank": 314,
+    "word": "птица",
+    "ipa": "",
+    "translation": "bird"
+  },
+  {
+    "rank": 315,
+    "word": "скоро",
+    "ipa": "",
+    "translation": "soon"
+  },
+  {
+    "rank": 316,
+    "word": "тело",
+    "ipa": "",
+    "translation": "body"
+  },
+  {
+    "rank": 317,
+    "word": "собака",
+    "ipa": "",
+    "translation": "dog"
+  },
+  {
+    "rank": 318,
+    "word": "семья",
+    "ipa": "",
+    "translation": "family"
+  },
+  {
+    "rank": 319,
+    "word": "прямой",
+    "ipa": "",
+    "translation": "direct"
+  },
+  {
+    "rank": 320,
+    "word": "представляют",
+    "ipa": "",
+    "translation": "pose"
+  },
+  {
+    "rank": 321,
+    "word": "оставить",
+    "ipa": "",
+    "translation": "leave"
+  },
+  {
+    "rank": 322,
+    "word": "песня",
+    "ipa": "",
+    "translation": "song"
+  },
+  {
+    "rank": 323,
+    "word": "измерять",
+    "ipa": "",
+    "translation": "measure"
+  },
+  {
+    "rank": 324,
+    "word": "дверь",
+    "ipa": "",
+    "translation": "door"
+  },
+  {
+    "rank": 325,
+    "word": "продукт",
+    "ipa": "",
+    "translation": "product"
+  },
+  {
+    "rank": 326,
+    "word": "черный",
+    "ipa": "",
+    "translation": "black"
+  },
+  {
+    "rank": 327,
+    "word": "короткая",
+    "ipa": "",
+    "translation": "short"
+  },
+  {
+    "rank": 328,
+    "word": "цифра",
+    "ipa": "",
+    "translation": "numeral"
+  },
+  {
+    "rank": 329,
+    "word": "класс",
+    "ipa": "",
+    "translation": "class"
+  },
+  {
+    "rank": 330,
+    "word": "ветер",
+    "ipa": "",
+    "translation": "wind"
+  },
+  {
+    "rank": 331,
+    "word": "вопрос",
+    "ipa": "",
+    "translation": "question"
+  },
+  {
+    "rank": 332,
+    "word": "произойдет",
+    "ipa": "",
+    "translation": "happen"
+  },
+  {
+    "rank": 333,
+    "word": "полная",
+    "ipa": "",
+    "translation": "complete"
+  },
+  {
+    "rank": 334,
+    "word": "корабль",
+    "ipa": "",
+    "translation": "ship"
+  },
+  {
+    "rank": 335,
+    "word": "площадь",
+    "ipa": "",
+    "translation": "area"
+  },
+  {
+    "rank": 336,
+    "word": "половина",
+    "ipa": "",
+    "translation": "half"
+  },
+  {
+    "rank": 337,
+    "word": "рок",
+    "ipa": "",
+    "translation": "rock"
+  },
+  {
+    "rank": 338,
+    "word": "порядок",
+    "ipa": "",
+    "translation": "order"
+  },
+  {
+    "rank": 339,
+    "word": "огонь",
+    "ipa": "",
+    "translation": "fire"
+  },
+  {
+    "rank": 340,
+    "word": "юг",
+    "ipa": "",
+    "translation": "south"
+  },
+  {
+    "rank": 341,
+    "word": "проблема",
+    "ipa": "",
+    "translation": "problem"
+  },
+  {
+    "rank": 342,
+    "word": "кусок",
+    "ipa": "",
+    "translation": "piece"
+  },
+  {
+    "rank": 343,
+    "word": "сказал",
+    "ipa": "",
+    "translation": "told"
+  },
+  {
+    "rank": 344,
+    "word": "знал",
+    "ipa": "",
+    "translation": "knew"
+  },
+  {
+    "rank": 345,
+    "word": "проходить",
+    "ipa": "",
+    "translation": "pass"
+  },
+  {
+    "rank": 346,
+    "word": "с",
+    "ipa": "",
+    "translation": "since"
+  },
+  {
+    "rank": 347,
+    "word": "топ",
+    "ipa": "",
+    "translation": "top"
+  },
+  {
+    "rank": 348,
+    "word": "весь",
+    "ipa": "",
+    "translation": "whole"
+  },
+  {
+    "rank": 349,
+    "word": "король",
+    "ipa": "",
+    "translation": "king"
+  },
+  {
+    "rank": 350,
+    "word": "улица",
+    "ipa": "",
+    "translation": "street"
+  },
+  {
+    "rank": 351,
+    "word": "дюйм",
+    "ipa": "",
+    "translation": "inch"
+  },
+  {
+    "rank": 352,
+    "word": "умножить",
+    "ipa": "",
+    "translation": "multiply"
+  },
+  {
+    "rank": 353,
+    "word": "ничего",
+    "ipa": "",
+    "translation": "nothing"
+  },
+  {
+    "rank": 354,
+    "word": "курс",
+    "ipa": "",
+    "translation": "course"
+  },
+  {
+    "rank": 355,
+    "word": "оставаться",
+    "ipa": "",
+    "translation": "stay"
+  },
+  {
+    "rank": 356,
+    "word": "колеса",
+    "ipa": "",
+    "translation": "wheel"
+  },
+  {
+    "rank": 357,
+    "word": "полный",
+    "ipa": "",
+    "translation": "full"
+  },
+  {
+    "rank": 358,
+    "word": "сила",
+    "ipa": "",
+    "translation": "force"
+  },
+  {
+    "rank": 359,
+    "word": "синий",
+    "ipa": "",
+    "translation": "blue"
+  },
+  {
+    "rank": 360,
+    "word": "объект",
+    "ipa": "",
+    "translation": "object"
+  },
+  {
+    "rank": 361,
+    "word": "решать",
+    "ipa": "",
+    "translation": "decide"
+  },
+  {
+    "rank": 362,
+    "word": "поверхность",
+    "ipa": "",
+    "translation": "surface"
+  },
+  {
+    "rank": 363,
+    "word": "глубоко",
+    "ipa": "",
+    "translation": "deep"
+  },
+  {
+    "rank": 364,
+    "word": "луна",
+    "ipa": "",
+    "translation": "moon"
+  },
+  {
+    "rank": 365,
+    "word": "остров",
+    "ipa": "",
+    "translation": "island"
+  },
+  {
+    "rank": 366,
+    "word": "фут",
+    "ipa": "",
+    "translation": "foot"
+  },
+  {
+    "rank": 367,
+    "word": "система",
+    "ipa": "",
+    "translation": "system"
+  },
+  {
+    "rank": 368,
+    "word": "занято",
+    "ipa": "",
+    "translation": "busy"
+  },
+  {
+    "rank": 369,
+    "word": "тест",
+    "ipa": "",
+    "translation": "test"
+  },
+  {
+    "rank": 370,
+    "word": "запись",
+    "ipa": "",
+    "translation": "record"
+  },
+  {
+    "rank": 371,
+    "word": "лодка",
+    "ipa": "",
+    "translation": "boat"
+  },
+  {
+    "rank": 372,
+    "word": "общая",
+    "ipa": "",
+    "translation": "common"
+  },
+  {
+    "rank": 373,
+    "word": "золото",
+    "ipa": "",
+    "translation": "gold"
+  },
+  {
+    "rank": 374,
+    "word": "возможно",
+    "ipa": "",
+    "translation": "possible"
+  },
+  {
+    "rank": 375,
+    "word": "самолет",
+    "ipa": "",
+    "translation": "plane"
+  },
+  {
+    "rank": 376,
+    "word": "вместо него",
+    "ipa": "",
+    "translation": "stead"
+  },
+  {
+    "rank": 377,
+    "word": "сухой",
+    "ipa": "",
+    "translation": "dry"
+  },
+  {
+    "rank": 378,
+    "word": "Интересно",
+    "ipa": "",
+    "translation": "wonder"
+  },
+  {
+    "rank": 379,
+    "word": "смех",
+    "ipa": "",
+    "translation": "laugh"
+  },
+  {
+    "rank": 380,
+    "word": "тыс",
+    "ipa": "",
+    "translation": "thousand"
+  },
+  {
+    "rank": 381,
+    "word": "назад",
+    "ipa": "",
+    "translation": "ago"
+  },
+  {
+    "rank": 382,
+    "word": "побежал",
+    "ipa": "",
+    "translation": "ran"
+  },
+  {
+    "rank": 383,
+    "word": "проверять",
+    "ipa": "",
+    "translation": "check"
+  },
+  {
+    "rank": 384,
+    "word": "игра",
+    "ipa": "",
+    "translation": "game"
+  },
+  {
+    "rank": 385,
+    "word": "форма",
+    "ipa": "",
+    "translation": "shape"
+  },
+  {
+    "rank": 386,
+    "word": "приравнять",
+    "ipa": "",
+    "translation": "equate"
+  },
+  {
+    "rank": 387,
+    "word": "горячий",
+    "ipa": "",
+    "translation": "hot"
+  },
+  {
+    "rank": 388,
+    "word": "мисс",
+    "ipa": "",
+    "translation": "miss"
+  },
+  {
+    "rank": 389,
+    "word": "принес",
+    "ipa": "",
+    "translation": "brought"
+  },
+  {
+    "rank": 390,
+    "word": "тепло",
+    "ipa": "",
+    "translation": "heat"
+  },
+  {
+    "rank": 391,
+    "word": "снег",
+    "ipa": "",
+    "translation": "snow"
+  },
+  {
+    "rank": 392,
+    "word": "шина",
+    "ipa": "",
+    "translation": "tire"
+  },
+  {
+    "rank": 393,
+    "word": "приносить",
+    "ipa": "",
+    "translation": "bring"
+  },
+  {
+    "rank": 394,
+    "word": "да",
+    "ipa": "",
+    "translation": "yes"
+  },
+  {
+    "rank": 395,
+    "word": "удаленная",
+    "ipa": "",
+    "translation": "distant"
+  },
+  {
+    "rank": 396,
+    "word": "заполнить",
+    "ipa": "",
+    "translation": "fill"
+  },
+  {
+    "rank": 397,
+    "word": "восток",
+    "ipa": "",
+    "translation": "east"
+  },
+  {
+    "rank": 398,
+    "word": "краска",
+    "ipa": "",
+    "translation": "paint"
+  },
+  {
+    "rank": 399,
+    "word": "язык",
+    "ipa": "",
+    "translation": "language"
+  },
+  {
+    "rank": 400,
+    "word": "среди",
+    "ipa": "",
+    "translation": "among"
+  },
+  {
+    "rank": 401,
+    "word": "блок",
+    "ipa": "",
+    "translation": "unit"
+  },
+  {
+    "rank": 402,
+    "word": "мощность",
+    "ipa": "",
+    "translation": "power"
+  },
+  {
+    "rank": 403,
+    "word": "город",
+    "ipa": "",
+    "translation": "town"
+  },
+  {
+    "rank": 404,
+    "word": "отлично",
+    "ipa": "",
+    "translation": "fine"
+  },
+  {
+    "rank": 405,
+    "word": "уверен",
+    "ipa": "",
+    "translation": "certain"
+  },
+  {
+    "rank": 406,
+    "word": "летать",
+    "ipa": "",
+    "translation": "fly"
+  },
+  {
+    "rank": 407,
+    "word": "падать",
+    "ipa": "",
+    "translation": "fall"
+  },
+  {
+    "rank": 408,
+    "word": "привести",
+    "ipa": "",
+    "translation": "lead"
+  },
+  {
+    "rank": 409,
+    "word": "крик",
+    "ipa": "",
+    "translation": "cry"
+  },
+  {
+    "rank": 410,
+    "word": "темно",
+    "ipa": "",
+    "translation": "dark"
+  },
+  {
+    "rank": 411,
+    "word": "машина",
+    "ipa": "",
+    "translation": "machine"
+  },
+  {
+    "rank": 412,
+    "word": "примечание",
+    "ipa": "",
+    "translation": "note"
+  },
+  {
+    "rank": 413,
+    "word": "ждать",
+    "ipa": "",
+    "translation": "wait"
+  },
+  {
+    "rank": 414,
+    "word": "план",
+    "ipa": "",
+    "translation": "plan"
+  },
+  {
+    "rank": 415,
+    "word": "фигура",
+    "ipa": "",
+    "translation": "figure"
+  },
+  {
+    "rank": 416,
+    "word": "звезда",
+    "ipa": "",
+    "translation": "star"
+  },
+  {
+    "rank": 417,
+    "word": "коробка",
+    "ipa": "",
+    "translation": "box"
+  },
+  {
+    "rank": 418,
+    "word": "существительное",
+    "ipa": "",
+    "translation": "noun"
+  },
+  {
+    "rank": 419,
+    "word": "поле",
+    "ipa": "",
+    "translation": "field"
+  },
+  {
+    "rank": 420,
+    "word": "остальные",
+    "ipa": "",
+    "translation": "rest"
+  },
+  {
+    "rank": 421,
+    "word": "верный",
+    "ipa": "",
+    "translation": "correct"
+  },
+  {
+    "rank": 422,
+    "word": "состоянии",
+    "ipa": "",
+    "translation": "able"
+  },
+  {
+    "rank": 423,
+    "word": "фунт",
+    "ipa": "",
+    "translation": "pound"
+  },
+  {
+    "rank": 424,
+    "word": "сделано",
+    "ipa": "",
+    "translation": "done"
+  },
+  {
+    "rank": 425,
+    "word": "красота",
+    "ipa": "",
+    "translation": "beauty"
+  },
+  {
+    "rank": 426,
+    "word": "привод",
+    "ipa": "",
+    "translation": "drive"
+  },
+  {
+    "rank": 427,
+    "word": "стоял",
+    "ipa": "",
+    "translation": "stood"
+  },
+  {
+    "rank": 428,
+    "word": "содержать",
+    "ipa": "",
+    "translation": "contain"
+  },
+  {
+    "rank": 429,
+    "word": "передние",
+    "ipa": "",
+    "translation": "front"
+  },
+  {
+    "rank": 430,
+    "word": "учить",
+    "ipa": "",
+    "translation": "teach"
+  },
+  {
+    "rank": 431,
+    "word": "неделя",
+    "ipa": "",
+    "translation": "week"
+  },
+  {
+    "rank": 432,
+    "word": "окончательный",
+    "ipa": "",
+    "translation": "final"
+  },
+  {
+    "rank": 433,
+    "word": "дал",
+    "ipa": "",
+    "translation": "gave"
+  },
+  {
+    "rank": 434,
+    "word": "зеленый",
+    "ipa": "",
+    "translation": "green"
+  },
+  {
+    "rank": 435,
+    "word": "ой",
+    "ipa": "",
+    "translation": "oh"
+  },
+  {
+    "rank": 436,
+    "word": "быстро",
+    "ipa": "",
+    "translation": "quick"
+  },
+  {
+    "rank": 437,
+    "word": "развивать",
+    "ipa": "",
+    "translation": "develop"
+  },
+  {
+    "rank": 438,
+    "word": "океан",
+    "ipa": "",
+    "translation": "ocean"
+  },
+  {
+    "rank": 439,
+    "word": "теплый",
+    "ipa": "",
+    "translation": "warm"
+  },
+  {
+    "rank": 440,
+    "word": "бесплатно",
+    "ipa": "",
+    "translation": "free"
+  },
+  {
+    "rank": 441,
+    "word": "минут",
+    "ipa": "",
+    "translation": "minute"
+  },
+  {
+    "rank": 442,
+    "word": "сильный",
+    "ipa": "",
+    "translation": "strong"
+  },
+  {
+    "rank": 443,
+    "word": "специальный",
+    "ipa": "",
+    "translation": "special"
+  },
+  {
+    "rank": 444,
+    "word": "ум",
+    "ipa": "",
+    "translation": "mind"
+  },
+  {
+    "rank": 445,
+    "word": "за",
+    "ipa": "",
+    "translation": "behind"
+  },
+  {
+    "rank": 446,
+    "word": "ясно",
+    "ipa": "",
+    "translation": "clear"
+  },
+  {
+    "rank": 447,
+    "word": "хвост",
+    "ipa": "",
+    "translation": "tail"
+  },
+  {
+    "rank": 448,
+    "word": "производить",
+    "ipa": "",
+    "translation": "produce"
+  },
+  {
+    "rank": 449,
+    "word": "факт",
+    "ipa": "",
+    "translation": "fact"
+  },
+  {
+    "rank": 450,
+    "word": "пространство",
+    "ipa": "",
+    "translation": "space"
+  },
+  {
+    "rank": 451,
+    "word": "слышал",
+    "ipa": "",
+    "translation": "heard"
+  },
+  {
+    "rank": 452,
+    "word": "лучше",
+    "ipa": "",
+    "translation": "best"
+  },
+  {
+    "rank": 453,
+    "word": "час",
+    "ipa": "",
+    "translation": "hour"
+  },
+  {
+    "rank": 454,
+    "word": "лучше",
+    "ipa": "",
+    "translation": "better"
+  },
+  {
+    "rank": 455,
+    "word": "правда",
+    "ipa": "",
+    "translation": "true"
+  },
+  {
+    "rank": 456,
+    "word": "во",
+    "ipa": "",
+    "translation": "during"
+  },
+  {
+    "rank": 457,
+    "word": "сто",
+    "ipa": "",
+    "translation": "hundred"
+  },
+  {
+    "rank": 458,
+    "word": "пять",
+    "ipa": "",
+    "translation": "five"
+  },
+  {
+    "rank": 459,
+    "word": "запомнить",
+    "ipa": "",
+    "translation": "remember"
+  },
+  {
+    "rank": 460,
+    "word": "шаг",
+    "ipa": "",
+    "translation": "step"
+  },
+  {
+    "rank": 461,
+    "word": "рано",
+    "ipa": "",
+    "translation": "early"
+  },
+  {
+    "rank": 462,
+    "word": "удерживайте",
+    "ipa": "",
+    "translation": "hold"
+  },
+  {
+    "rank": 463,
+    "word": "запад",
+    "ipa": "",
+    "translation": "west"
+  },
+  {
+    "rank": 464,
+    "word": "земля",
+    "ipa": "",
+    "translation": "ground"
+  },
+  {
+    "rank": 465,
+    "word": "интерес",
+    "ipa": "",
+    "translation": "interest"
+  },
+  {
+    "rank": 466,
+    "word": "достичь",
+    "ipa": "",
+    "translation": "reach"
+  },
+  {
+    "rank": 467,
+    "word": "быстро",
+    "ipa": "",
+    "translation": "fast"
+  },
+  {
+    "rank": 468,
+    "word": "глагол",
+    "ipa": "",
+    "translation": "verb"
+  },
+  {
+    "rank": 469,
+    "word": "петь",
+    "ipa": "",
+    "translation": "sing"
+  },
+  {
+    "rank": 470,
+    "word": "слушать",
+    "ipa": "",
+    "translation": "listen"
+  },
+  {
+    "rank": 471,
+    "word": "шесть",
+    "ipa": "",
+    "translation": "six"
+  },
+  {
+    "rank": 472,
+    "word": "стол",
+    "ipa": "",
+    "translation": "table"
+  },
+  {
+    "rank": 473,
+    "word": "поездки",
+    "ipa": "",
+    "translation": "travel"
+  },
+  {
+    "rank": 474,
+    "word": "меньше",
+    "ipa": "",
+    "translation": "less"
+  },
+  {
+    "rank": 475,
+    "word": "утро",
+    "ipa": "",
+    "translation": "morning"
+  },
+  {
+    "rank": 476,
+    "word": "десять",
+    "ipa": "",
+    "translation": "ten"
+  },
+  {
+    "rank": 477,
+    "word": "простой",
+    "ipa": "",
+    "translation": "simple"
+  },
+  {
+    "rank": 478,
+    "word": "несколько",
+    "ipa": "",
+    "translation": "several"
+  },
+  {
+    "rank": 479,
+    "word": "гласный",
+    "ipa": "",
+    "translation": "vowel"
+  },
+  {
+    "rank": 480,
+    "word": "к",
+    "ipa": "",
+    "translation": "toward"
+  },
+  {
+    "rank": 481,
+    "word": "война",
+    "ipa": "",
+    "translation": "war"
+  },
+  {
+    "rank": 482,
+    "word": "заложить",
+    "ipa": "",
+    "translation": "lay"
+  },
+  {
+    "rank": 483,
+    "word": "против",
+    "ipa": "",
+    "translation": "against"
+  },
+  {
+    "rank": 484,
+    "word": "шаблон",
+    "ipa": "",
+    "translation": "pattern"
+  },
+  {
+    "rank": 485,
+    "word": "медленно",
+    "ipa": "",
+    "translation": "slow"
+  },
+  {
+    "rank": 486,
+    "word": "центр",
+    "ipa": "",
+    "translation": "center"
+  },
+  {
+    "rank": 487,
+    "word": "любовь",
+    "ipa": "",
+    "translation": "love"
+  },
+  {
+    "rank": 488,
+    "word": "человек",
+    "ipa": "",
+    "translation": "person"
+  },
+  {
+    "rank": 489,
+    "word": "деньги",
+    "ipa": "",
+    "translation": "money"
+  },
+  {
+    "rank": 490,
+    "word": "служить",
+    "ipa": "",
+    "translation": "serve"
+  },
+  {
+    "rank": 491,
+    "word": "появляются",
+    "ipa": "",
+    "translation": "appear"
+  },
+  {
+    "rank": 492,
+    "word": "дорога",
+    "ipa": "",
+    "translation": "road"
+  },
+  {
+    "rank": 493,
+    "word": "карта",
+    "ipa": "",
+    "translation": "map"
+  },
+  {
+    "rank": 494,
+    "word": "дождь",
+    "ipa": "",
+    "translation": "rain"
+  },
+  {
+    "rank": 495,
+    "word": "правило",
+    "ipa": "",
+    "translation": "rule"
+  },
+  {
+    "rank": 496,
+    "word": "управлять",
+    "ipa": "",
+    "translation": "govern"
+  },
+  {
+    "rank": 497,
+    "word": "тянуть",
+    "ipa": "",
+    "translation": "pull"
+  },
+  {
+    "rank": 498,
+    "word": "холодный",
+    "ipa": "",
+    "translation": "cold"
+  },
+  {
+    "rank": 499,
+    "word": "уведомление",
+    "ipa": "",
+    "translation": "notice"
+  },
+  {
+    "rank": 500,
+    "word": "голос",
+    "ipa": "",
+    "translation": "voice"
+  },
+  {
+    "rank": 501,
+    "word": "энергия",
+    "ipa": "",
+    "translation": "energy"
+  },
+  {
+    "rank": 502,
+    "word": "охота",
+    "ipa": "",
+    "translation": "hunt"
+  },
+  {
+    "rank": 503,
+    "word": "вероятный",
+    "ipa": "",
+    "translation": "probable"
+  },
+  {
+    "rank": 504,
+    "word": "кровать",
+    "ipa": "",
+    "translation": "bed"
+  },
+  {
+    "rank": 505,
+    "word": "брат",
+    "ipa": "",
+    "translation": "brother"
+  },
+  {
+    "rank": 506,
+    "word": "яйцо",
+    "ipa": "",
+    "translation": "egg"
+  },
+  {
+    "rank": 507,
+    "word": "поездка",
+    "ipa": "",
+    "translation": "ride"
+  },
+  {
+    "rank": 508,
+    "word": "клеток",
+    "ipa": "",
+    "translation": "cell"
+  },
+  {
+    "rank": 509,
+    "word": "верить",
+    "ipa": "",
+    "translation": "believe"
+  },
+  {
+    "rank": 510,
+    "word": "возможно,",
+    "ipa": "",
+    "translation": "perhaps"
+  },
+  {
+    "rank": 511,
+    "word": "выбрать",
+    "ipa": "",
+    "translation": "pick"
+  },
+  {
+    "rank": 512,
+    "word": "внезапный",
+    "ipa": "",
+    "translation": "sudden"
+  },
+  {
+    "rank": 513,
+    "word": "считать",
+    "ipa": "",
+    "translation": "count"
+  },
+  {
+    "rank": 514,
+    "word": "Квадратный",
+    "ipa": "",
+    "translation": "square"
+  },
+  {
+    "rank": 515,
+    "word": "причина",
+    "ipa": "",
+    "translation": "reason"
+  },
+  {
+    "rank": 516,
+    "word": "длина",
+    "ipa": "",
+    "translation": "length"
+  },
+  {
+    "rank": 517,
+    "word": "представлять",
+    "ipa": "",
+    "translation": "represent"
+  },
+  {
+    "rank": 518,
+    "word": "искусство",
+    "ipa": "",
+    "translation": "art"
+  },
+  {
+    "rank": 519,
+    "word": "Заголовок",
+    "ipa": "",
+    "translation": "subject"
+  },
+  {
+    "rank": 520,
+    "word": "область",
+    "ipa": "",
+    "translation": "region"
+  },
+  {
+    "rank": 521,
+    "word": "размер",
+    "ipa": "",
+    "translation": "size"
+  },
+  {
+    "rank": 522,
+    "word": "меняться",
+    "ipa": "",
+    "translation": "vary"
+  },
+  {
+    "rank": 523,
+    "word": "урегулировать",
+    "ipa": "",
+    "translation": "settle"
+  },
+  {
+    "rank": 524,
+    "word": "говорить",
+    "ipa": "",
+    "translation": "speak"
+  },
+  {
+    "rank": 525,
+    "word": "вес",
+    "ipa": "",
+    "translation": "weight"
+  },
+  {
+    "rank": 526,
+    "word": "общий",
+    "ipa": "",
+    "translation": "general"
+  },
+  {
+    "rank": 527,
+    "word": "лед",
+    "ipa": "",
+    "translation": "ice"
+  },
+  {
+    "rank": 528,
+    "word": "дело",
+    "ipa": "",
+    "translation": "matter"
+  },
+  {
+    "rank": 529,
+    "word": "круг",
+    "ipa": "",
+    "translation": "circle"
+  },
+  {
+    "rank": 530,
+    "word": "пара",
+    "ipa": "",
+    "translation": "pair"
+  },
+  {
+    "rank": 531,
+    "word": "включают",
+    "ipa": "",
+    "translation": "include"
+  },
+  {
+    "rank": 532,
+    "word": "разделяй",
+    "ipa": "",
+    "translation": "divide"
+  },
+  {
+    "rank": 533,
+    "word": "слог",
+    "ipa": "",
+    "translation": "syllable"
+  },
+  {
+    "rank": 534,
+    "word": "чувствовал",
+    "ipa": "",
+    "translation": "felt"
+  },
+  {
+    "rank": 535,
+    "word": "великий",
+    "ipa": "",
+    "translation": "grand"
+  },
+  {
+    "rank": 536,
+    "word": "мяч",
+    "ipa": "",
+    "translation": "ball"
+  },
+  {
+    "rank": 537,
+    "word": "еще",
+    "ipa": "",
+    "translation": "yet"
+  },
+  {
+    "rank": 538,
+    "word": "волна",
+    "ipa": "",
+    "translation": "wave"
+  },
+  {
+    "rank": 539,
+    "word": "падение",
+    "ipa": "",
+    "translation": "drop"
+  },
+  {
+    "rank": 540,
+    "word": "сердце",
+    "ipa": "",
+    "translation": "heart"
+  },
+  {
+    "rank": 541,
+    "word": "утра",
+    "ipa": "",
+    "translation": "am"
+  },
+  {
+    "rank": 542,
+    "word": "присутствует",
+    "ipa": "",
+    "translation": "present"
+  },
+  {
+    "rank": 543,
+    "word": "тяжелый",
+    "ipa": "",
+    "translation": "heavy"
+  },
+  {
+    "rank": 544,
+    "word": "танец",
+    "ipa": "",
+    "translation": "dance"
+  },
+  {
+    "rank": 545,
+    "word": "двигатель",
+    "ipa": "",
+    "translation": "engine"
+  },
+  {
+    "rank": 546,
+    "word": "положение",
+    "ipa": "",
+    "translation": "position"
+  },
+  {
+    "rank": 547,
+    "word": "рука",
+    "ipa": "",
+    "translation": "arm"
+  },
+  {
+    "rank": 548,
+    "word": "широкий",
+    "ipa": "",
+    "translation": "wide"
+  },
+  {
+    "rank": 549,
+    "word": "парус",
+    "ipa": "",
+    "translation": "sail"
+  },
+  {
+    "rank": 550,
+    "word": "материал",
+    "ipa": "",
+    "translation": "material"
+  },
+  {
+    "rank": 551,
+    "word": "доля",
+    "ipa": "",
+    "translation": "fraction"
+  },
+  {
+    "rank": 552,
+    "word": "лес",
+    "ipa": "",
+    "translation": "forest"
+  },
+  {
+    "rank": 553,
+    "word": "сидеть",
+    "ipa": "",
+    "translation": "sit"
+  },
+  {
+    "rank": 554,
+    "word": "гонка",
+    "ipa": "",
+    "translation": "race"
+  },
+  {
+    "rank": 555,
+    "word": "окно",
+    "ipa": "",
+    "translation": "window"
+  },
+  {
+    "rank": 556,
+    "word": "магазин",
+    "ipa": "",
+    "translation": "store"
+  },
+  {
+    "rank": 557,
+    "word": "лето",
+    "ipa": "",
+    "translation": "summer"
+  },
+  {
+    "rank": 558,
+    "word": "поезд",
+    "ipa": "",
+    "translation": "train"
+  },
+  {
+    "rank": 559,
+    "word": "сон",
+    "ipa": "",
+    "translation": "sleep"
+  },
+  {
+    "rank": 560,
+    "word": "доказывать",
+    "ipa": "",
+    "translation": "prove"
+  },
+  {
+    "rank": 561,
+    "word": "одинокий",
+    "ipa": "",
+    "translation": "lone"
+  },
+  {
+    "rank": 562,
+    "word": "нога",
+    "ipa": "",
+    "translation": "leg"
+  },
+  {
+    "rank": 563,
+    "word": "упражнение",
+    "ipa": "",
+    "translation": "exercise"
+  },
+  {
+    "rank": 564,
+    "word": "стена",
+    "ipa": "",
+    "translation": "wall"
+  },
+  {
+    "rank": 565,
+    "word": "улов",
+    "ipa": "",
+    "translation": "catch"
+  },
+  {
+    "rank": 566,
+    "word": "крепление",
+    "ipa": "",
+    "translation": "mount"
+  },
+  {
+    "rank": 567,
+    "word": "хотите",
+    "ipa": "",
+    "translation": "wish"
+  },
+  {
+    "rank": 568,
+    "word": "небо",
+    "ipa": "",
+    "translation": "sky"
+  },
+  {
+    "rank": 569,
+    "word": "доска",
+    "ipa": "",
+    "translation": "board"
+  },
+  {
+    "rank": 570,
+    "word": "радость",
+    "ipa": "",
+    "translation": "joy"
+  },
+  {
+    "rank": 571,
+    "word": "зима",
+    "ipa": "",
+    "translation": "winter"
+  },
+  {
+    "rank": 572,
+    "word": "Сб",
+    "ipa": "",
+    "translation": "sat"
+  },
+  {
+    "rank": 573,
+    "word": "написанный",
+    "ipa": "",
+    "translation": "written"
+  },
+  {
+    "rank": 574,
+    "word": "дикий",
+    "ipa": "",
+    "translation": "wild"
+  },
+  {
+    "rank": 575,
+    "word": "инструмент",
+    "ipa": "",
+    "translation": "instrument"
+  },
+  {
+    "rank": 576,
+    "word": "хранится",
+    "ipa": "",
+    "translation": "kept"
+  },
+  {
+    "rank": 577,
+    "word": "стекло",
+    "ipa": "",
+    "translation": "glass"
+  },
+  {
+    "rank": 578,
+    "word": "трава",
+    "ipa": "",
+    "translation": "grass"
+  },
+  {
+    "rank": 579,
+    "word": "корова",
+    "ipa": "",
+    "translation": "cow"
+  },
+  {
+    "rank": 580,
+    "word": "работа",
+    "ipa": "",
+    "translation": "job"
+  },
+  {
+    "rank": 581,
+    "word": "край",
+    "ipa": "",
+    "translation": "edge"
+  },
+  {
+    "rank": 582,
+    "word": "знак",
+    "ipa": "",
+    "translation": "sign"
+  },
+  {
+    "rank": 583,
+    "word": "визит",
+    "ipa": "",
+    "translation": "visit"
+  },
+  {
+    "rank": 584,
+    "word": "мимо",
+    "ipa": "",
+    "translation": "past"
+  },
+  {
+    "rank": 585,
+    "word": "мягкая",
+    "ipa": "",
+    "translation": "soft"
+  },
+  {
+    "rank": 586,
+    "word": "весело",
+    "ipa": "",
+    "translation": "fun"
+  },
+  {
+    "rank": 587,
+    "word": "яркий",
+    "ipa": "",
+    "translation": "bright"
+  },
+  {
+    "rank": 588,
+    "word": "газа",
+    "ipa": "",
+    "translation": "gas"
+  },
+  {
+    "rank": 589,
+    "word": "погода",
+    "ipa": "",
+    "translation": "weather"
+  },
+  {
+    "rank": 590,
+    "word": "месяц",
+    "ipa": "",
+    "translation": "month"
+  },
+  {
+    "rank": 591,
+    "word": "миллион",
+    "ipa": "",
+    "translation": "million"
+  },
+  {
+    "rank": 592,
+    "word": "нести",
+    "ipa": "",
+    "translation": "bear"
+  },
+  {
+    "rank": 593,
+    "word": "отделка",
+    "ipa": "",
+    "translation": "finish"
+  },
+  {
+    "rank": 594,
+    "word": "счастливы",
+    "ipa": "",
+    "translation": "happy"
+  },
+  {
+    "rank": 595,
+    "word": "надеюсь",
+    "ipa": "",
+    "translation": "hope"
+  },
+  {
+    "rank": 596,
+    "word": "цветок",
+    "ipa": "",
+    "translation": "flower"
+  },
+  {
+    "rank": 597,
+    "word": "одевать",
+    "ipa": "",
+    "translation": "clothe"
+  },
+  {
+    "rank": 598,
+    "word": "странный",
+    "ipa": "",
+    "translation": "strange"
+  },
+  {
+    "rank": 599,
+    "word": "ушел",
+    "ipa": "",
+    "translation": "gone"
+  },
+  {
+    "rank": 600,
+    "word": "торговля",
+    "ipa": "",
+    "translation": "trade"
+  },
+  {
+    "rank": 601,
+    "word": "мелодия",
+    "ipa": "",
+    "translation": "melody"
+  },
+  {
+    "rank": 602,
+    "word": "поездка",
+    "ipa": "",
+    "translation": "trip"
+  },
+  {
+    "rank": 603,
+    "word": "офис",
+    "ipa": "",
+    "translation": "office"
+  },
+  {
+    "rank": 604,
+    "word": "получать",
+    "ipa": "",
+    "translation": "receive"
+  },
+  {
+    "rank": 605,
+    "word": "строка",
+    "ipa": "",
+    "translation": "row"
+  },
+  {
+    "rank": 606,
+    "word": "рот",
+    "ipa": "",
+    "translation": "mouth"
+  },
+  {
+    "rank": 607,
+    "word": "точный",
+    "ipa": "",
+    "translation": "exact"
+  },
+  {
+    "rank": 608,
+    "word": "символ",
+    "ipa": "",
+    "translation": "symbol"
+  },
+  {
+    "rank": 609,
+    "word": "умереть",
+    "ipa": "",
+    "translation": "die"
+  },
+  {
+    "rank": 610,
+    "word": "мере",
+    "ipa": "",
+    "translation": "least"
+  },
+  {
+    "rank": 611,
+    "word": "беда",
+    "ipa": "",
+    "translation": "trouble"
+  },
+  {
+    "rank": 612,
+    "word": "крик",
+    "ipa": "",
+    "translation": "shout"
+  },
+  {
+    "rank": 613,
+    "word": "кроме",
+    "ipa": "",
+    "translation": "except"
+  },
+  {
+    "rank": 614,
+    "word": "писал",
+    "ipa": "",
+    "translation": "wrote"
+  },
+  {
+    "rank": 615,
+    "word": "семян",
+    "ipa": "",
+    "translation": "seed"
+  },
+  {
+    "rank": 616,
+    "word": "тон",
+    "ipa": "",
+    "translation": "tone"
+  },
+  {
+    "rank": 617,
+    "word": "присоединиться",
+    "ipa": "",
+    "translation": "join"
+  },
+  {
+    "rank": 618,
+    "word": "предложить",
+    "ipa": "",
+    "translation": "suggest"
+  },
+  {
+    "rank": 619,
+    "word": "чистый",
+    "ipa": "",
+    "translation": "clean"
+  },
+  {
+    "rank": 620,
+    "word": "перерыв",
+    "ipa": "",
+    "translation": "break"
+  },
+  {
+    "rank": 621,
+    "word": "леди",
+    "ipa": "",
+    "translation": "lady"
+  },
+  {
+    "rank": 622,
+    "word": "двор",
+    "ipa": "",
+    "translation": "yard"
+  },
+  {
+    "rank": 623,
+    "word": "подниматься",
+    "ipa": "",
+    "translation": "rise"
+  },
+  {
+    "rank": 624,
+    "word": "плохо",
+    "ipa": "",
+    "translation": "bad"
+  },
+  {
+    "rank": 625,
+    "word": "удар",
+    "ipa": "",
+    "translation": "blow"
+  },
+  {
+    "rank": 626,
+    "word": "масло",
+    "ipa": "",
+    "translation": "oil"
+  },
+  {
+    "rank": 627,
+    "word": "кровь",
+    "ipa": "",
+    "translation": "blood"
+  },
+  {
+    "rank": 628,
+    "word": "коснуться",
+    "ipa": "",
+    "translation": "touch"
+  },
+  {
+    "rank": 629,
+    "word": "выросла",
+    "ipa": "",
+    "translation": "grew"
+  },
+  {
+    "rank": 630,
+    "word": "цент",
+    "ipa": "",
+    "translation": "cent"
+  },
+  {
+    "rank": 631,
+    "word": "смешивать",
+    "ipa": "",
+    "translation": "mix"
+  },
+  {
+    "rank": 632,
+    "word": "команда",
+    "ipa": "",
+    "translation": "team"
+  },
+  {
+    "rank": 633,
+    "word": "провод",
+    "ipa": "",
+    "translation": "wire"
+  },
+  {
+    "rank": 634,
+    "word": "Стоимость",
+    "ipa": "",
+    "translation": "cost"
+  },
+  {
+    "rank": 635,
+    "word": "потерянный",
+    "ipa": "",
+    "translation": "lost"
+  },
+  {
+    "rank": 636,
+    "word": "коричневый",
+    "ipa": "",
+    "translation": "brown"
+  },
+  {
+    "rank": 637,
+    "word": "носить",
+    "ipa": "",
+    "translation": "wear"
+  },
+  {
+    "rank": 638,
+    "word": "сад",
+    "ipa": "",
+    "translation": "garden"
+  },
+  {
+    "rank": 639,
+    "word": "равный",
+    "ipa": "",
+    "translation": "equal"
+  },
+  {
+    "rank": 640,
+    "word": "отправлено",
+    "ipa": "",
+    "translation": "sent"
+  },
+  {
+    "rank": 641,
+    "word": "выбирать",
+    "ipa": "",
+    "translation": "choose"
+  },
+  {
+    "rank": 642,
+    "word": "упал",
+    "ipa": "",
+    "translation": "fell"
+  },
+  {
+    "rank": 643,
+    "word": "соответствовать",
+    "ipa": "",
+    "translation": "fit"
+  },
+  {
+    "rank": 644,
+    "word": "течь",
+    "ipa": "",
+    "translation": "flow"
+  },
+  {
+    "rank": 645,
+    "word": "ярмарка",
+    "ipa": "",
+    "translation": "fair"
+  },
+  {
+    "rank": 646,
+    "word": "банк",
+    "ipa": "",
+    "translation": "bank"
+  },
+  {
+    "rank": 647,
+    "word": "собирать",
+    "ipa": "",
+    "translation": "collect"
+  },
+  {
+    "rank": 648,
+    "word": "сохранить",
+    "ipa": "",
+    "translation": "save"
+  },
+  {
+    "rank": 649,
+    "word": "контроль",
+    "ipa": "",
+    "translation": "control"
+  },
+  {
+    "rank": 650,
+    "word": "десятичной",
+    "ipa": "",
+    "translation": "decimal"
+  },
+  {
+    "rank": 651,
+    "word": "ухо",
+    "ipa": "",
+    "translation": "ear"
+  },
+  {
+    "rank": 652,
+    "word": "еще",
+    "ipa": "",
+    "translation": "else"
+  },
+  {
+    "rank": 653,
+    "word": "вполне",
+    "ipa": "",
+    "translation": "quite"
+  },
+  {
+    "rank": 654,
+    "word": "сломал",
+    "ipa": "",
+    "translation": "broke"
+  },
+  {
+    "rank": 655,
+    "word": "дело",
+    "ipa": "",
+    "translation": "case"
+  },
+  {
+    "rank": 656,
+    "word": "средний",
+    "ipa": "",
+    "translation": "middle"
+  },
+  {
+    "rank": 657,
+    "word": "убивать",
+    "ipa": "",
+    "translation": "kill"
+  },
+  {
+    "rank": 658,
+    "word": "сын",
+    "ipa": "",
+    "translation": "son"
+  },
+  {
+    "rank": 659,
+    "word": "озеро",
+    "ipa": "",
+    "translation": "lake"
+  },
+  {
+    "rank": 660,
+    "word": "момент",
+    "ipa": "",
+    "translation": "moment"
+  },
+  {
+    "rank": 661,
+    "word": "шкала",
+    "ipa": "",
+    "translation": "scale"
+  },
+  {
+    "rank": 662,
+    "word": "громко",
+    "ipa": "",
+    "translation": "loud"
+  },
+  {
+    "rank": 663,
+    "word": "весна",
+    "ipa": "",
+    "translation": "spring"
+  },
+  {
+    "rank": 664,
+    "word": "наблюдать",
+    "ipa": "",
+    "translation": "observe"
+  },
+  {
+    "rank": 665,
+    "word": "ребенок",
+    "ipa": "",
+    "translation": "child"
+  },
+  {
+    "rank": 666,
+    "word": "прямо",
+    "ipa": "",
+    "translation": "straight"
+  },
+  {
+    "rank": 667,
+    "word": "согласный",
+    "ipa": "",
+    "translation": "consonant"
+  },
+  {
+    "rank": 668,
+    "word": "нация",
+    "ipa": "",
+    "translation": "nation"
+  },
+  {
+    "rank": 669,
+    "word": "словарь",
+    "ipa": "",
+    "translation": "dictionary"
+  },
+  {
+    "rank": 670,
+    "word": "молоко",
+    "ipa": "",
+    "translation": "milk"
+  },
+  {
+    "rank": 671,
+    "word": "скорость",
+    "ipa": "",
+    "translation": "speed"
+  },
+  {
+    "rank": 672,
+    "word": "метод",
+    "ipa": "",
+    "translation": "method"
+  },
+  {
+    "rank": 673,
+    "word": "орган",
+    "ipa": "",
+    "translation": "organ"
+  },
+  {
+    "rank": 674,
+    "word": "платить",
+    "ipa": "",
+    "translation": "pay"
+  },
+  {
+    "rank": 675,
+    "word": "возраст",
+    "ipa": "",
+    "translation": "age"
+  },
+  {
+    "rank": 676,
+    "word": "раздел",
+    "ipa": "",
+    "translation": "section"
+  },
+  {
+    "rank": 677,
+    "word": "платье",
+    "ipa": "",
+    "translation": "dress"
+  },
+  {
+    "rank": 678,
+    "word": "облако",
+    "ipa": "",
+    "translation": "cloud"
+  },
+  {
+    "rank": 679,
+    "word": "сюрприз",
+    "ipa": "",
+    "translation": "surprise"
+  },
+  {
+    "rank": 680,
+    "word": "тихо",
+    "ipa": "",
+    "translation": "quiet"
+  },
+  {
+    "rank": 681,
+    "word": "камень",
+    "ipa": "",
+    "translation": "stone"
+  },
+  {
+    "rank": 682,
+    "word": "крошечный",
+    "ipa": "",
+    "translation": "tiny"
+  },
+  {
+    "rank": 683,
+    "word": "подъем",
+    "ipa": "",
+    "translation": "climb"
+  },
+  {
+    "rank": 684,
+    "word": "круто",
+    "ipa": "",
+    "translation": "cool"
+  },
+  {
+    "rank": 685,
+    "word": "дизайн",
+    "ipa": "",
+    "translation": "design"
+  },
+  {
+    "rank": 686,
+    "word": "бедный",
+    "ipa": "",
+    "translation": "poor"
+  },
+  {
+    "rank": 687,
+    "word": "много",
+    "ipa": "",
+    "translation": "lot"
+  },
+  {
+    "rank": 688,
+    "word": "эксперимент",
+    "ipa": "",
+    "translation": "experiment"
+  },
+  {
+    "rank": 689,
+    "word": "снизу",
+    "ipa": "",
+    "translation": "bottom"
+  },
+  {
+    "rank": 690,
+    "word": "ключ",
+    "ipa": "",
+    "translation": "key"
+  },
+  {
+    "rank": 691,
+    "word": "железо",
+    "ipa": "",
+    "translation": "iron"
+  },
+  {
+    "rank": 692,
+    "word": "один",
+    "ipa": "",
+    "translation": "single"
+  },
+  {
+    "rank": 693,
+    "word": "палка",
+    "ipa": "",
+    "translation": "stick"
+  },
+  {
+    "rank": 694,
+    "word": "плоским",
+    "ipa": "",
+    "translation": "flat"
+  },
+  {
+    "rank": 695,
+    "word": "двадцать",
+    "ipa": "",
+    "translation": "twenty"
+  },
+  {
+    "rank": 696,
+    "word": "кожа",
+    "ipa": "",
+    "translation": "skin"
+  },
+  {
+    "rank": 697,
+    "word": "улыбка",
+    "ipa": "",
+    "translation": "smile"
+  },
+  {
+    "rank": 698,
+    "word": "складка",
+    "ipa": "",
+    "translation": "crease"
+  },
+  {
+    "rank": 699,
+    "word": "отверстие",
+    "ipa": "",
+    "translation": "hole"
+  },
+  {
+    "rank": 700,
+    "word": "прыжок",
+    "ipa": "",
+    "translation": "jump"
+  },
+  {
+    "rank": 701,
+    "word": "ребенок",
+    "ipa": "",
+    "translation": "baby"
+  },
+  {
+    "rank": 702,
+    "word": "восемь",
+    "ipa": "",
+    "translation": "eight"
+  },
+  {
+    "rank": 703,
+    "word": "деревня",
+    "ipa": "",
+    "translation": "village"
+  },
+  {
+    "rank": 704,
+    "word": "Знакомства",
+    "ipa": "",
+    "translation": "meet"
+  },
+  {
+    "rank": 705,
+    "word": "корень",
+    "ipa": "",
+    "translation": "root"
+  },
+  {
+    "rank": 706,
+    "word": "купить",
+    "ipa": "",
+    "translation": "buy"
+  },
+  {
+    "rank": 707,
+    "word": "поднимать",
+    "ipa": "",
+    "translation": "raise"
+  },
+  {
+    "rank": 708,
+    "word": "решить",
+    "ipa": "",
+    "translation": "solve"
+  },
+  {
+    "rank": 709,
+    "word": "металла",
+    "ipa": "",
+    "translation": "metal"
+  },
+  {
+    "rank": 710,
+    "word": "ли",
+    "ipa": "",
+    "translation": "whether"
+  },
+  {
+    "rank": 711,
+    "word": "толчок",
+    "ipa": "",
+    "translation": "push"
+  },
+  {
+    "rank": 712,
+    "word": "семь",
+    "ipa": "",
+    "translation": "seven"
+  },
+  {
+    "rank": 713,
+    "word": "пункт",
+    "ipa": "",
+    "translation": "paragraph"
+  },
+  {
+    "rank": 714,
+    "word": "третий",
+    "ipa": "",
+    "translation": "third"
+  },
+  {
+    "rank": 715,
+    "word": "должен",
+    "ipa": "",
+    "translation": "shall"
+  },
+  {
+    "rank": 716,
+    "word": "ручные",
+    "ipa": "",
+    "translation": "held"
+  },
+  {
+    "rank": 717,
+    "word": "волосы",
+    "ipa": "",
+    "translation": "hair"
+  },
+  {
+    "rank": 718,
+    "word": "описывать",
+    "ipa": "",
+    "translation": "describe"
+  },
+  {
+    "rank": 719,
+    "word": "повар",
+    "ipa": "",
+    "translation": "cook"
+  },
+  {
+    "rank": 720,
+    "word": "этаж",
+    "ipa": "",
+    "translation": "floor"
+  },
+  {
+    "rank": 721,
+    "word": "или",
+    "ipa": "",
+    "translation": "either"
+  },
+  {
+    "rank": 722,
+    "word": "результат",
+    "ipa": "",
+    "translation": "result"
+  },
+  {
+    "rank": 723,
+    "word": "сжечь",
+    "ipa": "",
+    "translation": "burn"
+  },
+  {
+    "rank": 724,
+    "word": "холм",
+    "ipa": "",
+    "translation": "hill"
+  },
+  {
+    "rank": 725,
+    "word": "сейф",
+    "ipa": "",
+    "translation": "safe"
+  },
+  {
+    "rank": 726,
+    "word": "кошка",
+    "ipa": "",
+    "translation": "cat"
+  },
+  {
+    "rank": 727,
+    "word": "век",
+    "ipa": "",
+    "translation": "century"
+  },
+  {
+    "rank": 728,
+    "word": "рассматривать",
+    "ipa": "",
+    "translation": "consider"
+  },
+  {
+    "rank": 729,
+    "word": "Тип",
+    "ipa": "",
+    "translation": "type"
+  },
+  {
+    "rank": 730,
+    "word": "закон",
+    "ipa": "",
+    "translation": "law"
+  },
+  {
+    "rank": 731,
+    "word": "немного",
+    "ipa": "",
+    "translation": "bit"
+  },
+  {
+    "rank": 732,
+    "word": "побережье",
+    "ipa": "",
+    "translation": "coast"
+  },
+  {
+    "rank": 733,
+    "word": "копия",
+    "ipa": "",
+    "translation": "copy"
+  },
+  {
+    "rank": 734,
+    "word": "фраза",
+    "ipa": "",
+    "translation": "phrase"
+  },
+  {
+    "rank": 735,
+    "word": "тихий",
+    "ipa": "",
+    "translation": "silent"
+  },
+  {
+    "rank": 736,
+    "word": "высокий",
+    "ipa": "",
+    "translation": "tall"
+  },
+  {
+    "rank": 737,
+    "word": "песок",
+    "ipa": "",
+    "translation": "sand"
+  },
+  {
+    "rank": 738,
+    "word": "почвы",
+    "ipa": "",
+    "translation": "soil"
+  },
+  {
+    "rank": 739,
+    "word": "рулон",
+    "ipa": "",
+    "translation": "roll"
+  },
+  {
+    "rank": 740,
+    "word": "температура",
+    "ipa": "",
+    "translation": "temperature"
+  },
+  {
+    "rank": 741,
+    "word": "палец",
+    "ipa": "",
+    "translation": "finger"
+  },
+  {
+    "rank": 742,
+    "word": "промышленность",
+    "ipa": "",
+    "translation": "industry"
+  },
+  {
+    "rank": 743,
+    "word": "значение",
+    "ipa": "",
+    "translation": "value"
+  },
+  {
+    "rank": 744,
+    "word": "борьба",
+    "ipa": "",
+    "translation": "fight"
+  },
+  {
+    "rank": 745,
+    "word": "ложь",
+    "ipa": "",
+    "translation": "lie"
+  },
+  {
+    "rank": 746,
+    "word": "бить",
+    "ipa": "",
+    "translation": "beat"
+  },
+  {
+    "rank": 747,
+    "word": "возбуждать",
+    "ipa": "",
+    "translation": "excite"
+  },
+  {
+    "rank": 748,
+    "word": "естественный",
+    "ipa": "",
+    "translation": "natural"
+  },
+  {
+    "rank": 749,
+    "word": "вид",
+    "ipa": "",
+    "translation": "view"
+  },
+  {
+    "rank": 750,
+    "word": "смысл",
+    "ipa": "",
+    "translation": "sense"
+  },
+  {
+    "rank": 751,
+    "word": "капитал",
+    "ipa": "",
+    "translation": "capital"
+  },
+  {
+    "rank": 752,
+    "word": "не будет",
+    "ipa": "",
+    "translation": "won’t"
+  },
+  {
+    "rank": 753,
+    "word": "стул",
+    "ipa": "",
+    "translation": "chair"
+  },
+  {
+    "rank": 754,
+    "word": "опасность",
+    "ipa": "",
+    "translation": "danger"
+  },
+  {
+    "rank": 755,
+    "word": "фрукты",
+    "ipa": "",
+    "translation": "fruit"
+  },
+  {
+    "rank": 756,
+    "word": "богатые",
+    "ipa": "",
+    "translation": "rich"
+  },
+  {
+    "rank": 757,
+    "word": "толщиной",
+    "ipa": "",
+    "translation": "thick"
+  },
+  {
+    "rank": 758,
+    "word": "солдат",
+    "ipa": "",
+    "translation": "soldier"
+  },
+  {
+    "rank": 759,
+    "word": "процесс",
+    "ipa": "",
+    "translation": "process"
+  },
+  {
+    "rank": 760,
+    "word": "работать",
+    "ipa": "",
+    "translation": "operate"
+  },
+  {
+    "rank": 761,
+    "word": "практика",
+    "ipa": "",
+    "translation": "practice"
+  },
+  {
+    "rank": 762,
+    "word": "отдельный",
+    "ipa": "",
+    "translation": "separate"
+  },
+  {
+    "rank": 763,
+    "word": "трудный",
+    "ipa": "",
+    "translation": "difficult"
+  },
+  {
+    "rank": 764,
+    "word": "врач",
+    "ipa": "",
+    "translation": "doctor"
+  },
+  {
+    "rank": 765,
+    "word": "пожалуйста",
+    "ipa": "",
+    "translation": "please"
+  },
+  {
+    "rank": 766,
+    "word": "защищать",
+    "ipa": "",
+    "translation": "protect"
+  },
+  {
+    "rank": 767,
+    "word": "полдень",
+    "ipa": "",
+    "translation": "noon"
+  },
+  {
+    "rank": 768,
+    "word": "урожай",
+    "ipa": "",
+    "translation": "crop"
+  },
+  {
+    "rank": 769,
+    "word": "современный",
+    "ipa": "",
+    "translation": "modern"
+  },
+  {
+    "rank": 770,
+    "word": "элемент",
+    "ipa": "",
+    "translation": "element"
+  },
+  {
+    "rank": 771,
+    "word": "хит",
+    "ipa": "",
+    "translation": "hit"
+  },
+  {
+    "rank": 772,
+    "word": "студент",
+    "ipa": "",
+    "translation": "student"
+  },
+  {
+    "rank": 773,
+    "word": "угол",
+    "ipa": "",
+    "translation": "corner"
+  },
+  {
+    "rank": 774,
+    "word": "партия",
+    "ipa": "",
+    "translation": "party"
+  },
+  {
+    "rank": 775,
+    "word": "поставка",
+    "ipa": "",
+    "translation": "supply"
+  },
+  {
+    "rank": 776,
+    "word": "чьи",
+    "ipa": "",
+    "translation": "whose"
+  },
+  {
+    "rank": 777,
+    "word": "разместить",
+    "ipa": "",
+    "translation": "locate"
+  },
+  {
+    "rank": 778,
+    "word": "кольцо",
+    "ipa": "",
+    "translation": "ring"
+  },
+  {
+    "rank": 779,
+    "word": "характер",
+    "ipa": "",
+    "translation": "character"
+  },
+  {
+    "rank": 780,
+    "word": "насекомое",
+    "ipa": "",
+    "translation": "insect"
+  },
+  {
+    "rank": 781,
+    "word": "пойманный",
+    "ipa": "",
+    "translation": "caught"
+  },
+  {
+    "rank": 782,
+    "word": "период",
+    "ipa": "",
+    "translation": "period"
+  },
+  {
+    "rank": 783,
+    "word": "указывать",
+    "ipa": "",
+    "translation": "indicate"
+  },
+  {
+    "rank": 784,
+    "word": "радио",
+    "ipa": "",
+    "translation": "radio"
+  },
+  {
+    "rank": 785,
+    "word": "говорил",
+    "ipa": "",
+    "translation": "spoke"
+  },
+  {
+    "rank": 786,
+    "word": "атом",
+    "ipa": "",
+    "translation": "atom"
+  },
+  {
+    "rank": 787,
+    "word": "человек",
+    "ipa": "",
+    "translation": "human"
+  },
+  {
+    "rank": 788,
+    "word": "история",
+    "ipa": "",
+    "translation": "history"
+  },
+  {
+    "rank": 789,
+    "word": "эффект",
+    "ipa": "",
+    "translation": "effect"
+  },
+  {
+    "rank": 790,
+    "word": "электрический",
+    "ipa": "",
+    "translation": "electric"
+  },
+  {
+    "rank": 791,
+    "word": "ожидать",
+    "ipa": "",
+    "translation": "expect"
+  },
+  {
+    "rank": 792,
+    "word": "кость",
+    "ipa": "",
+    "translation": "bone"
+  },
+  {
+    "rank": 793,
+    "word": "железнодорожные",
+    "ipa": "",
+    "translation": "rail"
+  },
+  {
+    "rank": 794,
+    "word": "вообразить",
+    "ipa": "",
+    "translation": "imagine"
+  },
+  {
+    "rank": 795,
+    "word": "обеспечить",
+    "ipa": "",
+    "translation": "provide"
+  },
+  {
+    "rank": 796,
+    "word": "соглашаться",
+    "ipa": "",
+    "translation": "agree"
+  },
+  {
+    "rank": 797,
+    "word": "таким образом",
+    "ipa": "",
+    "translation": "thus"
+  },
+  {
+    "rank": 798,
+    "word": "нежный",
+    "ipa": "",
+    "translation": "gentle"
+  },
+  {
+    "rank": 799,
+    "word": "женщина",
+    "ipa": "",
+    "translation": "woman"
+  },
+  {
+    "rank": 800,
+    "word": "капитан",
+    "ipa": "",
+    "translation": "captain"
+  },
+  {
+    "rank": 801,
+    "word": "догадываться",
+    "ipa": "",
+    "translation": "guess"
+  },
+  {
+    "rank": 802,
+    "word": "необходимо",
+    "ipa": "",
+    "translation": "necessary"
+  },
+  {
+    "rank": 803,
+    "word": "резкое",
+    "ipa": "",
+    "translation": "sharp"
+  },
+  {
+    "rank": 804,
+    "word": "крыло",
+    "ipa": "",
+    "translation": "wing"
+  },
+  {
+    "rank": 805,
+    "word": "создавать",
+    "ipa": "",
+    "translation": "create"
+  },
+  {
+    "rank": 806,
+    "word": "сосед",
+    "ipa": "",
+    "translation": "neighbor"
+  },
+  {
+    "rank": 807,
+    "word": "стирка",
+    "ipa": "",
+    "translation": "wash"
+  },
+  {
+    "rank": 808,
+    "word": "летучая мышь",
+    "ipa": "",
+    "translation": "bat"
+  },
+  {
+    "rank": 809,
+    "word": "а",
+    "ipa": "",
+    "translation": "rather"
+  },
+  {
+    "rank": 810,
+    "word": "толпа",
+    "ipa": "",
+    "translation": "crowd"
+  },
+  {
+    "rank": 811,
+    "word": "кукуруза",
+    "ipa": "",
+    "translation": "corn"
+  },
+  {
+    "rank": 812,
+    "word": "сравнить",
+    "ipa": "",
+    "translation": "compare"
+  },
+  {
+    "rank": 813,
+    "word": "стихотворение",
+    "ipa": "",
+    "translation": "poem"
+  },
+  {
+    "rank": 814,
+    "word": "строка",
+    "ipa": "",
+    "translation": "string"
+  },
+  {
+    "rank": 815,
+    "word": "колокол",
+    "ipa": "",
+    "translation": "bell"
+  },
+  {
+    "rank": 816,
+    "word": "зависеть",
+    "ipa": "",
+    "translation": "depend"
+  },
+  {
+    "rank": 817,
+    "word": "мясо",
+    "ipa": "",
+    "translation": "meat"
+  },
+  {
+    "rank": 818,
+    "word": "руб",
+    "ipa": "",
+    "translation": "rub"
+  },
+  {
+    "rank": 819,
+    "word": "трубка",
+    "ipa": "",
+    "translation": "tube"
+  },
+  {
+    "rank": 820,
+    "word": "известный",
+    "ipa": "",
+    "translation": "famous"
+  },
+  {
+    "rank": 921,
+    "word": "доллар",
+    "ipa": "",
+    "translation": "dollar"
+  },
+  {
+    "rank": 822,
+    "word": "поток",
+    "ipa": "",
+    "translation": "stream"
+  },
+  {
+    "rank": 823,
+    "word": "страх",
+    "ipa": "",
+    "translation": "fear"
+  },
+  {
+    "rank": 284,
+    "word": "зрение",
+    "ipa": "",
+    "translation": "sight"
+  },
+  {
+    "rank": 825,
+    "word": "тонкий",
+    "ipa": "",
+    "translation": "thin"
+  },
+  {
+    "rank": 826,
+    "word": "треугольник",
+    "ipa": "",
+    "translation": "triangle"
+  },
+  {
+    "rank": 827,
+    "word": "планета",
+    "ipa": "",
+    "translation": "planet"
+  },
+  {
+    "rank": 828,
+    "word": "спешить",
+    "ipa": "",
+    "translation": "hurry"
+  },
+  {
+    "rank": 829,
+    "word": "главный",
+    "ipa": "",
+    "translation": "chief"
+  },
+  {
+    "rank": 830,
+    "word": "колония",
+    "ipa": "",
+    "translation": "colony"
+  },
+  {
+    "rank": 831,
+    "word": "часы",
+    "ipa": "",
+    "translation": "clock"
+  },
+  {
+    "rank": 832,
+    "word": "шахта",
+    "ipa": "",
+    "translation": "mine"
+  },
+  {
+    "rank": 833,
+    "word": "связать",
+    "ipa": "",
+    "translation": "tie"
+  },
+  {
+    "rank": 834,
+    "word": "введите",
+    "ipa": "",
+    "translation": "enter"
+  },
+  {
+    "rank": 835,
+    "word": "основным",
+    "ipa": "",
+    "translation": "major"
+  },
+  {
+    "rank": 836,
+    "word": "свежий",
+    "ipa": "",
+    "translation": "fresh"
+  },
+  {
+    "rank": 837,
+    "word": "поиск",
+    "ipa": "",
+    "translation": "search"
+  },
+  {
+    "rank": 838,
+    "word": "отправить",
+    "ipa": "",
+    "translation": "send"
+  },
+  {
+    "rank": 839,
+    "word": "желтый",
+    "ipa": "",
+    "translation": "yellow"
+  },
+  {
+    "rank": 840,
+    "word": "пистолет",
+    "ipa": "",
+    "translation": "gun"
+  },
+  {
+    "rank": 841,
+    "word": "позволять",
+    "ipa": "",
+    "translation": "allow"
+  },
+  {
+    "rank": 842,
+    "word": "печать",
+    "ipa": "",
+    "translation": "print"
+  },
+  {
+    "rank": 843,
+    "word": "мертвый",
+    "ipa": "",
+    "translation": "dead"
+  },
+  {
+    "rank": 844,
+    "word": "место",
+    "ipa": "",
+    "translation": "spot"
+  },
+  {
+    "rank": 845,
+    "word": "пустыня",
+    "ipa": "",
+    "translation": "desert"
+  },
+  {
+    "rank": 846,
+    "word": "костюм",
+    "ipa": "",
+    "translation": "suit"
+  },
+  {
+    "rank": 847,
+    "word": "ток",
+    "ipa": "",
+    "translation": "current"
+  },
+  {
+    "rank": 848,
+    "word": "лифт",
+    "ipa": "",
+    "translation": "lift"
+  },
+  {
+    "rank": 840,
+    "word": "выросла",
+    "ipa": "",
+    "translation": "rose"
+  },
+  {
+    "rank": 850,
+    "word": "приходим",
+    "ipa": "",
+    "translation": "arrive"
+  },
+  {
+    "rank": 851,
+    "word": "мастер",
+    "ipa": "",
+    "translation": "master"
+  },
+  {
+    "rank": 852,
+    "word": "трек",
+    "ipa": "",
+    "translation": "track"
+  },
+  {
+    "rank": 853,
+    "word": "родитель",
+    "ipa": "",
+    "translation": "parent"
+  },
+  {
+    "rank": 854,
+    "word": "берег",
+    "ipa": "",
+    "translation": "shore"
+  },
+  {
+    "rank": 855,
+    "word": "деление",
+    "ipa": "",
+    "translation": "division"
+  },
+  {
+    "rank": 856,
+    "word": "лист",
+    "ipa": "",
+    "translation": "sheet"
+  },
+  {
+    "rank": 857,
+    "word": "вещество",
+    "ipa": "",
+    "translation": "substance"
+  },
+  {
+    "rank": 858,
+    "word": "пользу",
+    "ipa": "",
+    "translation": "favor"
+  },
+  {
+    "rank": 859,
+    "word": "подключать",
+    "ipa": "",
+    "translation": "connect"
+  },
+  {
+    "rank": 860,
+    "word": "пост",
+    "ipa": "",
+    "translation": "post"
+  },
+  {
+    "rank": 861,
+    "word": "провести",
+    "ipa": "",
+    "translation": "spend"
+  },
+  {
+    "rank": 862,
+    "word": "аккорд",
+    "ipa": "",
+    "translation": "chord"
+  },
+  {
+    "rank": 863,
+    "word": "жира",
+    "ipa": "",
+    "translation": "fat"
+  },
+  {
+    "rank": 864,
+    "word": "довольный",
+    "ipa": "",
+    "translation": "glad"
+  },
+  {
+    "rank": 865,
+    "word": "оригинальный",
+    "ipa": "",
+    "translation": "original"
+  },
+  {
+    "rank": 866,
+    "word": "доля",
+    "ipa": "",
+    "translation": "share"
+  },
+  {
+    "rank": 867,
+    "word": "станция",
+    "ipa": "",
+    "translation": "station"
+  },
+  {
+    "rank": 868,
+    "word": "папа",
+    "ipa": "",
+    "translation": "dad"
+  },
+  {
+    "rank": 869,
+    "word": "хлеб",
+    "ipa": "",
+    "translation": "bread"
+  },
+  {
+    "rank": 870,
+    "word": "взимать",
+    "ipa": "",
+    "translation": "charge"
+  },
+  {
+    "rank": 871,
+    "word": "собственно",
+    "ipa": "",
+    "translation": "proper"
+  },
+  {
+    "rank": 872,
+    "word": "бар",
+    "ipa": "",
+    "translation": "bar"
+  },
+  {
+    "rank": 873,
+    "word": "предложение",
+    "ipa": "",
+    "translation": "offer"
+  },
+  {
+    "rank": 874,
+    "word": "сегмент",
+    "ipa": "",
+    "translation": "segment"
+  },
+  {
+    "rank": 875,
+    "word": "раб",
+    "ipa": "",
+    "translation": "slave"
+  },
+  {
+    "rank": 876,
+    "word": "утка",
+    "ipa": "",
+    "translation": "duck"
+  },
+  {
+    "rank": 877,
+    "word": "растворимый",
+    "ipa": "",
+    "translation": "instant"
+  },
+  {
+    "rank": 878,
+    "word": "рынок",
+    "ipa": "",
+    "translation": "market"
+  },
+  {
+    "rank": 879,
+    "word": "степень",
+    "ipa": "",
+    "translation": "degree"
+  },
+  {
+    "rank": 880,
+    "word": "заселять",
+    "ipa": "",
+    "translation": "populate"
+  },
+  {
+    "rank": 881,
+    "word": "цыпленок",
+    "ipa": "",
+    "translation": "chick"
+  },
+  {
+    "rank": 882,
+    "word": "дорогой",
+    "ipa": "",
+    "translation": "dear"
+  },
+  {
+    "rank": 883,
+    "word": "враг",
+    "ipa": "",
+    "translation": "enemy"
+  },
+  {
+    "rank": 884,
+    "word": "ответ",
+    "ipa": "",
+    "translation": "reply"
+  },
+  {
+    "rank": 885,
+    "word": "напиток",
+    "ipa": "",
+    "translation": "drink"
+  },
+  {
+    "rank": 886,
+    "word": "происходить",
+    "ipa": "",
+    "translation": "occur"
+  },
+  {
+    "rank": 887,
+    "word": "поддержка",
+    "ipa": "",
+    "translation": "support"
+  },
+  {
+    "rank": 888,
+    "word": "речь",
+    "ipa": "",
+    "translation": "speech"
+  },
+  {
+    "rank": 889,
+    "word": "природа",
+    "ipa": "",
+    "translation": "nature"
+  },
+  {
+    "rank": 890,
+    "word": "диапазон",
+    "ipa": "",
+    "translation": "range"
+  },
+  {
+    "rank": 891,
+    "word": "пара",
+    "ipa": "",
+    "translation": "steam"
+  },
+  {
+    "rank": 892,
+    "word": "движение",
+    "ipa": "",
+    "translation": "motion"
+  },
+  {
+    "rank": 893,
+    "word": "путь",
+    "ipa": "",
+    "translation": "path"
+  },
+  {
+    "rank": 894,
+    "word": "жидкости",
+    "ipa": "",
+    "translation": "liquid"
+  },
+  {
+    "rank": 895,
+    "word": "войти",
+    "ipa": "",
+    "translation": "log"
+  },
+  {
+    "rank": 896,
+    "word": "означало",
+    "ipa": "",
+    "translation": "meant"
+  },
+  {
+    "rank": 897,
+    "word": "фактор",
+    "ipa": "",
+    "translation": "quotient"
+  },
+  {
+    "rank": 898,
+    "word": "зубы",
+    "ipa": "",
+    "translation": "teeth"
+  },
+  {
+    "rank": 899,
+    "word": "оболочка",
+    "ipa": "",
+    "translation": "shell"
+  },
+  {
+    "rank": 900,
+    "word": "шея",
+    "ipa": "",
+    "translation": "neck"
+  },
+  {
+    "rank": 901,
+    "word": "кислорода",
+    "ipa": "",
+    "translation": "oxygen"
+  },
+  {
+    "rank": 902,
+    "word": "сахар",
+    "ipa": "",
+    "translation": "sugar"
+  },
+  {
+    "rank": 903,
+    "word": "смерть",
+    "ipa": "",
+    "translation": "death"
+  },
+  {
+    "rank": 904,
+    "word": "довольно",
+    "ipa": "",
+    "translation": "pretty"
+  },
+  {
+    "rank": 905,
+    "word": "умение",
+    "ipa": "",
+    "translation": "skill"
+  },
+  {
+    "rank": 906,
+    "word": "женщины",
+    "ipa": "",
+    "translation": "women"
+  },
+  {
+    "rank": 907,
+    "word": "сезон",
+    "ipa": "",
+    "translation": "season"
+  },
+  {
+    "rank": 908,
+    "word": "решение",
+    "ipa": "",
+    "translation": "solution"
+  },
+  {
+    "rank": 909,
+    "word": "магнит",
+    "ipa": "",
+    "translation": "magnet"
+  },
+  {
+    "rank": 910,
+    "word": "серебро",
+    "ipa": "",
+    "translation": "silver"
+  },
+  {
+    "rank": 911,
+    "word": "спасибо",
+    "ipa": "",
+    "translation": "thank"
+  },
+  {
+    "rank": 912,
+    "word": "филиал",
+    "ipa": "",
+    "translation": "branch"
+  },
+  {
+    "rank": 913,
+    "word": "матч",
+    "ipa": "",
+    "translation": "match"
+  },
+  {
+    "rank": 914,
+    "word": "суффикс",
+    "ipa": "",
+    "translation": "suffix"
+  },
+  {
+    "rank": 915,
+    "word": "особенно",
+    "ipa": "",
+    "translation": "especially"
+  },
+  {
+    "rank": 916,
+    "word": "рис",
+    "ipa": "",
+    "translation": "fig"
+  },
+  {
+    "rank": 917,
+    "word": "боится",
+    "ipa": "",
+    "translation": "afraid"
+  },
+  {
+    "rank": 918,
+    "word": "огромный",
+    "ipa": "",
+    "translation": "huge"
+  },
+  {
+    "rank": 919,
+    "word": "сестра",
+    "ipa": "",
+    "translation": "sister"
+  },
+  {
+    "rank": 920,
+    "word": "сталь",
+    "ipa": "",
+    "translation": "steel"
+  },
+  {
+    "rank": 921,
+    "word": "обсуждать",
+    "ipa": "",
+    "translation": "discuss"
+  },
+  {
+    "rank": 922,
+    "word": "вперед",
+    "ipa": "",
+    "translation": "forward"
+  },
+  {
+    "rank": 923,
+    "word": "похожи",
+    "ipa": "",
+    "translation": "similar"
+  },
+  {
+    "rank": 924,
+    "word": "направлять",
+    "ipa": "",
+    "translation": "guide"
+  },
+  {
+    "rank": 925,
+    "word": "опыт",
+    "ipa": "",
+    "translation": "experience"
+  },
+  {
+    "rank": 926,
+    "word": "счет",
+    "ipa": "",
+    "translation": "score"
+  },
+  {
+    "rank": 927,
+    "word": "яблоко",
+    "ipa": "",
+    "translation": "apple"
+  },
+  {
+    "rank": 928,
+    "word": "купленный",
+    "ipa": "",
+    "translation": "bought"
+  },
+  {
+    "rank": 929,
+    "word": "привело",
+    "ipa": "",
+    "translation": "led"
+  },
+  {
+    "rank": 930,
+    "word": "шаг",
+    "ipa": "",
+    "translation": "pitch"
+  },
+  {
+    "rank": 931,
+    "word": "пальто",
+    "ipa": "",
+    "translation": "coat"
+  },
+  {
+    "rank": 932,
+    "word": "масса",
+    "ipa": "",
+    "translation": "mass"
+  },
+  {
+    "rank": 933,
+    "word": "карта",
+    "ipa": "",
+    "translation": "card"
+  },
+  {
+    "rank": 934,
+    "word": "полоса",
+    "ipa": "",
+    "translation": "band"
+  },
+  {
+    "rank": 935,
+    "word": "веревка",
+    "ipa": "",
+    "translation": "rope"
+  },
+  {
+    "rank": 936,
+    "word": "скольжение",
+    "ipa": "",
+    "translation": "slip"
+  },
+  {
+    "rank": 937,
+    "word": "выиграть",
+    "ipa": "",
+    "translation": "win"
+  },
+  {
+    "rank": 938,
+    "word": "мечтать",
+    "ipa": "",
+    "translation": "dream"
+  },
+  {
+    "rank": 939,
+    "word": "вечер",
+    "ipa": "",
+    "translation": "evening"
+  },
+  {
+    "rank": 940,
+    "word": "состояние",
+    "ipa": "",
+    "translation": "condition"
+  },
+  {
+    "rank": 941,
+    "word": "корма",
+    "ipa": "",
+    "translation": "feed"
+  },
+  {
+    "rank": 942,
+    "word": "инструмент",
+    "ipa": "",
+    "translation": "tool"
+  },
+  {
+    "rank": 943,
+    "word": "общий",
+    "ipa": "",
+    "translation": "total"
+  },
+  {
+    "rank": 944,
+    "word": "основной",
+    "ipa": "",
+    "translation": "basic"
+  },
+  {
+    "rank": 945,
+    "word": "запах",
+    "ipa": "",
+    "translation": "smell"
+  },
+  {
+    "rank": 946,
+    "word": "долина",
+    "ipa": "",
+    "translation": "valley"
+  },
+  {
+    "rank": 947,
+    "word": "ни",
+    "ipa": "",
+    "translation": "nor"
+  },
+  {
+    "rank": 948,
+    "word": "двойной",
+    "ipa": "",
+    "translation": "double"
+  },
+  {
+    "rank": 949,
+    "word": "сиденья",
+    "ipa": "",
+    "translation": "seat"
+  },
+  {
+    "rank": 950,
+    "word": "продолжать",
+    "ipa": "",
+    "translation": "continue"
+  },
+  {
+    "rank": 951,
+    "word": "блок",
+    "ipa": "",
+    "translation": "block"
+  },
+  {
+    "rank": 952,
+    "word": "диаграмма",
+    "ipa": "",
+    "translation": "chart"
+  },
+  {
+    "rank": 953,
+    "word": "шляпа",
+    "ipa": "",
+    "translation": "hat"
+  },
+  {
+    "rank": 954,
+    "word": "продать",
+    "ipa": "",
+    "translation": "sell"
+  },
+  {
+    "rank": 955,
+    "word": "успех",
+    "ipa": "",
+    "translation": "success"
+  },
+  {
+    "rank": 956,
+    "word": "компания",
+    "ipa": "",
+    "translation": "company"
+  },
+  {
+    "rank": 957,
+    "word": "вычитать",
+    "ipa": "",
+    "translation": "subtract"
+  },
+  {
+    "rank": 958,
+    "word": "мероприятие",
+    "ipa": "",
+    "translation": "event"
+  },
+  {
+    "rank": 959,
+    "word": "частности",
+    "ipa": "",
+    "translation": "particular"
+  },
+  {
+    "rank": 960,
+    "word": "сделка",
+    "ipa": "",
+    "translation": "deal"
+  },
+  {
+    "rank": 961,
+    "word": "плавать",
+    "ipa": "",
+    "translation": "swim"
+  },
+  {
+    "rank": 962,
+    "word": "термин",
+    "ipa": "",
+    "translation": "term"
+  },
+  {
+    "rank": 963,
+    "word": "напротив",
+    "ipa": "",
+    "translation": "opposite"
+  },
+  {
+    "rank": 964,
+    "word": "жена",
+    "ipa": "",
+    "translation": "wife"
+  },
+  {
+    "rank": 965,
+    "word": "обуви",
+    "ipa": "",
+    "translation": "shoe"
+  },
+  {
+    "rank": 966,
+    "word": "плечо",
+    "ipa": "",
+    "translation": "shoulder"
+  },
+  {
+    "rank": 967,
+    "word": "распространение",
+    "ipa": "",
+    "translation": "spread"
+  },
+  {
+    "rank": 968,
+    "word": "организовать",
+    "ipa": "",
+    "translation": "arrange"
+  },
+  {
+    "rank": 969,
+    "word": "лагерь",
+    "ipa": "",
+    "translation": "camp"
+  },
+  {
+    "rank": 970,
+    "word": "изобретать",
+    "ipa": "",
+    "translation": "invent"
+  },
+  {
+    "rank": 971,
+    "word": "хлопок",
+    "ipa": "",
+    "translation": "cotton"
+  },
+  {
+    "rank": 972,
+    "word": "родившийся",
+    "ipa": "",
+    "translation": "born"
+  },
+  {
+    "rank": 973,
+    "word": "определять",
+    "ipa": "",
+    "translation": "determine"
+  },
+  {
+    "rank": 974,
+    "word": "кварта",
+    "ipa": "",
+    "translation": "quart"
+  },
+  {
+    "rank": 975,
+    "word": "девять",
+    "ipa": "",
+    "translation": "nine"
+  },
+  {
+    "rank": 976,
+    "word": "грузовик",
+    "ipa": "",
+    "translation": "truck"
+  },
+  {
+    "rank": 977,
+    "word": "шум",
+    "ipa": "",
+    "translation": "noise"
+  },
+  {
+    "rank": 978,
+    "word": "уровень",
+    "ipa": "",
+    "translation": "level"
+  },
+  {
+    "rank": 979,
+    "word": "шанс",
+    "ipa": "",
+    "translation": "chance"
+  },
+  {
+    "rank": 980,
+    "word": "собирать",
+    "ipa": "",
+    "translation": "gather"
+  },
+  {
+    "rank": 981,
+    "word": "магазин",
+    "ipa": "",
+    "translation": "shop"
+  },
+  {
+    "rank": 982,
+    "word": "протяжение",
+    "ipa": "",
+    "translation": "stretch"
+  },
+  {
+    "rank": 983,
+    "word": "бросать",
+    "ipa": "",
+    "translation": "throw"
+  },
+  {
+    "rank": 984,
+    "word": "блеск",
+    "ipa": "",
+    "translation": "shine"
+  },
+  {
+    "rank": 985,
+    "word": "имущество",
+    "ipa": "",
+    "translation": "property"
+  },
+  {
+    "rank": 986,
+    "word": "колонка",
+    "ipa": "",
+    "translation": "column"
+  },
+  {
+    "rank": 987,
+    "word": "молекула",
+    "ipa": "",
+    "translation": "molecule"
+  },
+  {
+    "rank": 988,
+    "word": "выбирать",
+    "ipa": "",
+    "translation": "select"
+  },
+  {
+    "rank": 989,
+    "word": "неправильно",
+    "ipa": "",
+    "translation": "wrong"
+  },
+  {
+    "rank": 990,
+    "word": "серый",
+    "ipa": "",
+    "translation": "gray"
+  },
+  {
+    "rank": 991,
+    "word": "повторение",
+    "ipa": "",
+    "translation": "repeat"
+  },
+  {
+    "rank": 992,
+    "word": "требовать",
+    "ipa": "",
+    "translation": "require"
+  },
+  {
+    "rank": 993,
+    "word": "широкий",
+    "ipa": "",
+    "translation": "broad"
+  },
+  {
+    "rank": 994,
+    "word": "подготовить",
+    "ipa": "",
+    "translation": "prepare"
+  },
+  {
+    "rank": 995,
+    "word": "соль",
+    "ipa": "",
+    "translation": "salt"
+  },
+  {
+    "rank": 996,
+    "word": "нос",
+    "ipa": "",
+    "translation": "nose"
+  },
+  {
+    "rank": 997,
+    "word": "множественное",
+    "ipa": "",
+    "translation": "plural"
+  },
+  {
+    "rank": 998,
+    "word": "гнев",
+    "ipa": "",
+    "translation": "anger"
+  },
+  {
+    "rank": 999,
+    "word": "претензии",
+    "ipa": "",
+    "translation": "claim"
+  },
+  {
+    "rank": 1000,
+    "word": "континент",
+    "ipa": "",
+    "translation": "continent"
+  }
+]

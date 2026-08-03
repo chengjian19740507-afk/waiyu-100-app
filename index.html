@@ -71,8 +71,13 @@
 </header>
 <div class="stats" id="stats"></div>
 
+<div class="mode-toggle" id="mode-toggle" role="tablist" aria-label="内容模式">
+  <button class="mode-btn active" data-mode="sentences" role="tab" aria-selected="true">📝 180 句</button>
+  <button class="mode-btn" data-mode="vocab" role="tab" aria-selected="false">📚 1000 词</button>
+</div>
+
 <div class="search-box">
-  <input type="search" id="search" placeholder="🔍 搜索单词 · 中文 / 外语 / 罗马字" autocomplete="off" aria-label="搜索">
+  <input type="search" id="search" placeholder="🔍 搜索 · 中文 / 外语 / 罗马字" autocomplete="off" aria-label="搜索">
   <button id="search-clear" aria-label="清除搜索" hidden>×</button>
 </div>
 
@@ -89,6 +94,27 @@
 <nav class="cats" id="cats" aria-label="类别"></nav>
 
 <main class="cards" id="cards"></main>
+
+<main class="vocab" id="vocab" hidden aria-label="词汇表">
+  <div class="vocab-info" id="vocab-info">📚 当前语种前 1000 高频词 · 点击单词可听发音</div>
+  <div class="vocab-table-wrap">
+    <table class="vocab-table">
+      <thead>
+        <tr>
+          <th class="vocab-rank">#</th>
+          <th class="vocab-word">单词</th>
+          <th class="vocab-ipa">发音</th>
+          <th class="vocab-trans">释义</th>
+        </tr>
+      </thead>
+      <tbody id="vocab-tbody"></tbody>
+    </table>
+  </div>
+  <div class="vocab-more" id="vocab-more" hidden>
+    <button class="vocab-more-btn" id="vocab-more-btn">加载更多 ↓</button>
+    <span class="vocab-count" id="vocab-count"></span>
+  </div>
+</main>
 
 <footer class="tip">
   <p>觉得有用？支持开发者持续更新 👇</p>

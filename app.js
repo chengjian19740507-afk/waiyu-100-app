@@ -473,13 +473,22 @@
   searchEl.addEventListener('input', e => {
     currentSearch = e.target.value.trim().toLowerCase();
     searchClearEl.hidden = !currentSearch;
-    render();
+    if (currentMode === 'vocab') {
+      vocabVisibleCount = 200;
+      renderVocab();
+    } else {
+      render();
+    }
   });
   searchClearEl.addEventListener('click', () => {
     searchEl.value = '';
     currentSearch = '';
     searchClearEl.hidden = true;
-    render();
+    if (currentMode === 'vocab') {
+      renderVocab();
+    } else {
+      render();
+    }
     searchEl.focus();
   });
 
@@ -489,6 +498,113 @@
   renderCats();
   allData = await load(currentLang);
   render();
+
+  // ============ 词汇表模式（1000 词）============
+  const modeToggleEl = document.getElementById('mode-toggle');
+  const vocabEl = document.getElementById('vocab');
+  const vocabTbodyEl = document.getElementById('vocab-tbody');
+  const vocabMoreEl = document.getElementById('vocab-more');
+  const vocabCountEl = document.getElementById('vocab-count');
+  const vocabMoreBtn = document.getElementById('vocab-more-btn');
+
+  let currentMode = localStorage.getItem('waiyu-mode') || 'sentences';
+  let currentVocab = [];
+  let vocabVisibleCount = 200;
+
+  function escapeHtml(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    })[c]);
+  }
+
+  function renderVocab() {
+    if (!currentVocab.length) return;
+    const f = currentSearch;
+    const filtered = f
+      ? currentVocab.filter(v =>
+          (v.word || '').toLowerCase().includes(f) ||
+          (v.ipa || '').toLowerCase().includes(f) ||
+          (v.translation || '').toLowerCase().includes(f))
+      : currentVocab;
+    const visible = filtered.slice(0, vocabVisibleCount);
+    vocabTbodyEl.innerHTML = visible.map(v => `
+      <tr>
+        <td class="vocab-rank">${v.rank}</td>
+        <td class="vocab-word" data-word="${escapeHtml(v.word)}" data-lang="${currentLang}">${escapeHtml(v.word)}</td>
+        <td class="vocab-ipa">${escapeHtml(v.ipa || '')}</td>
+        <td class="vocab-trans">${escapeHtml(v.translation || '')}</td>
+      </tr>
+    `).join('');
+    if (filtered.length > vocabVisibleCount) {
+      vocabMoreEl.hidden = false;
+      vocabCountEl.textContent = `已显示 ${visible.length} / 共 ${filtered.length} 词`;
+    } else {
+      vocabMoreEl.hidden = true;
+    }
+  }
+
+  async function loadVocab(lang) {
+    try {
+      const res = await fetch(`vocabulary-${lang}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      currentVocab = await res.json();
+      vocabVisibleCount = 200;
+      renderVocab();
+    } catch (err) {
+      vocabTbodyEl.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:40px;color:#f87171">词汇加载失败：${err.message}</td></tr>`;
+      vocabMoreEl.hidden = true;
+    }
+  }
+
+  function switchMode(mode) {
+    currentMode = mode;
+    localStorage.setItem('waiyu-mode', mode);
+    modeToggleEl.querySelectorAll('.mode-btn').forEach(b => {
+      const active = b.dataset.mode === mode;
+      b.classList.toggle('active', active);
+      b.setAttribute('aria-selected', active);
+    });
+    if (mode === 'vocab') {
+      cardsEl.hidden = true;
+      catsEl.hidden = true;
+      vocabEl.hidden = false;
+      loadVocab(currentLang);
+    } else {
+      cardsEl.hidden = false;
+      catsEl.hidden = false;
+      vocabEl.hidden = true;
+    }
+  }
+
+  // 词点击 → TTS 发音
+  vocabTbodyEl.addEventListener('click', e => {
+    const cell = e.target.closest('.vocab-word');
+    if (!cell) return;
+    const word = cell.dataset.word;
+    const lang = cell.dataset.lang;
+    if (!word || !('speechSynthesis' in window)) return;
+    stopCurrent();
+    const cfg = LANGS[lang];
+    const u = new SpeechSynthesisUtterance(word);
+    u.lang = cfg.lang;
+    u.rate = 0.85;
+    currentUtter = u;
+    speechSynthesis.speak(u);
+  });
+
+  modeToggleEl.querySelectorAll('.mode-btn').forEach(btn => {
+    btn.addEventListener('click', () => switchMode(btn.dataset.mode));
+  });
+
+  vocabMoreBtn.addEventListener('click', () => {
+    vocabVisibleCount += 200;
+    renderVocab();
+  });
+
+  // 初始化模式
+  if (currentMode === 'vocab') {
+    switchMode('vocab');
+  }
 
   // === 悬浮打赏按钮 + 弹窗 ===
   const tipFab = document.getElementById('tip-fab');
