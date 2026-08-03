@@ -3,7 +3,7 @@
     "rank": 1,
     "word": "como",
     "ipa": "",
-    "translation": "像；如同"
+    "translation": "相似；相似"
   },
   {
     "rank": 2,
@@ -39,7 +39,7 @@
     "rank": 7,
     "word": "para",
     "ipa": "",
-    "translation": "为了；对于"
+    "translation": "为了；为了"
   },
   {
     "rank": 8,
@@ -69,7 +69,7 @@
     "rank": 12,
     "word": "ser",
     "ipa": "",
-    "translation": "be"
+    "translation": "是"
   },
   {
     "rank": 13,
@@ -99,19 +99,19 @@
     "rank": 17,
     "word": "desde",
     "ipa": "",
-    "translation": "from"
+    "translation": "从"
   },
   {
     "rank": 18,
     "word": "por",
     "ipa": "",
-    "translation": "by"
+    "translation": "经过"
   },
   {
     "rank": 19,
     "word": "caliente",
     "ipa": "",
-    "translation": "热"
+    "translation": "热的"
   },
   {
     "rank": 20,
@@ -129,49 +129,49 @@
     "rank": 22,
     "word": "qué",
     "ipa": "",
-    "translation": "what"
+    "translation": "什么"
   },
   {
     "rank": 23,
     "word": "algunos",
     "ipa": "",
-    "translation": "some"
+    "translation": "一些"
   },
   {
     "rank": 24,
     "word": "es",
     "ipa": "",
-    "translation": "is"
+    "translation": "是"
   },
   {
     "rank": 25,
     "word": "lo",
     "ipa": "",
-    "translation": "这个（阳性）；它"
+    "translation": "这个（积极）；它"
   },
   {
     "rank": 26,
     "word": "usted",
     "ipa": "",
-    "translation": "you"
+    "translation": "你"
   },
   {
     "rank": 27,
     "word": "o",
     "ipa": "",
-    "translation": "or"
+    "translation": "或者"
   },
   {
     "rank": 28,
     "word": "tenido",
     "ipa": "",
-    "translation": "had"
+    "translation": "有"
   },
   {
     "rank": 29,
     "word": "la",
     "ipa": "",
-    "translation": "这个（阴性）；她"
+    "translation": "（这个无效）；她"
   },
   {
     "rank": 30,
@@ -183,19 +183,19 @@
     "rank": 31,
     "word": "a",
     "ipa": "",
-    "translation": "to"
+    "translation": "到"
   },
   {
     "rank": 32,
     "word": "y",
     "ipa": "",
-    "translation": "and"
+    "translation": "和"
   },
   {
     "rank": 33,
     "word": "un",
     "ipa": "",
-    "translation": "a"
+    "translation": "一个"
   },
   {
     "rank": 34,
@@ -207,31 +207,31 @@
     "rank": 35,
     "word": "nos",
     "ipa": "",
-    "translation": "we"
+    "translation": "我们"
   },
   {
     "rank": 36,
     "word": "lata",
     "ipa": "",
-    "translation": "can"
+    "translation": "能"
   },
   {
     "rank": 37,
     "word": "fuera",
     "ipa": "",
-    "translation": "外面"
+    "translation": "室外"
   },
   {
     "rank": 38,
     "word": "otros",
     "ipa": "",
-    "translation": "other"
+    "translation": "其他"
   },
   {
     "rank": 39,
     "word": "eran",
     "ipa": "",
-    "translation": "were"
+    "translation": "是"
   },
   {
     "rank": 40,
@@ -261,31 +261,31 @@
     "rank": 44,
     "word": "si",
     "ipa": "",
-    "translation": "if"
+    "translation": "如果"
   },
   {
     "rank": 45,
     "word": "lo hará",
     "ipa": "",
-    "translation": "will"
+    "translation": "将要"
   },
   {
     "rank": 46,
     "word": "cómo",
     "ipa": "",
-    "translation": "怎么"
+    "translation": "怎么办"
   },
   {
     "rank": 47,
     "word": "dicho",
     "ipa": "",
-    "translation": "said"
+    "translation": "说"
   },
   {
     "rank": 48,
     "word": "un",
     "ipa": "",
-    "translation": "an"
+    "translation": "一个"
   },
   {
     "rank": 49,
@@ -303,13 +303,13 @@
     "rank": 51,
     "word": "hace",
     "ipa": "",
-    "translation": "does"
+    "translation": "做"
   },
   {
     "rank": 52,
     "word": "conjunto",
     "ipa": "",
-    "translation": "set"
+    "translation": "放"
   },
   {
     "rank": 53,
@@ -333,7 +333,7 @@
     "rank": 56,
     "word": "así",
     "ipa": "",
-    "translation": "well"
+    "translation": "出色地"
   },
   {
     "rank": 57,
@@ -357,7 +357,7 @@
     "rank": 60,
     "word": "fin",
     "ipa": "",
-    "translation": "结束"
+    "translation": "结尾"
   },
   {
     "rank": 61,
@@ -399,25 +399,25 @@
     "rank": 67,
     "word": "deletrear",
     "ipa": "",
-    "translation": "spell"
+    "translation": "拼写"
   },
   {
     "rank": 68,
     "word": "añadir",
     "ipa": "",
-    "translation": "add"
+    "translation": "添加"
   },
   {
     "rank": 69,
     "word": "incluso",
     "ipa": "",
-    "translation": "even"
+    "translation": "甚至"
   },
   {
     "rank": 70,
     "word": "tierra",
     "ipa": "",
-    "translation": "土地；地球"
+    "translation": "土地"
   },
   {
     "rank": 71,
@@ -447,19 +447,19 @@
     "rank": 75,
     "word": "tal",
     "ipa": "",
-    "translation": "such"
+    "translation": "这样的"
   },
   {
     "rank": 76,
     "word": "siga",
     "ipa": "",
-    "translation": "follow"
+    "translation": "跟随"
   },
   {
     "rank": 77,
     "word": "acto",
     "ipa": "",
-    "translation": "act"
+    "translation": "行为"
   },
   {
     "rank": 78,
@@ -477,43 +477,43 @@
     "rank": 80,
     "word": "hombres",
     "ipa": "",
-    "translation": "men"
+    "translation": "男人"
   },
   {
     "rank": 81,
     "word": "cambio",
     "ipa": "",
-    "translation": "change"
+    "translation": "改变"
   },
   {
     "rank": 82,
     "word": "se fue",
     "ipa": "",
-    "translation": "went"
+    "translation": "去了"
   },
   {
     "rank": 83,
     "word": "luz",
     "ipa": "",
-    "translation": "light"
+    "translation": "光"
   },
   {
     "rank": 84,
     "word": "tipo",
     "ipa": "",
-    "translation": "类型"
+    "translation": "种类"
   },
   {
     "rank": 85,
     "word": "fuera",
     "ipa": "",
-    "translation": "外面"
+    "translation": "室外"
   },
   {
     "rank": 86,
     "word": "necesitará",
     "ipa": "",
-    "translation": "need"
+    "translation": "需要"
   },
   {
     "rank": 87,
@@ -525,13 +525,13 @@
     "rank": 88,
     "word": "imagen",
     "ipa": "",
-    "translation": "picture"
+    "translation": "图片"
   },
   {
     "rank": 89,
     "word": "tratar",
     "ipa": "",
-    "translation": "try"
+    "translation": "尝试"
   },
   {
     "rank": 90,
@@ -543,7 +543,7 @@
     "rank": 91,
     "word": "de nuevo",
     "ipa": "",
-    "translation": "again"
+    "translation": "再次"
   },
   {
     "rank": 92,
@@ -555,7 +555,7 @@
     "rank": 93,
     "word": "punto",
     "ipa": "",
-    "translation": "point"
+    "translation": "观点"
   },
   {
     "rank": 94,
@@ -579,19 +579,19 @@
     "rank": 97,
     "word": "construir",
     "ipa": "",
-    "translation": "build"
+    "translation": "建造"
   },
   {
     "rank": 98,
     "word": "auto",
     "ipa": "",
-    "translation": "self"
+    "translation": "自己"
   },
   {
     "rank": 99,
     "word": "tierra",
     "ipa": "",
-    "translation": "土地；地球"
+    "translation": "地球"
   },
   {
     "rank": 100,
@@ -603,7 +603,7 @@
     "rank": 101,
     "word": "cualquier",
     "ipa": "",
-    "translation": "any"
+    "translation": "任何"
   },
   {
     "rank": 102,
@@ -621,19 +621,19 @@
     "rank": 104,
     "word": "parte",
     "ipa": "",
-    "translation": "part"
+    "translation": "部分"
   },
   {
     "rank": 105,
     "word": "tomar",
     "ipa": "",
-    "translation": "take"
+    "translation": "拿"
   },
   {
     "rank": 106,
     "word": "conseguir",
     "ipa": "",
-    "translation": "get"
+    "translation": "得到"
   },
   {
     "rank": 107,
@@ -645,7 +645,7 @@
     "rank": 108,
     "word": "hecho",
     "ipa": "",
-    "translation": "事实"
+    "translation": "制成"
   },
   {
     "rank": 109,
@@ -657,7 +657,7 @@
     "rank": 110,
     "word": "donde",
     "ipa": "",
-    "translation": "where"
+    "translation": "在哪里"
   },
   {
     "rank": 111,
@@ -669,7 +669,7 @@
     "rank": 112,
     "word": "espalda",
     "ipa": "",
-    "translation": "back"
+    "translation": "后退"
   },
   {
     "rank": 113,
@@ -687,7 +687,7 @@
     "rank": 115,
     "word": "ronda",
     "ipa": "",
-    "translation": "round"
+    "translation": "圆形的"
   },
   {
     "rank": 116,
@@ -699,19 +699,19 @@
     "rank": 117,
     "word": "años",
     "ipa": "",
-    "translation": "year"
+    "translation": "年"
   },
   {
     "rank": 118,
     "word": "vino",
     "ipa": "",
-    "translation": "酒"
+    "translation": "来了"
   },
   {
     "rank": 119,
     "word": "show",
     "ipa": "",
-    "translation": "show"
+    "translation": "展示"
   },
   {
     "rank": 120,
@@ -723,7 +723,7 @@
     "rank": 121,
     "word": "buena",
     "ipa": "",
-    "translation": "good"
+    "translation": "好的"
   },
   {
     "rank": 122,
@@ -741,7 +741,7 @@
     "rank": 124,
     "word": "nuestro",
     "ipa": "",
-    "translation": "our"
+    "translation": "我们的"
   },
   {
     "rank": 125,
@@ -759,13 +759,13 @@
     "rank": 127,
     "word": "muy",
     "ipa": "",
-    "translation": "很；非常"
+    "translation": "非常；非常"
   },
   {
     "rank": 128,
     "word": "a través de",
     "ipa": "",
-    "translation": "through"
+    "translation": "通过"
   },
   {
     "rank": 129,
@@ -783,19 +783,19 @@
     "rank": 131,
     "word": "frase",
     "ipa": "",
-    "translation": "sentence"
+    "translation": "句子"
   },
   {
     "rank": 132,
     "word": "gran",
     "ipa": "",
-    "translation": "great"
+    "translation": "伟大的"
   },
   {
     "rank": 133,
     "word": "pensar",
     "ipa": "",
-    "translation": "想；思考"
+    "translation": "思考；思考"
   },
   {
     "rank": 134,
@@ -807,7 +807,7 @@
     "rank": 135,
     "word": "ayudar",
     "ipa": "",
-    "translation": "help"
+    "translation": "帮助"
   },
   {
     "rank": 136,
@@ -819,25 +819,25 @@
     "rank": 137,
     "word": "línea",
     "ipa": "",
-    "translation": "line"
+    "translation": "线"
   },
   {
     "rank": 138,
     "word": "ser distinto",
     "ipa": "",
-    "translation": "differ"
+    "translation": "不同"
   },
   {
     "rank": 139,
     "word": "a su vez,",
     "ipa": "",
-    "translation": "turn"
+    "translation": "转动"
   },
   {
     "rank": 140,
     "word": "causa",
     "ipa": "",
-    "translation": "cause"
+    "translation": "原因"
   },
   {
     "rank": 141,
@@ -849,7 +849,7 @@
     "rank": 142,
     "word": "significará",
     "ipa": "",
-    "translation": "mean"
+    "translation": "意思是"
   },
   {
     "rank": 143,
@@ -861,19 +861,19 @@
     "rank": 144,
     "word": "movimiento",
     "ipa": "",
-    "translation": "move"
+    "translation": "移动"
   },
   {
     "rank": 145,
     "word": "derecho",
     "ipa": "",
-    "translation": "right"
+    "translation": "正确的"
   },
   {
     "rank": 146,
     "word": "niño",
     "ipa": "",
-    "translation": "男孩；孩子"
+    "translation": "男孩；孩子们"
   },
   {
     "rank": 147,
@@ -891,13 +891,13 @@
     "rank": 149,
     "word": "misma",
     "ipa": "",
-    "translation": "same"
+    "translation": "相同的"
   },
   {
     "rank": 150,
     "word": "ella",
     "ipa": "",
-    "translation": "she"
+    "translation": "她"
   },
   {
     "rank": 151,
@@ -909,25 +909,25 @@
     "rank": 152,
     "word": "hay",
     "ipa": "",
-    "translation": "there"
+    "translation": "那里"
   },
   {
     "rank": 153,
     "word": "cuando",
     "ipa": "",
-    "translation": "when"
+    "translation": "什么时候"
   },
   {
     "rank": 154,
     "word": "hasta",
     "ipa": "",
-    "translation": "up"
+    "translation": "向上"
   },
   {
     "rank": 155,
     "word": "uso",
     "ipa": "",
-    "translation": "use"
+    "translation": "使用"
   },
   {
     "rank": 156,
@@ -939,25 +939,25 @@
     "rank": 157,
     "word": "camino",
     "ipa": "",
-    "translation": "路"
+    "translation": "方式"
   },
   {
     "rank": 158,
     "word": "acerca",
     "ipa": "",
-    "translation": "about"
+    "translation": "关于"
   },
   {
     "rank": 159,
     "word": "muchos",
     "ipa": "",
-    "translation": "many"
+    "translation": "许多"
   },
   {
     "rank": 160,
     "word": "entonces",
     "ipa": "",
-    "translation": "then"
+    "translation": "然后"
   },
   {
     "rank": 161,
@@ -975,25 +975,25 @@
     "rank": 163,
     "word": "haría",
     "ipa": "",
-    "translation": "would"
+    "translation": "会"
   },
   {
     "rank": 164,
     "word": "como",
     "ipa": "",
-    "translation": "像；如同"
+    "translation": "相似；相似"
   },
   {
     "rank": 165,
     "word": "así",
     "ipa": "",
-    "translation": "so"
+    "translation": "所以"
   },
   {
     "rank": 166,
     "word": "éstos",
     "ipa": "",
-    "translation": "these"
+    "translation": "这些"
   },
   {
     "rank": 167,
@@ -1005,7 +1005,7 @@
     "rank": 168,
     "word": "largo",
     "ipa": "",
-    "translation": "长"
+    "translation": "长的"
   },
   {
     "rank": 169,
@@ -1017,7 +1017,7 @@
     "rank": 170,
     "word": "cosa",
     "ipa": "",
-    "translation": "thing"
+    "translation": "事物"
   },
   {
     "rank": 171,
@@ -1041,13 +1041,13 @@
     "rank": 174,
     "word": "tiene",
     "ipa": "",
-    "translation": "has"
+    "translation": "有"
   },
   {
     "rank": 175,
     "word": "buscar",
     "ipa": "",
-    "translation": "look"
+    "translation": "看"
   },
   {
     "rank": 176,
@@ -1065,7 +1065,7 @@
     "rank": 178,
     "word": "podía",
     "ipa": "",
-    "translation": "could"
+    "translation": "可以"
   },
   {
     "rank": 179,
@@ -1083,7 +1083,7 @@
     "rank": 181,
     "word": "hizo",
     "ipa": "",
-    "translation": "did"
+    "translation": "做过"
   },
   {
     "rank": 182,
@@ -1095,7 +1095,7 @@
     "rank": 183,
     "word": "sonar",
     "ipa": "",
-    "translation": "sound"
+    "translation": "声音"
   },
   {
     "rank": 184,
@@ -1113,19 +1113,19 @@
     "rank": 186,
     "word": "personas",
     "ipa": "",
-    "translation": "people"
+    "translation": "人们"
   },
   {
     "rank": 187,
     "word": "mi",
     "ipa": "",
-    "translation": "my"
+    "translation": "我的"
   },
   {
     "rank": 188,
     "word": "sobre",
     "ipa": "",
-    "translation": "over"
+    "translation": "超过"
   },
   {
     "rank": 189,
@@ -1149,7 +1149,7 @@
     "rank": 192,
     "word": "llamada",
     "ipa": "",
-    "translation": "call"
+    "translation": "称呼"
   },
   {
     "rank": 193,
@@ -1179,13 +1179,13 @@
     "rank": 197,
     "word": "lado",
     "ipa": "",
-    "translation": "side"
+    "translation": "边"
   },
   {
     "rank": 198,
     "word": "estado",
     "ipa": "",
-    "translation": "国家；州"
+    "translation": "到过"
   },
   {
     "rank": 199,
@@ -1197,7 +1197,7 @@
     "rank": 200,
     "word": "encontrar",
     "ipa": "",
-    "translation": "找到"
+    "translation": "寻找"
   },
   {
     "rank": 201,
@@ -1239,7 +1239,7 @@
     "rank": 207,
     "word": "encontrado",
     "ipa": "",
-    "translation": "found"
+    "translation": "成立"
   },
   {
     "rank": 208,
@@ -1263,7 +1263,7 @@
     "rank": 211,
     "word": "estudio",
     "ipa": "",
-    "translation": "study"
+    "translation": "学习"
   },
   {
     "rank": 212,
@@ -1275,25 +1275,25 @@
     "rank": 213,
     "word": "aprender",
     "ipa": "",
-    "translation": "learn"
+    "translation": "学习"
   },
   {
     "rank": 214,
     "word": "planta",
     "ipa": "",
-    "translation": "plant"
+    "translation": "植物"
   },
   {
     "rank": 215,
     "word": "cubierta",
     "ipa": "",
-    "translation": "cover"
+    "translation": "覆盖"
   },
   {
     "rank": 216,
     "word": "alimentos",
     "ipa": "",
-    "translation": "food"
+    "translation": "食物"
   },
   {
     "rank": 217,
@@ -1311,19 +1311,19 @@
     "rank": 219,
     "word": "entre",
     "ipa": "",
-    "translation": "between"
+    "translation": "之间"
   },
   {
     "rank": 220,
     "word": "estado",
     "ipa": "",
-    "translation": "国家；州"
+    "translation": "状态"
   },
   {
     "rank": 221,
     "word": "mantener",
     "ipa": "",
-    "translation": "keep"
+    "translation": "保持"
   },
   {
     "rank": 222,
@@ -1347,13 +1347,13 @@
     "rank": 225,
     "word": "dejar",
     "ipa": "",
-    "translation": "let"
+    "translation": "让"
   },
   {
     "rank": 226,
     "word": "pensado",
     "ipa": "",
-    "translation": "thought"
+    "translation": "想法"
   },
   {
     "rank": 227,
@@ -1371,7 +1371,7 @@
     "rank": 229,
     "word": "cruzar",
     "ipa": "",
-    "translation": "cross"
+    "translation": "叉"
   },
   {
     "rank": 230,
@@ -1383,31 +1383,31 @@
     "rank": 231,
     "word": "duro",
     "ipa": "",
-    "translation": "hard"
+    "translation": "难的"
   },
   {
     "rank": 232,
     "word": "inicio",
     "ipa": "",
-    "translation": "start"
+    "translation": "开始"
   },
   {
     "rank": 233,
     "word": "podría",
     "ipa": "",
-    "translation": "might"
+    "translation": "可能"
   },
   {
     "rank": 234,
     "word": "historia",
     "ipa": "",
-    "translation": "story"
+    "translation": "故事"
   },
   {
     "rank": 235,
     "word": "sierra",
     "ipa": "",
-    "translation": "saw"
+    "translation": "锯"
   },
   {
     "rank": 236,
@@ -1425,7 +1425,7 @@
     "rank": 238,
     "word": "dibujar",
     "ipa": "",
-    "translation": "draw"
+    "translation": "画"
   },
   {
     "rank": 239,
@@ -1437,13 +1437,13 @@
     "rank": 240,
     "word": "tarde",
     "ipa": "",
-    "translation": "晚"
+    "translation": "晚上"
   },
   {
     "rank": 241,
     "word": "ejecutar",
     "ipa": "",
-    "translation": "run"
+    "translation": "跑步"
   },
   {
     "rank": 242,
@@ -1455,43 +1455,43 @@
     "rank": 243,
     "word": "mientras",
     "ipa": "",
-    "translation": "while"
+    "translation": "尽管"
   },
   {
     "rank": 244,
     "word": "prensa",
     "ipa": "",
-    "translation": "press"
+    "translation": "按"
   },
   {
     "rank": 245,
     "word": "Cerrar",
     "ipa": "",
-    "translation": "close"
+    "translation": "关闭"
   },
   {
     "rank": 246,
     "word": "noche",
     "ipa": "",
-    "translation": "夜晚"
+    "translation": "晚上"
   },
   {
     "rank": 247,
     "word": "reales",
     "ipa": "",
-    "translation": "real"
+    "translation": "真实的"
   },
   {
     "rank": 248,
     "word": "vida",
     "ipa": "",
-    "translation": "life"
+    "translation": "生活"
   },
   {
     "rank": 249,
     "word": "pocos",
     "ipa": "",
-    "translation": "few"
+    "translation": "很少"
   },
   {
     "rank": 250,
@@ -1509,19 +1509,19 @@
     "rank": 252,
     "word": "llevar",
     "ipa": "",
-    "translation": "carry"
+    "translation": "携带"
   },
   {
     "rank": 253,
     "word": "tomó",
     "ipa": "",
-    "translation": "took"
+    "translation": "采取了"
   },
   {
     "rank": 254,
     "word": "ciencia",
     "ipa": "",
-    "translation": "science"
+    "translation": "科学"
   },
   {
     "rank": 255,
@@ -1533,7 +1533,7 @@
     "rank": 256,
     "word": "habitación",
     "ipa": "",
-    "translation": "room"
+    "translation": "房间"
   },
   {
     "rank": 257,
@@ -1545,19 +1545,19 @@
     "rank": 258,
     "word": "comenzó",
     "ipa": "",
-    "translation": "began"
+    "translation": "开始"
   },
   {
     "rank": 259,
     "word": "gusta",
     "ipa": "",
-    "translation": "idea"
+    "translation": "主意"
   },
   {
     "rank": 260,
     "word": "peces",
     "ipa": "",
-    "translation": "fish"
+    "translation": "鱼"
   },
   {
     "rank": 261,
@@ -1569,25 +1569,25 @@
     "rank": 262,
     "word": "Deténgase",
     "ipa": "",
-    "translation": "stop"
+    "translation": "停止"
   },
   {
     "rank": 263,
     "word": "una vez",
     "ipa": "",
-    "translation": "once"
+    "translation": "一次"
   },
   {
     "rank": 264,
     "word": "base de",
     "ipa": "",
-    "translation": "base"
+    "translation": "根据"
   },
   {
     "rank": 265,
     "word": "escuchar",
     "ipa": "",
-    "translation": "听"
+    "translation": "听到"
   },
   {
     "rank": 266,
@@ -1599,7 +1599,7 @@
     "rank": 267,
     "word": "cortada",
     "ipa": "",
-    "translation": "cut"
+    "translation": "切"
   },
   {
     "rank": 268,
@@ -1617,7 +1617,7 @@
     "rank": 270,
     "word": "colores",
     "ipa": "",
-    "translation": "color"
+    "translation": "颜色"
   },
   {
     "rank": 271,
@@ -1635,55 +1635,55 @@
     "rank": 273,
     "word": "principal",
     "ipa": "",
-    "translation": "main"
+    "translation": "主要的"
   },
   {
     "rank": 274,
     "word": "abierta",
     "ipa": "",
-    "translation": "open"
+    "translation": "打开"
   },
   {
     "rank": 275,
     "word": "parecer",
     "ipa": "",
-    "translation": "seem"
+    "translation": "似乎"
   },
   {
     "rank": 276,
     "word": "juntos",
     "ipa": "",
-    "translation": "together"
+    "translation": "一起"
   },
   {
     "rank": 277,
     "word": "próximo",
     "ipa": "",
-    "translation": "next"
+    "translation": "下一个"
   },
   {
     "rank": 278,
     "word": "blanco",
     "ipa": "",
-    "translation": "白"
+    "translation": "白色的"
   },
   {
     "rank": 279,
     "word": "niños",
     "ipa": "",
-    "translation": "children"
+    "translation": "孩子们"
   },
   {
     "rank": 280,
     "word": "comenzar",
     "ipa": "",
-    "translation": "begin"
+    "translation": "开始"
   },
   {
     "rank": 281,
     "word": "conseguido",
     "ipa": "",
-    "translation": "got"
+    "translation": "得到"
   },
   {
     "rank": 282,
@@ -1701,7 +1701,7 @@
     "rank": 284,
     "word": "aliviar",
     "ipa": "",
-    "translation": "ease"
+    "translation": "舒适"
   },
   {
     "rank": 285,
@@ -1713,7 +1713,7 @@
     "rank": 286,
     "word": "grupo",
     "ipa": "",
-    "translation": "group"
+    "translation": "团体"
   },
   {
     "rank": 287,
@@ -1725,49 +1725,49 @@
     "rank": 288,
     "word": "música",
     "ipa": "",
-    "translation": "music"
+    "translation": "音乐"
   },
   {
     "rank": 289,
     "word": "los",
     "ipa": "",
-    "translation": "those"
+    "translation": "那些"
   },
   {
     "rank": 290,
     "word": "ambos",
     "ipa": "",
-    "translation": "both"
+    "translation": "两个都"
   },
   {
     "rank": 291,
     "word": "marca",
     "ipa": "",
-    "translation": "mark"
+    "translation": "标记"
   },
   {
     "rank": 292,
     "word": "menudo",
     "ipa": "",
-    "translation": "often"
+    "translation": "经常"
   },
   {
     "rank": 293,
     "word": "carta",
     "ipa": "",
-    "translation": "letter"
+    "translation": "信"
   },
   {
     "rank": 294,
     "word": "hasta",
     "ipa": "",
-    "translation": "until"
+    "translation": "直到"
   },
   {
     "rank": 295,
     "word": "milla",
     "ipa": "",
-    "translation": "mile"
+    "translation": "英里"
   },
   {
     "rank": 296,
@@ -1785,61 +1785,61 @@
     "rank": 298,
     "word": "pies",
     "ipa": "",
-    "translation": "feet"
+    "translation": "脚"
   },
   {
     "rank": 299,
     "word": "cuidado",
     "ipa": "",
-    "translation": "care"
+    "translation": "关心"
   },
   {
     "rank": 300,
     "word": "segundo",
     "ipa": "",
-    "translation": "秒"
+    "translation": "第二"
   },
   {
     "rank": 301,
     "word": "suficiente",
     "ipa": "",
-    "translation": "enough"
+    "translation": "足够的"
   },
   {
     "rank": 302,
     "word": "llano",
     "ipa": "",
-    "translation": "plain"
+    "translation": "清楚的"
   },
   {
     "rank": 303,
     "word": "chica",
     "ipa": "",
-    "translation": "girl"
+    "translation": "女孩"
   },
   {
     "rank": 304,
     "word": "habitual",
     "ipa": "",
-    "translation": "usual"
+    "translation": "通常"
   },
   {
     "rank": 305,
     "word": "joven",
     "ipa": "",
-    "translation": "年轻"
+    "translation": "年轻的"
   },
   {
     "rank": 306,
     "word": "listo",
     "ipa": "",
-    "translation": "ready"
+    "translation": "准备好"
   },
   {
     "rank": 307,
     "word": "por encima de",
     "ipa": "",
-    "translation": "above"
+    "translation": "多于"
   },
   {
     "rank": 308,
@@ -1851,19 +1851,19 @@
     "rank": 309,
     "word": "rojo",
     "ipa": "",
-    "translation": "红"
+    "translation": "红色的"
   },
   {
     "rank": 310,
     "word": "lista",
     "ipa": "",
-    "translation": "list"
+    "translation": "列表"
   },
   {
     "rank": 311,
     "word": "aunque",
     "ipa": "",
-    "translation": "though"
+    "translation": "尽管"
   },
   {
     "rank": 312,
@@ -1875,7 +1875,7 @@
     "rank": 313,
     "word": "charla",
     "ipa": "",
-    "translation": "talk"
+    "translation": "讲话"
   },
   {
     "rank": 314,
@@ -1911,31 +1911,31 @@
     "rank": 319,
     "word": "directa",
     "ipa": "",
-    "translation": "direct"
+    "translation": "直接的"
   },
   {
     "rank": 320,
     "word": "plantear",
     "ipa": "",
-    "translation": "pose"
+    "translation": "姿势"
   },
   {
     "rank": 321,
     "word": "dejar",
     "ipa": "",
-    "translation": "leave"
+    "translation": "离开"
   },
   {
     "rank": 322,
     "word": "canción",
     "ipa": "",
-    "translation": "song"
+    "translation": "歌曲"
   },
   {
     "rank": 323,
     "word": "medir",
     "ipa": "",
-    "translation": "measure"
+    "translation": "措施"
   },
   {
     "rank": 324,
@@ -1947,31 +1947,31 @@
     "rank": 325,
     "word": "producto",
     "ipa": "",
-    "translation": "product"
+    "translation": "产品"
   },
   {
     "rank": 326,
     "word": "negro",
     "ipa": "",
-    "translation": "黑"
+    "translation": "黑色的"
   },
   {
     "rank": 327,
     "word": "corto",
     "ipa": "",
-    "translation": "短"
+    "translation": "短的"
   },
   {
     "rank": 328,
     "word": "numeral",
     "ipa": "",
-    "translation": "numeral"
+    "translation": "数字"
   },
   {
     "rank": 329,
     "word": "clase",
     "ipa": "",
-    "translation": "种类"
+    "translation": "班级"
   },
   {
     "rank": 330,
@@ -1989,31 +1989,31 @@
     "rank": 332,
     "word": "suceder",
     "ipa": "",
-    "translation": "happen"
+    "translation": "发生"
   },
   {
     "rank": 333,
     "word": "completo",
     "ipa": "",
-    "translation": "完整"
+    "translation": "完全的"
   },
   {
     "rank": 334,
     "word": "buque",
     "ipa": "",
-    "translation": "ship"
+    "translation": "船"
   },
   {
     "rank": 335,
     "word": "zona",
     "ipa": "",
-    "translation": "地带"
+    "translation": "区域"
   },
   {
     "rank": 336,
     "word": "medio",
     "ipa": "",
-    "translation": "中间"
+    "translation": "一半"
   },
   {
     "rank": 337,
@@ -2025,7 +2025,7 @@
     "rank": 338,
     "word": "orden",
     "ipa": "",
-    "translation": "order"
+    "translation": "命令"
   },
   {
     "rank": 339,
@@ -2049,37 +2049,37 @@
     "rank": 342,
     "word": "pieza",
     "ipa": "",
-    "translation": "piece"
+    "translation": "片"
   },
   {
     "rank": 343,
     "word": "dicho",
     "ipa": "",
-    "translation": "told"
+    "translation": "告诉"
   },
   {
     "rank": 344,
     "word": "sabía",
     "ipa": "",
-    "translation": "knew"
+    "translation": "知道"
   },
   {
     "rank": 345,
     "word": "pasar",
     "ipa": "",
-    "translation": "pass"
+    "translation": "经过"
   },
   {
     "rank": 346,
     "word": "desde",
     "ipa": "",
-    "translation": "since"
+    "translation": "自从"
   },
   {
     "rank": 347,
     "word": "cima",
     "ipa": "",
-    "translation": "top"
+    "translation": "顶部"
   },
   {
     "rank": 348,
@@ -2091,7 +2091,7 @@
     "rank": 349,
     "word": "rey",
     "ipa": "",
-    "translation": "king"
+    "translation": "国王"
   },
   {
     "rank": 350,
@@ -2103,79 +2103,79 @@
     "rank": 351,
     "word": "pulgadas",
     "ipa": "",
-    "translation": "inch"
+    "translation": "英寸"
   },
   {
     "rank": 352,
     "word": "multiplicar",
     "ipa": "",
-    "translation": "multiply"
+    "translation": "乘"
   },
   {
     "rank": 353,
     "word": "nada",
     "ipa": "",
-    "translation": "nothing"
+    "translation": "没有什么"
   },
   {
     "rank": 354,
     "word": "curso",
     "ipa": "",
-    "translation": "course"
+    "translation": "课程"
   },
   {
     "rank": 355,
     "word": "quedarse",
     "ipa": "",
-    "translation": "stay"
+    "translation": "停留"
   },
   {
     "rank": 356,
     "word": "rueda",
     "ipa": "",
-    "translation": "wheel"
+    "translation": "车轮"
   },
   {
     "rank": 357,
     "word": "completo",
     "ipa": "",
-    "translation": "完整"
+    "translation": "满的"
   },
   {
     "rank": 358,
     "word": "fuerza",
     "ipa": "",
-    "translation": "force"
+    "translation": "力量"
   },
   {
     "rank": 359,
     "word": "azul",
     "ipa": "",
-    "translation": "蓝"
+    "translation": "蓝色的"
   },
   {
     "rank": 360,
     "word": "objeto",
     "ipa": "",
-    "translation": "object"
+    "translation": "目的"
   },
   {
     "rank": 361,
     "word": "decidir",
     "ipa": "",
-    "translation": "decide"
+    "translation": "决定"
   },
   {
     "rank": 362,
     "word": "superficie",
     "ipa": "",
-    "translation": "surface"
+    "translation": "表面"
   },
   {
     "rank": 363,
     "word": "profunda",
     "ipa": "",
-    "translation": "deep"
+    "translation": "深的"
   },
   {
     "rank": 364,
@@ -2205,19 +2205,19 @@
     "rank": 368,
     "word": "ocupado",
     "ipa": "",
-    "translation": "busy"
+    "translation": "忙碌的"
   },
   {
     "rank": 369,
     "word": "prueba",
     "ipa": "",
-    "translation": "test"
+    "translation": "测试"
   },
   {
     "rank": 370,
     "word": "registro",
     "ipa": "",
-    "translation": "record"
+    "translation": "记录"
   },
   {
     "rank": 371,
@@ -2229,49 +2229,49 @@
     "rank": 372,
     "word": "común",
     "ipa": "",
-    "translation": "common"
+    "translation": "常见的"
   },
   {
     "rank": 373,
     "word": "oro",
     "ipa": "",
-    "translation": "黄金"
+    "translation": "金子"
   },
   {
     "rank": 374,
     "word": "posible",
     "ipa": "",
-    "translation": "可能"
+    "translation": "可能的"
   },
   {
     "rank": 375,
     "word": "plano",
     "ipa": "",
-    "translation": "plane"
+    "translation": "飞机"
   },
   {
     "rank": 376,
     "word": "lugar",
     "ipa": "",
-    "translation": "地方"
+    "translation": "斯蒂德"
   },
   {
     "rank": 377,
     "word": "seco",
     "ipa": "",
-    "translation": "dry"
+    "translation": "干燥"
   },
   {
     "rank": 378,
     "word": "maravilla",
     "ipa": "",
-    "translation": "wonder"
+    "translation": "想知道"
   },
   {
     "rank": 379,
     "word": "risa",
     "ipa": "",
-    "translation": "laugh"
+    "translation": "笑"
   },
   {
     "rank": 380,
@@ -2283,55 +2283,55 @@
     "rank": 381,
     "word": "hace",
     "ipa": "",
-    "translation": "ago"
+    "translation": "前"
   },
   {
     "rank": 382,
     "word": "corrió",
     "ipa": "",
-    "translation": "ran"
+    "translation": "跑"
   },
   {
     "rank": 383,
     "word": "comprobar",
     "ipa": "",
-    "translation": "check"
+    "translation": "查看"
   },
   {
     "rank": 384,
     "word": "juego",
     "ipa": "",
-    "translation": "game"
+    "translation": "游戏"
   },
   {
     "rank": 385,
     "word": "forma",
     "ipa": "",
-    "translation": "形式"
+    "translation": "形状"
   },
   {
     "rank": 386,
     "word": "equiparar",
     "ipa": "",
-    "translation": "equate"
+    "translation": "等同"
   },
   {
     "rank": 387,
     "word": "caliente",
     "ipa": "",
-    "translation": "热"
+    "translation": "热的"
   },
   {
     "rank": 388,
     "word": "señorita",
     "ipa": "",
-    "translation": "miss"
+    "translation": "错过"
   },
   {
     "rank": 389,
     "word": "traído",
     "ipa": "",
-    "translation": "brought"
+    "translation": "带来"
   },
   {
     "rank": 390,
@@ -2349,13 +2349,13 @@
     "rank": 392,
     "word": "neumáticos",
     "ipa": "",
-    "translation": "tire"
+    "translation": "胎"
   },
   {
     "rank": 393,
     "word": "traer",
     "ipa": "",
-    "translation": "bring"
+    "translation": "带来"
   },
   {
     "rank": 394,
@@ -2367,19 +2367,19 @@
     "rank": 395,
     "word": "distante",
     "ipa": "",
-    "translation": "distant"
+    "translation": "遥远"
   },
   {
     "rank": 396,
     "word": "llenar",
     "ipa": "",
-    "translation": "fill"
+    "translation": "充满"
   },
   {
     "rank": 397,
     "word": "al este",
     "ipa": "",
-    "translation": "east"
+    "translation": "东方"
   },
   {
     "rank": 398,
@@ -2397,19 +2397,19 @@
     "rank": 400,
     "word": "entre",
     "ipa": "",
-    "translation": "among"
+    "translation": "之中"
   },
   {
     "rank": 401,
     "word": "unidad",
     "ipa": "",
-    "translation": "unit"
+    "translation": "单元"
   },
   {
     "rank": 402,
     "word": "potencia",
     "ipa": "",
-    "translation": "power"
+    "translation": "力量"
   },
   {
     "rank": 403,
@@ -2421,13 +2421,13 @@
     "rank": 404,
     "word": "fina",
     "ipa": "",
-    "translation": "fine"
+    "translation": "美好的"
   },
   {
     "rank": 405,
     "word": "cierto",
     "ipa": "",
-    "translation": "certain"
+    "translation": "肯定"
   },
   {
     "rank": 406,
@@ -2439,7 +2439,7 @@
     "rank": 407,
     "word": "caer",
     "ipa": "",
-    "translation": "fall"
+    "translation": "落下"
   },
   {
     "rank": 408,
@@ -2451,43 +2451,43 @@
     "rank": 409,
     "word": "grito",
     "ipa": "",
-    "translation": "cry"
+    "translation": "哭"
   },
   {
     "rank": 410,
     "word": "oscuro",
     "ipa": "",
-    "translation": "dark"
+    "translation": "黑暗的"
   },
   {
     "rank": 411,
     "word": "máquina",
     "ipa": "",
-    "translation": "machine"
+    "translation": "机器"
   },
   {
     "rank": 412,
     "word": "nota",
     "ipa": "",
-    "translation": "note"
+    "translation": "笔记"
   },
   {
     "rank": 413,
     "word": "espere",
     "ipa": "",
-    "translation": "wait"
+    "translation": "等待"
   },
   {
     "rank": 414,
     "word": "plan de",
     "ipa": "",
-    "translation": "plan"
+    "translation": "计划"
   },
   {
     "rank": 415,
     "word": "figura",
     "ipa": "",
-    "translation": "figure"
+    "translation": "数字"
   },
   {
     "rank": 416,
@@ -2499,73 +2499,73 @@
     "rank": 417,
     "word": "caja",
     "ipa": "",
-    "translation": "box"
+    "translation": "盒子"
   },
   {
     "rank": 418,
     "word": "sustantivo",
     "ipa": "",
-    "translation": "noun"
+    "translation": "名词"
   },
   {
     "rank": 419,
     "word": "campo",
     "ipa": "",
-    "translation": "field"
+    "translation": "场地"
   },
   {
     "rank": 420,
     "word": "resto",
     "ipa": "",
-    "translation": "rest"
+    "translation": "休息"
   },
   {
     "rank": 421,
     "word": "correcta",
     "ipa": "",
-    "translation": "correct"
+    "translation": "正确的"
   },
   {
     "rank": 422,
     "word": "capaz",
     "ipa": "",
-    "translation": "able"
+    "translation": "有能力的"
   },
   {
     "rank": 423,
     "word": "libra",
     "ipa": "",
-    "translation": "pound"
+    "translation": "磅"
   },
   {
     "rank": 424,
     "word": "hecho",
     "ipa": "",
-    "translation": "事实"
+    "translation": "完毕"
   },
   {
     "rank": 425,
     "word": "belleza",
     "ipa": "",
-    "translation": "beauty"
+    "translation": "美丽"
   },
   {
     "rank": 426,
     "word": "unidad",
     "ipa": "",
-    "translation": "drive"
+    "translation": "驾驶"
   },
   {
     "rank": 427,
     "word": "destacado",
     "ipa": "",
-    "translation": "stood"
+    "translation": "站着"
   },
   {
     "rank": 428,
     "word": "contener",
     "ipa": "",
-    "translation": "contain"
+    "translation": "包含"
   },
   {
     "rank": 429,
@@ -2595,19 +2595,19 @@
     "rank": 433,
     "word": "dio",
     "ipa": "",
-    "translation": "gave"
+    "translation": "给了"
   },
   {
     "rank": 434,
     "word": "verde",
     "ipa": "",
-    "translation": "绿"
+    "translation": "绿色的"
   },
   {
     "rank": 435,
     "word": "oh",
     "ipa": "",
-    "translation": "oh"
+    "translation": "哦"
   },
   {
     "rank": 436,
@@ -2619,7 +2619,7 @@
     "rank": 437,
     "word": "desarrollar",
     "ipa": "",
-    "translation": "develop"
+    "translation": "发展"
   },
   {
     "rank": 438,
@@ -2631,13 +2631,13 @@
     "rank": 439,
     "word": "caliente",
     "ipa": "",
-    "translation": "热"
+    "translation": "温暖的"
   },
   {
     "rank": 440,
     "word": "libre",
     "ipa": "",
-    "translation": "free"
+    "translation": "自由的"
   },
   {
     "rank": 441,
@@ -2649,19 +2649,19 @@
     "rank": 442,
     "word": "fuerte",
     "ipa": "",
-    "translation": "强壮"
+    "translation": "强的"
   },
   {
     "rank": 443,
     "word": "especial",
     "ipa": "",
-    "translation": "special"
+    "translation": "特别的"
   },
   {
     "rank": 444,
     "word": "mente",
     "ipa": "",
-    "translation": "心；智力"
+    "translation": "头脑"
   },
   {
     "rank": 445,
@@ -2673,19 +2673,19 @@
     "rank": 446,
     "word": "claro",
     "ipa": "",
-    "translation": "clear"
+    "translation": "清除"
   },
   {
     "rank": 447,
     "word": "cola",
     "ipa": "",
-    "translation": "tail"
+    "translation": "尾巴"
   },
   {
     "rank": 448,
     "word": "Produce",
     "ipa": "",
-    "translation": "produce"
+    "translation": "生产"
   },
   {
     "rank": 449,
@@ -2697,43 +2697,43 @@
     "rank": 450,
     "word": "espacio",
     "ipa": "",
-    "translation": "space"
+    "translation": "空间"
   },
   {
     "rank": 451,
     "word": "oído",
     "ipa": "",
-    "translation": "耳朵"
+    "translation": "听到"
   },
   {
     "rank": 452,
     "word": "mejor",
     "ipa": "",
-    "translation": "更好"
+    "translation": "最好的"
   },
   {
     "rank": 453,
     "word": "horas",
     "ipa": "",
-    "translation": "hour"
+    "translation": "小时"
   },
   {
     "rank": 454,
     "word": "mejor",
     "ipa": "",
-    "translation": "更好"
+    "translation": "更好的"
   },
   {
     "rank": 455,
     "word": "verdadero",
     "ipa": "",
-    "translation": "真"
+    "translation": "真的"
   },
   {
     "rank": 456,
     "word": "durante",
     "ipa": "",
-    "translation": "during"
+    "translation": "期间"
   },
   {
     "rank": 457,
@@ -2751,25 +2751,25 @@
     "rank": 459,
     "word": "recordar",
     "ipa": "",
-    "translation": "记得"
+    "translation": "记住"
   },
   {
     "rank": 460,
     "word": "paso",
     "ipa": "",
-    "translation": "步骤"
+    "translation": "步"
   },
   {
     "rank": 461,
     "word": "temprana",
     "ipa": "",
-    "translation": "early"
+    "translation": "早期的"
   },
   {
     "rank": 462,
     "word": "mantenga",
     "ipa": "",
-    "translation": "hold"
+    "translation": "抓住"
   },
   {
     "rank": 463,
@@ -2787,7 +2787,7 @@
     "rank": 465,
     "word": "interés",
     "ipa": "",
-    "translation": "interest"
+    "translation": "兴趣"
   },
   {
     "rank": 466,
@@ -2805,7 +2805,7 @@
     "rank": 468,
     "word": "verbo",
     "ipa": "",
-    "translation": "verb"
+    "translation": "动词"
   },
   {
     "rank": 469,
@@ -2835,13 +2835,13 @@
     "rank": 473,
     "word": "viajes",
     "ipa": "",
-    "translation": "travel"
+    "translation": "旅行"
   },
   {
     "rank": 474,
     "word": "menos",
     "ipa": "",
-    "translation": "less"
+    "translation": "较少的"
   },
   {
     "rank": 475,
@@ -2859,25 +2859,25 @@
     "rank": 477,
     "word": "sencilla",
     "ipa": "",
-    "translation": "simple"
+    "translation": "简单的"
   },
   {
     "rank": 478,
     "word": "varios",
     "ipa": "",
-    "translation": "several"
+    "translation": "一些"
   },
   {
     "rank": 479,
     "word": "vocal",
     "ipa": "",
-    "translation": "vowel"
+    "translation": "元音"
   },
   {
     "rank": 480,
     "word": "hacia",
     "ipa": "",
-    "translation": "toward"
+    "translation": "朝向"
   },
   {
     "rank": 481,
@@ -2889,25 +2889,25 @@
     "rank": 482,
     "word": "sentar",
     "ipa": "",
-    "translation": "lay"
+    "translation": "躺着"
   },
   {
     "rank": 483,
     "word": "contra",
     "ipa": "",
-    "translation": "against"
+    "translation": "反对"
   },
   {
     "rank": 484,
     "word": "patrón",
     "ipa": "",
-    "translation": "pattern"
+    "translation": "图案"
   },
   {
     "rank": 485,
     "word": "lenta",
     "ipa": "",
-    "translation": "slow"
+    "translation": "慢的"
   },
   {
     "rank": 486,
@@ -2919,13 +2919,13 @@
     "rank": 487,
     "word": "amar",
     "ipa": "",
-    "translation": "love"
+    "translation": "爱"
   },
   {
     "rank": 488,
     "word": "persona",
     "ipa": "",
-    "translation": "person"
+    "translation": "人"
   },
   {
     "rank": 489,
@@ -2937,25 +2937,25 @@
     "rank": 490,
     "word": "servir",
     "ipa": "",
-    "translation": "serve"
+    "translation": "服务"
   },
   {
     "rank": 491,
     "word": "aparecerá",
     "ipa": "",
-    "translation": "appear"
+    "translation": "出现"
   },
   {
     "rank": 492,
     "word": "carretera",
     "ipa": "",
-    "translation": "公路"
+    "translation": "路"
   },
   {
     "rank": 493,
     "word": "mapa",
     "ipa": "",
-    "translation": "map"
+    "translation": "地图"
   },
   {
     "rank": 494,
@@ -2967,55 +2967,55 @@
     "rank": 495,
     "word": "regla",
     "ipa": "",
-    "translation": "rule"
+    "translation": "规则"
   },
   {
     "rank": 496,
     "word": "gobernar",
     "ipa": "",
-    "translation": "govern"
+    "translation": "治理"
   },
   {
     "rank": 497,
     "word": "Halar",
     "ipa": "",
-    "translation": "pull"
+    "translation": "拉"
   },
   {
     "rank": 498,
     "word": "frío",
     "ipa": "",
-    "translation": "冷"
+    "translation": "寒冷的"
   },
   {
     "rank": 499,
     "word": "aviso",
     "ipa": "",
-    "translation": "notice"
+    "translation": "注意"
   },
   {
     "rank": 500,
     "word": "voz",
     "ipa": "",
-    "translation": "voice"
+    "translation": "嗓音"
   },
   {
     "rank": 501,
     "word": "energía",
     "ipa": "",
-    "translation": "energy"
+    "translation": "活力"
   },
   {
     "rank": 502,
     "word": "caza",
     "ipa": "",
-    "translation": "hunt"
+    "translation": "打猎"
   },
   {
     "rank": 503,
     "word": "probable",
     "ipa": "",
-    "translation": "probable"
+    "translation": "可能"
   },
   {
     "rank": 504,
@@ -3033,19 +3033,19 @@
     "rank": 506,
     "word": "huevo",
     "ipa": "",
-    "translation": "egg"
+    "translation": "蛋"
   },
   {
     "rank": 507,
     "word": "paseo",
     "ipa": "",
-    "translation": "ride"
+    "translation": "骑"
   },
   {
     "rank": 508,
     "word": "celular",
     "ipa": "",
-    "translation": "cell"
+    "translation": "细胞"
   },
   {
     "rank": 509,
@@ -3057,31 +3057,31 @@
     "rank": 510,
     "word": "quizás",
     "ipa": "",
-    "translation": "也许"
+    "translation": "或许"
   },
   {
     "rank": 511,
     "word": "recoger",
     "ipa": "",
-    "translation": "pick"
+    "translation": "挑选"
   },
   {
     "rank": 512,
     "word": "repentina",
     "ipa": "",
-    "translation": "sudden"
+    "translation": "突然的"
   },
   {
     "rank": 513,
     "word": "contar",
     "ipa": "",
-    "translation": "count"
+    "translation": "数数"
   },
   {
     "rank": 514,
     "word": "plaza",
     "ipa": "",
-    "translation": "square"
+    "translation": "正方形"
   },
   {
     "rank": 515,
@@ -3093,25 +3093,25 @@
     "rank": 516,
     "word": "longitud",
     "ipa": "",
-    "translation": "经度"
+    "translation": "长度"
   },
   {
     "rank": 517,
     "word": "representar",
     "ipa": "",
-    "translation": "represent"
+    "translation": "代表"
   },
   {
     "rank": 518,
     "word": "arte",
     "ipa": "",
-    "translation": "art"
+    "translation": "艺术"
   },
   {
     "rank": 519,
     "word": "sujeto",
     "ipa": "",
-    "translation": "subject"
+    "translation": "主题"
   },
   {
     "rank": 520,
@@ -3123,19 +3123,19 @@
     "rank": 521,
     "word": "tamaño",
     "ipa": "",
-    "translation": "size"
+    "translation": "尺寸"
   },
   {
     "rank": 522,
     "word": "variar",
     "ipa": "",
-    "translation": "vary"
+    "translation": "各不相同"
   },
   {
     "rank": 523,
     "word": "resolver",
     "ipa": "",
-    "translation": "settle"
+    "translation": "定居"
   },
   {
     "rank": 524,
@@ -3147,73 +3147,73 @@
     "rank": 525,
     "word": "peso",
     "ipa": "",
-    "translation": "weight"
+    "translation": "重量"
   },
   {
     "rank": 526,
     "word": "general",
     "ipa": "",
-    "translation": "general"
+    "translation": "一般的"
   },
   {
     "rank": 527,
     "word": "hielo",
     "ipa": "",
-    "translation": "ice"
+    "translation": "冰"
   },
   {
     "rank": 528,
     "word": "materia",
     "ipa": "",
-    "translation": "matter"
+    "translation": "事情"
   },
   {
     "rank": 529,
     "word": "círculo",
     "ipa": "",
-    "translation": "circle"
+    "translation": "圆圈"
   },
   {
     "rank": 530,
     "word": "par",
     "ipa": "",
-    "translation": "pair"
+    "translation": "一对"
   },
   {
     "rank": 531,
     "word": "incluir",
     "ipa": "",
-    "translation": "include"
+    "translation": "包括"
   },
   {
     "rank": 532,
     "word": "brecha",
     "ipa": "",
-    "translation": "divide"
+    "translation": "划分"
   },
   {
     "rank": 533,
     "word": "sílaba",
     "ipa": "",
-    "translation": "syllable"
+    "translation": "音节"
   },
   {
     "rank": 534,
     "word": "sentido",
     "ipa": "",
-    "translation": "felt"
+    "translation": "毛毡"
   },
   {
     "rank": 535,
     "word": "gran",
     "ipa": "",
-    "translation": "grand"
+    "translation": "盛大"
   },
   {
     "rank": 536,
     "word": "bola",
     "ipa": "",
-    "translation": "ball"
+    "translation": "球"
   },
   {
     "rank": 537,
@@ -3225,13 +3225,13 @@
     "rank": 538,
     "word": "ola",
     "ipa": "",
-    "translation": "wave"
+    "translation": "海浪"
   },
   {
     "rank": 539,
     "word": "caer",
     "ipa": "",
-    "translation": "drop"
+    "translation": "降低"
   },
   {
     "rank": 540,
@@ -3243,31 +3243,31 @@
     "rank": 541,
     "word": "am",
     "ipa": "",
-    "translation": "am"
+    "translation": "是"
   },
   {
     "rank": 542,
     "word": "presente",
     "ipa": "",
-    "translation": "present"
+    "translation": "展示"
   },
   {
     "rank": 543,
     "word": "pesada",
     "ipa": "",
-    "translation": "heavy"
+    "translation": "重的"
   },
   {
     "rank": 544,
     "word": "danza",
     "ipa": "",
-    "translation": "dance"
+    "translation": "舞蹈"
   },
   {
     "rank": 545,
     "word": "motor",
     "ipa": "",
-    "translation": "engine"
+    "translation": "引擎"
   },
   {
     "rank": 546,
@@ -3279,31 +3279,31 @@
     "rank": 547,
     "word": "brazo",
     "ipa": "",
-    "translation": "胳膊"
+    "translation": "手臂"
   },
   {
     "rank": 548,
     "word": "amplio",
     "ipa": "",
-    "translation": "wide"
+    "translation": "宽的"
   },
   {
     "rank": 549,
     "word": "vela",
     "ipa": "",
-    "translation": "sail"
+    "translation": "帆"
   },
   {
     "rank": 550,
     "word": "materiales",
     "ipa": "",
-    "translation": "material"
+    "translation": "材料"
   },
   {
     "rank": 551,
     "word": "fracción",
     "ipa": "",
-    "translation": "fraction"
+    "translation": "分数"
   },
   {
     "rank": 552,
@@ -3321,7 +3321,7 @@
     "rank": 554,
     "word": "carrera",
     "ipa": "",
-    "translation": "race"
+    "translation": "种族"
   },
   {
     "rank": 555,
@@ -3339,7 +3339,7 @@
     "rank": 557,
     "word": "verano",
     "ipa": "",
-    "translation": "夏"
+    "translation": "夏天"
   },
   {
     "rank": 558,
@@ -3351,19 +3351,19 @@
     "rank": 559,
     "word": "sueño",
     "ipa": "",
-    "translation": "sleep"
+    "translation": "睡觉"
   },
   {
     "rank": 560,
     "word": "demostrar",
     "ipa": "",
-    "translation": "prove"
+    "translation": "证明"
   },
   {
     "rank": 561,
     "word": "solitario",
     "ipa": "",
-    "translation": "lone"
+    "translation": "孤独的"
   },
   {
     "rank": 562,
@@ -3375,7 +3375,7 @@
     "rank": 563,
     "word": "ejercicio",
     "ipa": "",
-    "translation": "exercise"
+    "translation": "锻炼"
   },
   {
     "rank": 564,
@@ -3387,13 +3387,13 @@
     "rank": 565,
     "word": "capturas",
     "ipa": "",
-    "translation": "catch"
+    "translation": "抓住"
   },
   {
     "rank": 566,
     "word": "monte",
     "ipa": "",
-    "translation": "mount"
+    "translation": "山"
   },
   {
     "rank": 567,
@@ -3411,49 +3411,49 @@
     "rank": 569,
     "word": "bordo",
     "ipa": "",
-    "translation": "board"
+    "translation": "木板"
   },
   {
     "rank": 570,
     "word": "alegría",
     "ipa": "",
-    "translation": "joy"
+    "translation": "喜悦"
   },
   {
     "rank": 571,
     "word": "invierno",
     "ipa": "",
-    "translation": "冬"
+    "translation": "冬天"
   },
   {
     "rank": 572,
     "word": "satélite",
     "ipa": "",
-    "translation": "sat"
+    "translation": "坐"
   },
   {
     "rank": 573,
     "word": "escrito",
     "ipa": "",
-    "translation": "written"
+    "translation": "书面"
   },
   {
     "rank": 574,
     "word": "salvaje",
     "ipa": "",
-    "translation": "wild"
+    "translation": "荒野"
   },
   {
     "rank": 575,
     "word": "instrumento",
     "ipa": "",
-    "translation": "instrument"
+    "translation": "乐器"
   },
   {
     "rank": 576,
     "word": "guardado",
     "ipa": "",
-    "translation": "kept"
+    "translation": "保留"
   },
   {
     "rank": 577,
@@ -3465,13 +3465,13 @@
     "rank": 578,
     "word": "hierba",
     "ipa": "",
-    "translation": "grass"
+    "translation": "草"
   },
   {
     "rank": 579,
     "word": "vaca",
     "ipa": "",
-    "translation": "cow"
+    "translation": "奶牛"
   },
   {
     "rank": 580,
@@ -3489,43 +3489,43 @@
     "rank": 582,
     "word": "signo",
     "ipa": "",
-    "translation": "sign"
+    "translation": "符号"
   },
   {
     "rank": 583,
     "word": "visita",
     "ipa": "",
-    "translation": "visit"
+    "translation": "访问"
   },
   {
     "rank": 584,
     "word": "pasado",
     "ipa": "",
-    "translation": "past"
+    "translation": "过去的"
   },
   {
     "rank": 585,
     "word": "suave",
     "ipa": "",
-    "translation": "soft"
+    "translation": "柔软的"
   },
   {
     "rank": 586,
     "word": "diversión",
     "ipa": "",
-    "translation": "fun"
+    "translation": "乐趣"
   },
   {
     "rank": 587,
     "word": "brillante",
     "ipa": "",
-    "translation": "bright"
+    "translation": "明亮的"
   },
   {
     "rank": 588,
     "word": "gas",
     "ipa": "",
-    "translation": "gas"
+    "translation": "气体"
   },
   {
     "rank": 589,
@@ -3543,31 +3543,31 @@
     "rank": 591,
     "word": "millones",
     "ipa": "",
-    "translation": "million"
+    "translation": "百万"
   },
   {
     "rank": 592,
     "word": "soportar",
     "ipa": "",
-    "translation": "bear"
+    "translation": "熊"
   },
   {
     "rank": 593,
     "word": "acabado",
     "ipa": "",
-    "translation": "finish"
+    "translation": "结束"
   },
   {
     "rank": 594,
     "word": "feliz",
     "ipa": "",
-    "translation": "开心"
+    "translation": "快乐的"
   },
   {
     "rank": 595,
     "word": "esperanza",
     "ipa": "",
-    "translation": "hope"
+    "translation": "希望"
   },
   {
     "rank": 596,
@@ -3585,25 +3585,25 @@
     "rank": 598,
     "word": "extraño",
     "ipa": "",
-    "translation": "strange"
+    "translation": "奇怪的"
   },
   {
     "rank": 599,
     "word": "se ha ido",
     "ipa": "",
-    "translation": "gone"
+    "translation": "消失了"
   },
   {
     "rank": 600,
     "word": "comercio",
     "ipa": "",
-    "translation": "trade"
+    "translation": "贸易"
   },
   {
     "rank": 601,
     "word": "melodía",
     "ipa": "",
-    "translation": "melody"
+    "translation": "旋律"
   },
   {
     "rank": 602,
@@ -3621,13 +3621,13 @@
     "rank": 604,
     "word": "recibir",
     "ipa": "",
-    "translation": "receive"
+    "translation": "收到"
   },
   {
     "rank": 605,
     "word": "fila",
     "ipa": "",
-    "translation": "row"
+    "translation": "排"
   },
   {
     "rank": 606,
@@ -3639,13 +3639,13 @@
     "rank": 607,
     "word": "exacta",
     "ipa": "",
-    "translation": "exact"
+    "translation": "精确的"
   },
   {
     "rank": 608,
     "word": "símbolo",
     "ipa": "",
-    "translation": "symbol"
+    "translation": "象征"
   },
   {
     "rank": 609,
@@ -3657,7 +3657,7 @@
     "rank": 610,
     "word": "menos",
     "ipa": "",
-    "translation": "least"
+    "translation": "至少"
   },
   {
     "rank": 611,
@@ -3669,61 +3669,61 @@
     "rank": 612,
     "word": "grito",
     "ipa": "",
-    "translation": "shout"
+    "translation": "喊"
   },
   {
     "rank": 613,
     "word": "excepto",
     "ipa": "",
-    "translation": "except"
+    "translation": "除了"
   },
   {
     "rank": 614,
     "word": "escribió",
     "ipa": "",
-    "translation": "wrote"
+    "translation": "写道"
   },
   {
     "rank": 615,
     "word": "semilla",
     "ipa": "",
-    "translation": "seed"
+    "translation": "种子"
   },
   {
     "rank": 616,
     "word": "tono",
     "ipa": "",
-    "translation": "tone"
+    "translation": "语气"
   },
   {
     "rank": 617,
     "word": "unirse",
     "ipa": "",
-    "translation": "join"
+    "translation": "加入"
   },
   {
     "rank": 618,
     "word": "sugerir",
     "ipa": "",
-    "translation": "suggest"
+    "translation": "建议"
   },
   {
     "rank": 619,
     "word": "limpia",
     "ipa": "",
-    "translation": "clean"
+    "translation": "干净的"
   },
   {
     "rank": 620,
     "word": "rotura",
     "ipa": "",
-    "translation": "break"
+    "translation": "休息"
   },
   {
     "rank": 621,
     "word": "dama",
     "ipa": "",
-    "translation": "lady"
+    "translation": "女士"
   },
   {
     "rank": 622,
@@ -3735,7 +3735,7 @@
     "rank": 623,
     "word": "aumentando",
     "ipa": "",
-    "translation": "rise"
+    "translation": "上升"
   },
   {
     "rank": 624,
@@ -3747,7 +3747,7 @@
     "rank": 625,
     "word": "golpe",
     "ipa": "",
-    "translation": "blow"
+    "translation": "吹"
   },
   {
     "rank": 626,
@@ -3765,37 +3765,37 @@
     "rank": 628,
     "word": "tocar",
     "ipa": "",
-    "translation": "touch"
+    "translation": "触碰"
   },
   {
     "rank": 629,
     "word": "creció",
     "ipa": "",
-    "translation": "grew"
+    "translation": "长大了"
   },
   {
     "rank": 630,
     "word": "ciento",
     "ipa": "",
-    "translation": "cent"
+    "translation": "分"
   },
   {
     "rank": 631,
     "word": "mezclar",
     "ipa": "",
-    "translation": "mix"
+    "translation": "混合"
   },
   {
     "rank": 632,
     "word": "equipo",
     "ipa": "",
-    "translation": "team"
+    "translation": "团队"
   },
   {
     "rank": 633,
     "word": "alambre",
     "ipa": "",
-    "translation": "wire"
+    "translation": "金属丝"
   },
   {
     "rank": 634,
@@ -3807,19 +3807,19 @@
     "rank": 635,
     "word": "perdido",
     "ipa": "",
-    "translation": "lost"
+    "translation": "丢失的"
   },
   {
     "rank": 636,
     "word": "marrón",
     "ipa": "",
-    "translation": "棕"
+    "translation": "棕色的"
   },
   {
     "rank": 637,
     "word": "desgaste",
     "ipa": "",
-    "translation": "wear"
+    "translation": "穿"
   },
   {
     "rank": 638,
@@ -3831,43 +3831,43 @@
     "rank": 639,
     "word": "igual",
     "ipa": "",
-    "translation": "相同"
+    "translation": "平等的"
   },
   {
     "rank": 640,
     "word": "enviado",
     "ipa": "",
-    "translation": "sent"
+    "translation": "发送"
   },
   {
     "rank": 641,
     "word": "elegir",
     "ipa": "",
-    "translation": "choose"
+    "translation": "选择"
   },
   {
     "rank": 642,
     "word": "cayó",
     "ipa": "",
-    "translation": "fell"
+    "translation": "跌倒了"
   },
   {
     "rank": 643,
     "word": "encajar",
     "ipa": "",
-    "translation": "fit"
+    "translation": "合身"
   },
   {
     "rank": 644,
     "word": "fluir",
     "ipa": "",
-    "translation": "flow"
+    "translation": "流动"
   },
   {
     "rank": 645,
     "word": "justo",
     "ipa": "",
-    "translation": "fair"
+    "translation": "公平的"
   },
   {
     "rank": 646,
@@ -3879,25 +3879,25 @@
     "rank": 647,
     "word": "recoger",
     "ipa": "",
-    "translation": "collect"
+    "translation": "收集"
   },
   {
     "rank": 648,
     "word": "guardar",
     "ipa": "",
-    "translation": "save"
+    "translation": "节省"
   },
   {
     "rank": 649,
     "word": "el control",
     "ipa": "",
-    "translation": "control"
+    "translation": "控制"
   },
   {
     "rank": 650,
     "word": "decimal",
     "ipa": "",
-    "translation": "decimal"
+    "translation": "小数"
   },
   {
     "rank": 651,
@@ -3909,7 +3909,7 @@
     "rank": 652,
     "word": "demás",
     "ipa": "",
-    "translation": "else"
+    "translation": "别的"
   },
   {
     "rank": 653,
@@ -3921,13 +3921,13 @@
     "rank": 654,
     "word": "rompió",
     "ipa": "",
-    "translation": "broke"
+    "translation": "坏了"
   },
   {
     "rank": 655,
     "word": "caso",
     "ipa": "",
-    "translation": "案例"
+    "translation": "案件"
   },
   {
     "rank": 656,
@@ -3939,7 +3939,7 @@
     "rank": 657,
     "word": "matar",
     "ipa": "",
-    "translation": "kill"
+    "translation": "杀"
   },
   {
     "rank": 658,
@@ -3957,61 +3957,61 @@
     "rank": 660,
     "word": "momento",
     "ipa": "",
-    "translation": "moment"
+    "translation": "片刻"
   },
   {
     "rank": 661,
     "word": "escala",
     "ipa": "",
-    "translation": "scale"
+    "translation": "规模"
   },
   {
     "rank": 662,
     "word": "fuerte",
     "ipa": "",
-    "translation": "强壮"
+    "translation": "大声"
   },
   {
     "rank": 663,
     "word": "primavera",
     "ipa": "",
-    "translation": "春"
+    "translation": "春天"
   },
   {
     "rank": 664,
     "word": "observar",
     "ipa": "",
-    "translation": "observe"
+    "translation": "观察"
   },
   {
     "rank": 665,
     "word": "niño",
     "ipa": "",
-    "translation": "男孩；孩子"
+    "translation": "男孩；孩子们"
   },
   {
     "rank": 666,
     "word": "recta",
     "ipa": "",
-    "translation": "straight"
+    "translation": "直的"
   },
   {
     "rank": 667,
     "word": "consonante",
     "ipa": "",
-    "translation": "consonant"
+    "translation": "辅音"
   },
   {
     "rank": 668,
     "word": "nación",
     "ipa": "",
-    "translation": "民族"
+    "translation": "国家"
   },
   {
     "rank": 669,
     "word": "diccionario",
     "ipa": "",
-    "translation": "dictionary"
+    "translation": "字典"
   },
   {
     "rank": 670,
@@ -4023,7 +4023,7 @@
     "rank": 671,
     "word": "velocidad",
     "ipa": "",
-    "translation": "speed"
+    "translation": "速度"
   },
   {
     "rank": 672,
@@ -4035,31 +4035,31 @@
     "rank": 673,
     "word": "órgano",
     "ipa": "",
-    "translation": "organ"
+    "translation": "器官"
   },
   {
     "rank": 674,
     "word": "pagar",
     "ipa": "",
-    "translation": "付钱"
+    "translation": "支付"
   },
   {
     "rank": 675,
     "word": "edad",
     "ipa": "",
-    "translation": "age"
+    "translation": "年龄"
   },
   {
     "rank": 676,
     "word": "sección",
     "ipa": "",
-    "translation": "section"
+    "translation": "部分"
   },
   {
     "rank": 677,
     "word": "vestido",
     "ipa": "",
-    "translation": "dress"
+    "translation": "裙子"
   },
   {
     "rank": 678,
@@ -4071,13 +4071,13 @@
     "rank": 679,
     "word": "sorpresa",
     "ipa": "",
-    "translation": "surprise"
+    "translation": "惊喜"
   },
   {
     "rank": 680,
     "word": "tranquila",
     "ipa": "",
-    "translation": "quiet"
+    "translation": "安静的"
   },
   {
     "rank": 681,
@@ -4095,25 +4095,25 @@
     "rank": 683,
     "word": "ascenso",
     "ipa": "",
-    "translation": "climb"
+    "translation": "爬"
   },
   {
     "rank": 684,
     "word": "fresco",
     "ipa": "",
-    "translation": "cool"
+    "translation": "凉爽的"
   },
   {
     "rank": 685,
     "word": "diseño",
     "ipa": "",
-    "translation": "design"
+    "translation": "设计"
   },
   {
     "rank": 686,
     "word": "pobre",
     "ipa": "",
-    "translation": "穷"
+    "translation": "贫穷的"
   },
   {
     "rank": 687,
@@ -4125,19 +4125,19 @@
     "rank": 688,
     "word": "experimento",
     "ipa": "",
-    "translation": "experiment"
+    "translation": "实验"
   },
   {
     "rank": 689,
     "word": "inferior",
     "ipa": "",
-    "translation": "bottom"
+    "translation": "底部"
   },
   {
     "rank": 690,
     "word": "clave",
     "ipa": "",
-    "translation": "key"
+    "translation": "钥匙"
   },
   {
     "rank": 691,
@@ -4149,25 +4149,25 @@
     "rank": 692,
     "word": "sola",
     "ipa": "",
-    "translation": "single"
+    "translation": "单身的"
   },
   {
     "rank": 693,
     "word": "palillo",
     "ipa": "",
-    "translation": "stick"
+    "translation": "戳"
   },
   {
     "rank": 694,
     "word": "plana",
     "ipa": "",
-    "translation": "flat"
+    "translation": "平坦的"
   },
   {
     "rank": 695,
     "word": "veinte",
     "ipa": "",
-    "translation": "twenty"
+    "translation": "二十"
   },
   {
     "rank": 696,
@@ -4179,31 +4179,31 @@
     "rank": 697,
     "word": "sonrisa",
     "ipa": "",
-    "translation": "smile"
+    "translation": "微笑"
   },
   {
     "rank": 698,
     "word": "pliegue",
     "ipa": "",
-    "translation": "crease"
+    "translation": "折痕"
   },
   {
     "rank": 699,
     "word": "agujero",
     "ipa": "",
-    "translation": "hole"
+    "translation": "洞"
   },
   {
     "rank": 700,
     "word": "saltar",
     "ipa": "",
-    "translation": "jump"
+    "translation": "跳"
   },
   {
     "rank": 701,
     "word": "bebé",
     "ipa": "",
-    "translation": "baby"
+    "translation": "婴儿"
   },
   {
     "rank": 702,
@@ -4215,19 +4215,19 @@
     "rank": 703,
     "word": "pueblo",
     "ipa": "",
-    "translation": "village"
+    "translation": "村庄"
   },
   {
     "rank": 704,
     "word": "se reúnen",
     "ipa": "",
-    "translation": "meet"
+    "translation": "见面"
   },
   {
     "rank": 705,
     "word": "raíz",
     "ipa": "",
-    "translation": "root"
+    "translation": "根"
   },
   {
     "rank": 706,
@@ -4239,31 +4239,31 @@
     "rank": 707,
     "word": "aumentar",
     "ipa": "",
-    "translation": "raise"
+    "translation": "增加"
   },
   {
     "rank": 708,
     "word": "resolver",
     "ipa": "",
-    "translation": "solve"
+    "translation": "解决"
   },
   {
     "rank": 709,
     "word": "de metal",
     "ipa": "",
-    "translation": "metal"
+    "translation": "金属"
   },
   {
     "rank": 710,
     "word": "si",
     "ipa": "",
-    "translation": "whether"
+    "translation": "无论"
   },
   {
     "rank": 711,
     "word": "empujar",
     "ipa": "",
-    "translation": "push"
+    "translation": "推"
   },
   {
     "rank": 712,
@@ -4275,7 +4275,7 @@
     "rank": 713,
     "word": "párrafo",
     "ipa": "",
-    "translation": "paragraph"
+    "translation": "段落"
   },
   {
     "rank": 714,
@@ -4287,13 +4287,13 @@
     "rank": 715,
     "word": "deberá",
     "ipa": "",
-    "translation": "shall"
+    "translation": "将"
   },
   {
     "rank": 716,
     "word": "en espera",
     "ipa": "",
-    "translation": "held"
+    "translation": "握住"
   },
   {
     "rank": 717,
@@ -4305,43 +4305,43 @@
     "rank": 718,
     "word": "describir",
     "ipa": "",
-    "translation": "describe"
+    "translation": "描述"
   },
   {
     "rank": 719,
     "word": "cocinero",
     "ipa": "",
-    "translation": "cook"
+    "translation": "厨师"
   },
   {
     "rank": 720,
     "word": "piso",
     "ipa": "",
-    "translation": "楼层"
+    "translation": "地面"
   },
   {
     "rank": 721,
     "word": "ya sea",
     "ipa": "",
-    "translation": "either"
+    "translation": "任何一个"
   },
   {
     "rank": 722,
     "word": "resultado",
     "ipa": "",
-    "translation": "result"
+    "translation": "结果"
   },
   {
     "rank": 723,
     "word": "quemar",
     "ipa": "",
-    "translation": "burn"
+    "translation": "烧伤"
   },
   {
     "rank": 724,
     "word": "colina",
     "ipa": "",
-    "translation": "小山"
+    "translation": "爬坡道"
   },
   {
     "rank": 725,
@@ -4365,7 +4365,7 @@
     "rank": 728,
     "word": "considerar",
     "ipa": "",
-    "translation": "consider"
+    "translation": "考虑"
   },
   {
     "rank": 729,
@@ -4377,13 +4377,13 @@
     "rank": 730,
     "word": "ley",
     "ipa": "",
-    "translation": "law"
+    "translation": "法律"
   },
   {
     "rank": 731,
     "word": "bit",
     "ipa": "",
-    "translation": "bit"
+    "translation": "少量"
   },
   {
     "rank": 732,
@@ -4395,43 +4395,43 @@
     "rank": 733,
     "word": "copia",
     "ipa": "",
-    "translation": "copy"
+    "translation": "复制"
   },
   {
     "rank": 734,
     "word": "frase",
     "ipa": "",
-    "translation": "phrase"
+    "translation": "短语"
   },
   {
     "rank": 735,
     "word": "silencio",
     "ipa": "",
-    "translation": "silent"
+    "translation": "沉默的"
   },
   {
     "rank": 736,
     "word": "de altura",
     "ipa": "",
-    "translation": "tall"
+    "translation": "高的"
   },
   {
     "rank": 737,
     "word": "arena",
     "ipa": "",
-    "translation": "沙子"
+    "translation": "沙"
   },
   {
     "rank": 738,
     "word": "suelo",
     "ipa": "",
-    "translation": "地面"
+    "translation": "土壤"
   },
   {
     "rank": 739,
     "word": "rollo",
     "ipa": "",
-    "translation": "roll"
+    "translation": "卷"
   },
   {
     "rank": 740,
@@ -4449,7 +4449,7 @@
     "rank": 742,
     "word": "industria",
     "ipa": "",
-    "translation": "industry"
+    "translation": "行业"
   },
   {
     "rank": 743,
@@ -4461,55 +4461,55 @@
     "rank": 744,
     "word": "lucha",
     "ipa": "",
-    "translation": "fight"
+    "translation": "斗争"
   },
   {
     "rank": 745,
     "word": "mentira",
     "ipa": "",
-    "translation": "lie"
+    "translation": "说谎"
   },
   {
     "rank": 746,
     "word": "batir",
     "ipa": "",
-    "translation": "beat"
+    "translation": "打"
   },
   {
     "rank": 747,
     "word": "excitar",
     "ipa": "",
-    "translation": "excite"
+    "translation": "激发"
   },
   {
     "rank": 748,
     "word": "naturales",
     "ipa": "",
-    "translation": "natural"
+    "translation": "自然的"
   },
   {
     "rank": 749,
     "word": "vista",
     "ipa": "",
-    "translation": "view"
+    "translation": "看法"
   },
   {
     "rank": 750,
     "word": "sentido",
     "ipa": "",
-    "translation": "sense"
+    "translation": "感觉"
   },
   {
     "rank": 751,
     "word": "de capital",
     "ipa": "",
-    "translation": "capital"
+    "translation": "首都"
   },
   {
     "rank": 752,
     "word": "no lo hará",
     "ipa": "",
-    "translation": "won’t"
+    "translation": "惯于"
   },
   {
     "rank": 753,
@@ -4521,7 +4521,7 @@
     "rank": 754,
     "word": "peligro",
     "ipa": "",
-    "translation": "danger"
+    "translation": "危险"
   },
   {
     "rank": 755,
@@ -4533,19 +4533,19 @@
     "rank": 756,
     "word": "rica",
     "ipa": "",
-    "translation": "rich"
+    "translation": "富有的"
   },
   {
     "rank": 757,
     "word": "de espesor",
     "ipa": "",
-    "translation": "thick"
+    "translation": "厚的"
   },
   {
     "rank": 758,
     "word": "soldado",
     "ipa": "",
-    "translation": "soldier"
+    "translation": "士兵"
   },
   {
     "rank": 759,
@@ -4557,25 +4557,25 @@
     "rank": 760,
     "word": "operar",
     "ipa": "",
-    "translation": "operate"
+    "translation": "操作"
   },
   {
     "rank": 761,
     "word": "práctica",
     "ipa": "",
-    "translation": "practice"
+    "translation": "实践"
   },
   {
     "rank": 762,
     "word": "separada",
     "ipa": "",
-    "translation": "separate"
+    "translation": "分离"
   },
   {
     "rank": 763,
     "word": "difícil",
     "ipa": "",
-    "translation": "困难"
+    "translation": "难的"
   },
   {
     "rank": 764,
@@ -4587,13 +4587,13 @@
     "rank": 765,
     "word": "por favor",
     "ipa": "",
-    "translation": "please"
+    "translation": "请"
   },
   {
     "rank": 766,
     "word": "proteger",
     "ipa": "",
-    "translation": "protect"
+    "translation": "保护"
   },
   {
     "rank": 767,
@@ -4605,25 +4605,25 @@
     "rank": 768,
     "word": "de cultivos",
     "ipa": "",
-    "translation": "crop"
+    "translation": "庄稼"
   },
   {
     "rank": 769,
     "word": "moderno",
     "ipa": "",
-    "translation": "modern"
+    "translation": "现代的"
   },
   {
     "rank": 770,
     "word": "elemento",
     "ipa": "",
-    "translation": "element"
+    "translation": "元素"
   },
   {
     "rank": 771,
     "word": "golpear",
     "ipa": "",
-    "translation": "hit"
+    "translation": "打"
   },
   {
     "rank": 772,
@@ -4635,109 +4635,109 @@
     "rank": 773,
     "word": "esquina",
     "ipa": "",
-    "translation": "corner"
+    "translation": "角落"
   },
   {
     "rank": 774,
     "word": "partido",
     "ipa": "",
-    "translation": "party"
+    "translation": "派对"
   },
   {
     "rank": 775,
     "word": "suministro",
     "ipa": "",
-    "translation": "supply"
+    "translation": "供应"
   },
   {
     "rank": 776,
     "word": "cuya",
     "ipa": "",
-    "translation": "whose"
+    "translation": "谁"
   },
   {
     "rank": 777,
     "word": "localizar",
     "ipa": "",
-    "translation": "locate"
+    "translation": "定位"
   },
   {
     "rank": 778,
     "word": "anillo",
     "ipa": "",
-    "translation": "ring"
+    "translation": "戒指"
   },
   {
     "rank": 779,
     "word": "carácter",
     "ipa": "",
-    "translation": "性格"
+    "translation": "特点"
   },
   {
     "rank": 780,
     "word": "insecto",
     "ipa": "",
-    "translation": "insect"
+    "translation": "昆虫"
   },
   {
     "rank": 781,
     "word": "capturado",
     "ipa": "",
-    "translation": "caught"
+    "translation": "捕捉"
   },
   {
     "rank": 782,
     "word": "período",
     "ipa": "",
-    "translation": "period"
+    "translation": "时期"
   },
   {
     "rank": 783,
     "word": "indicar",
     "ipa": "",
-    "translation": "indicate"
+    "translation": "表明"
   },
   {
     "rank": 784,
     "word": "Radio",
     "ipa": "",
-    "translation": "radio"
+    "translation": "收音机"
   },
   {
     "rank": 785,
     "word": "habló",
     "ipa": "",
-    "translation": "spoke"
+    "translation": "辐"
   },
   {
     "rank": 786,
     "word": "átomo",
     "ipa": "",
-    "translation": "atom"
+    "translation": "原子"
   },
   {
     "rank": 787,
     "word": "humana",
     "ipa": "",
-    "translation": "human"
+    "translation": "人类"
   },
   {
     "rank": 788,
     "word": "historia",
     "ipa": "",
-    "translation": "history"
+    "translation": "历史"
   },
   {
     "rank": 789,
     "word": "efecto",
     "ipa": "",
-    "translation": "effect"
+    "translation": "影响"
   },
   {
     "rank": 790,
     "word": "eléctrica",
     "ipa": "",
-    "translation": "electric"
+    "translation": "电的"
   },
   {
     "rank": 791,
@@ -4749,43 +4749,43 @@
     "rank": 792,
     "word": "hueso",
     "ipa": "",
-    "translation": "骨头"
+    "translation": "骨"
   },
   {
     "rank": 793,
     "word": "ferrocarril",
     "ipa": "",
-    "translation": "rail"
+    "translation": "轨"
   },
   {
     "rank": 794,
     "word": "imaginar",
     "ipa": "",
-    "translation": "imagine"
+    "translation": "想象"
   },
   {
     "rank": 795,
     "word": "proporcionar",
     "ipa": "",
-    "translation": "provide"
+    "translation": "提供"
   },
   {
     "rank": 796,
     "word": "acuerdo",
     "ipa": "",
-    "translation": "agree"
+    "translation": "同意"
   },
   {
     "rank": 797,
     "word": "por tanto,",
     "ipa": "",
-    "translation": "thus"
+    "translation": "因此"
   },
   {
     "rank": 798,
     "word": "suave",
     "ipa": "",
-    "translation": "gentle"
+    "translation": "温和的"
   },
   {
     "rank": 799,
@@ -4797,103 +4797,103 @@
     "rank": 800,
     "word": "capitán",
     "ipa": "",
-    "translation": "captain"
+    "translation": "队长"
   },
   {
     "rank": 801,
     "word": "adivinar",
     "ipa": "",
-    "translation": "guess"
+    "translation": "猜测"
   },
   {
     "rank": 802,
     "word": "necesario",
     "ipa": "",
-    "translation": "必要"
+    "translation": "必要的"
   },
   {
     "rank": 803,
     "word": "agudo",
     "ipa": "",
-    "translation": "sharp"
+    "translation": "锋利的"
   },
   {
     "rank": 804,
     "word": "ala",
     "ipa": "",
-    "translation": "wing"
+    "translation": "翼"
   },
   {
     "rank": 805,
     "word": "crear",
     "ipa": "",
-    "translation": "create"
+    "translation": "创造"
   },
   {
     "rank": 806,
     "word": "vecino",
     "ipa": "",
-    "translation": "neighbor"
+    "translation": "邻居"
   },
   {
     "rank": 807,
     "word": "lavado",
     "ipa": "",
-    "translation": "wash"
+    "translation": "洗"
   },
   {
     "rank": 808,
     "word": "bate",
     "ipa": "",
-    "translation": "bat"
+    "translation": "蝙蝠"
   },
   {
     "rank": 809,
     "word": "más bien",
     "ipa": "",
-    "translation": "rather"
+    "translation": "相当"
   },
   {
     "rank": 810,
     "word": "multitud",
     "ipa": "",
-    "translation": "crowd"
+    "translation": "人群"
   },
   {
     "rank": 811,
     "word": "maíz",
     "ipa": "",
-    "translation": "corn"
+    "translation": "玉米"
   },
   {
     "rank": 812,
     "word": "comparar",
     "ipa": "",
-    "translation": "compare"
+    "translation": "比较"
   },
   {
     "rank": 813,
     "word": "poema",
     "ipa": "",
-    "translation": "poem"
+    "translation": "诗"
   },
   {
     "rank": 814,
     "word": "cadena",
     "ipa": "",
-    "translation": "string"
+    "translation": "细绳"
   },
   {
     "rank": 815,
     "word": "campana",
     "ipa": "",
-    "translation": "bell"
+    "translation": "钟"
   },
   {
     "rank": 816,
     "word": "dependerá",
     "ipa": "",
-    "translation": "depend"
+    "translation": "依赖"
   },
   {
     "rank": 817,
@@ -4905,121 +4905,121 @@
     "rank": 818,
     "word": "frotar",
     "ipa": "",
-    "translation": "rub"
+    "translation": "擦"
   },
   {
     "rank": 819,
     "word": "tubo",
     "ipa": "",
-    "translation": "tube"
+    "translation": "管子"
   },
   {
     "rank": 820,
     "word": "famoso",
     "ipa": "",
-    "translation": "著名"
+    "translation": "著名的"
   },
   {
     "rank": 921,
     "word": "dólar",
     "ipa": "",
-    "translation": "dollar"
+    "translation": "美元"
   },
   {
     "rank": 822,
     "word": "corriente",
     "ipa": "",
-    "translation": "stream"
+    "translation": "溪流"
   },
   {
     "rank": 823,
     "word": "miedo",
     "ipa": "",
-    "translation": "fear"
+    "translation": "害怕"
   },
   {
     "rank": 284,
     "word": "vista",
     "ipa": "",
-    "translation": "sight"
+    "translation": "视线"
   },
   {
     "rank": 825,
     "word": "delgado",
     "ipa": "",
-    "translation": "thin"
+    "translation": "薄的"
   },
   {
     "rank": 826,
     "word": "triángulo",
     "ipa": "",
-    "translation": "triangle"
+    "translation": "三角形"
   },
   {
     "rank": 827,
     "word": "planeta",
     "ipa": "",
-    "translation": "planet"
+    "translation": "行星"
   },
   {
     "rank": 828,
     "word": "prisa",
     "ipa": "",
-    "translation": "hurry"
+    "translation": "匆忙"
   },
   {
     "rank": 829,
     "word": "jefe",
     "ipa": "",
-    "translation": "chief"
+    "translation": "首席"
   },
   {
     "rank": 830,
     "word": "colonia",
     "ipa": "",
-    "translation": "colony"
+    "translation": "殖民地"
   },
   {
     "rank": 831,
     "word": "reloj",
     "ipa": "",
-    "translation": "钟表"
+    "translation": "钟"
   },
   {
     "rank": 832,
     "word": "mina",
     "ipa": "",
-    "translation": "mine"
+    "translation": "矿"
   },
   {
     "rank": 833,
     "word": "empate",
     "ipa": "",
-    "translation": "tie"
+    "translation": "领带"
   },
   {
     "rank": 834,
     "word": "entrar",
     "ipa": "",
-    "translation": "enter"
+    "translation": "进入"
   },
   {
     "rank": 835,
     "word": "importante",
     "ipa": "",
-    "translation": "重要"
+    "translation": "主要的"
   },
   {
     "rank": 836,
     "word": "fresco",
     "ipa": "",
-    "translation": "fresh"
+    "translation": "新鲜的"
   },
   {
     "rank": 837,
     "word": "búsqueda",
     "ipa": "",
-    "translation": "search"
+    "translation": "搜索"
   },
   {
     "rank": 838,
@@ -5031,13 +5031,13 @@
     "rank": 839,
     "word": "amarillo",
     "ipa": "",
-    "translation": "黄"
+    "translation": "黄色的"
   },
   {
     "rank": 840,
     "word": "pistola",
     "ipa": "",
-    "translation": "gun"
+    "translation": "枪"
   },
   {
     "rank": 841,
@@ -5049,19 +5049,19 @@
     "rank": 842,
     "word": "print",
     "ipa": "",
-    "translation": "print"
+    "translation": "打印"
   },
   {
     "rank": 843,
     "word": "muerto",
     "ipa": "",
-    "translation": "dead"
+    "translation": "死的"
   },
   {
     "rank": 844,
     "word": "lugar",
     "ipa": "",
-    "translation": "地方"
+    "translation": "点"
   },
   {
     "rank": 845,
@@ -5073,25 +5073,25 @@
     "rank": 846,
     "word": "traje",
     "ipa": "",
-    "translation": "suit"
+    "translation": "套装"
   },
   {
     "rank": 847,
     "word": "actual",
     "ipa": "",
-    "translation": "current"
+    "translation": "当前的"
   },
   {
     "rank": 848,
     "word": "ascensor",
     "ipa": "",
-    "translation": "电梯"
+    "translation": "举起"
   },
   {
     "rank": 840,
     "word": "rosa",
     "ipa": "",
-    "translation": "粉"
+    "translation": "玫瑰"
   },
   {
     "rank": 850,
@@ -5103,13 +5103,13 @@
     "rank": 851,
     "word": "master",
     "ipa": "",
-    "translation": "master"
+    "translation": "掌握"
   },
   {
     "rank": 852,
     "word": "pista",
     "ipa": "",
-    "translation": "track"
+    "translation": "追踪"
   },
   {
     "rank": 853,
@@ -5121,79 +5121,79 @@
     "rank": 854,
     "word": "orilla",
     "ipa": "",
-    "translation": "岸边"
+    "translation": "支撑"
   },
   {
     "rank": 855,
     "word": "división",
     "ipa": "",
-    "translation": "division"
+    "translation": "分配"
   },
   {
     "rank": 856,
     "word": "hoja",
     "ipa": "",
-    "translation": "sheet"
+    "translation": "床单"
   },
   {
     "rank": 857,
     "word": "sustancia",
     "ipa": "",
-    "translation": "substance"
+    "translation": "物质"
   },
   {
     "rank": 858,
     "word": "favorecer",
     "ipa": "",
-    "translation": "favor"
+    "translation": "青睐"
   },
   {
     "rank": 859,
     "word": "conectar",
     "ipa": "",
-    "translation": "connect"
+    "translation": "连接"
   },
   {
     "rank": 860,
     "word": "mensaje",
     "ipa": "",
-    "translation": "post"
+    "translation": "邮政"
   },
   {
     "rank": 861,
     "word": "pasar",
     "ipa": "",
-    "translation": "spend"
+    "translation": "花费"
   },
   {
     "rank": 862,
     "word": "acorde",
     "ipa": "",
-    "translation": "chord"
+    "translation": "弦"
   },
   {
     "rank": 863,
     "word": "grasa",
     "ipa": "",
-    "translation": "fat"
+    "translation": "胖的"
   },
   {
     "rank": 864,
     "word": "contento",
     "ipa": "",
-    "translation": "glad"
+    "translation": "高兴的"
   },
   {
     "rank": 865,
     "word": "originales",
     "ipa": "",
-    "translation": "original"
+    "translation": "原来的"
   },
   {
     "rank": 866,
     "word": "cuota",
     "ipa": "",
-    "translation": "share"
+    "translation": "分享"
   },
   {
     "rank": 867,
@@ -5205,7 +5205,7 @@
     "rank": 868,
     "word": "papá",
     "ipa": "",
-    "translation": "dad"
+    "translation": "爸爸"
   },
   {
     "rank": 869,
@@ -5223,43 +5223,43 @@
     "rank": 871,
     "word": "adecuada",
     "ipa": "",
-    "translation": "proper"
+    "translation": "恰当的"
   },
   {
     "rank": 872,
     "word": "barra",
     "ipa": "",
-    "translation": "bar"
+    "translation": "酒吧"
   },
   {
     "rank": 873,
     "word": "oferta",
     "ipa": "",
-    "translation": "offer"
+    "translation": "提供"
   },
   {
     "rank": 874,
     "word": "segmento",
     "ipa": "",
-    "translation": "segment"
+    "translation": "部分"
   },
   {
     "rank": 875,
     "word": "esclavo",
     "ipa": "",
-    "translation": "slave"
+    "translation": "奴隶"
   },
   {
     "rank": 876,
     "word": "pato",
     "ipa": "",
-    "translation": "duck"
+    "translation": "鸭子"
   },
   {
     "rank": 877,
     "word": "instantánea",
     "ipa": "",
-    "translation": "instant"
+    "translation": "立即的"
   },
   {
     "rank": 878,
@@ -5271,139 +5271,139 @@
     "rank": 879,
     "word": "grado",
     "ipa": "",
-    "translation": "degree"
+    "translation": "程度"
   },
   {
     "rank": 880,
     "word": "poblar",
     "ipa": "",
-    "translation": "populate"
+    "translation": "填充"
   },
   {
     "rank": 881,
     "word": "polluelo",
     "ipa": "",
-    "translation": "chick"
+    "translation": "小鸡"
   },
   {
     "rank": 882,
     "word": "querido",
     "ipa": "",
-    "translation": "dear"
+    "translation": "亲爱的"
   },
   {
     "rank": 883,
     "word": "enemigo",
     "ipa": "",
-    "translation": "enemy"
+    "translation": "敌人"
   },
   {
     "rank": 884,
     "word": "responder",
     "ipa": "",
-    "translation": "reply"
+    "translation": "回复"
   },
   {
     "rank": 885,
     "word": "bebida",
     "ipa": "",
-    "translation": "饮料"
+    "translation": "喝"
   },
   {
     "rank": 886,
     "word": "producirse",
     "ipa": "",
-    "translation": "occur"
+    "translation": "发生"
   },
   {
     "rank": 887,
     "word": "apoyo",
     "ipa": "",
-    "translation": "support"
+    "translation": "支持"
   },
   {
     "rank": 888,
     "word": "discurso",
     "ipa": "",
-    "translation": "speech"
+    "translation": "演讲"
   },
   {
     "rank": 889,
     "word": "naturaleza",
     "ipa": "",
-    "translation": "nature"
+    "translation": "自然"
   },
   {
     "rank": 890,
     "word": "alcance",
     "ipa": "",
-    "translation": "range"
+    "translation": "范围"
   },
   {
     "rank": 891,
     "word": "vapor",
     "ipa": "",
-    "translation": "steam"
+    "translation": "蒸汽"
   },
   {
     "rank": 892,
     "word": "movimiento",
     "ipa": "",
-    "translation": "motion"
+    "translation": "运动"
   },
   {
     "rank": 893,
     "word": "camino",
     "ipa": "",
-    "translation": "路"
+    "translation": "小路"
   },
   {
     "rank": 894,
     "word": "líquido",
     "ipa": "",
-    "translation": "liquid"
+    "translation": "液体"
   },
   {
     "rank": 895,
     "word": "log",
     "ipa": "",
-    "translation": "log"
+    "translation": "日志"
   },
   {
     "rank": 896,
     "word": "significado",
     "ipa": "",
-    "translation": "meant"
+    "translation": "意思是"
   },
   {
     "rank": 897,
     "word": "cociente",
     "ipa": "",
-    "translation": "quotient"
+    "translation": "商"
   },
   {
     "rank": 898,
     "word": "dientes",
     "ipa": "",
-    "translation": "teeth"
+    "translation": "牙齿"
   },
   {
     "rank": 899,
     "word": "concha",
     "ipa": "",
-    "translation": "shell"
+    "translation": "壳"
   },
   {
     "rank": 900,
     "word": "cuello",
     "ipa": "",
-    "translation": "neck"
+    "translation": "脖子"
   },
   {
     "rank": 901,
     "word": "oxígeno",
     "ipa": "",
-    "translation": "oxygen"
+    "translation": "氧"
   },
   {
     "rank": 902,
@@ -5415,7 +5415,7 @@
     "rank": 903,
     "word": "muerte",
     "ipa": "",
-    "translation": "death"
+    "translation": "死亡"
   },
   {
     "rank": 904,
@@ -5427,37 +5427,37 @@
     "rank": 905,
     "word": "habilidad",
     "ipa": "",
-    "translation": "skill"
+    "translation": "技能"
   },
   {
     "rank": 906,
     "word": "mujeres",
     "ipa": "",
-    "translation": "women"
+    "translation": "女性"
   },
   {
     "rank": 907,
     "word": "temporada",
     "ipa": "",
-    "translation": "season"
+    "translation": "季节"
   },
   {
     "rank": 908,
     "word": "solución",
     "ipa": "",
-    "translation": "solution"
+    "translation": "解决方案"
   },
   {
     "rank": 909,
     "word": "imán",
     "ipa": "",
-    "translation": "magnet"
+    "translation": "磁铁"
   },
   {
     "rank": 910,
     "word": "plata",
     "ipa": "",
-    "translation": "银；钱"
+    "translation": "银"
   },
   {
     "rank": 911,
@@ -5469,43 +5469,43 @@
     "rank": 912,
     "word": "rama",
     "ipa": "",
-    "translation": "branch"
+    "translation": "分支"
   },
   {
     "rank": 913,
     "word": "partido",
     "ipa": "",
-    "translation": "match"
+    "translation": "匹配"
   },
   {
     "rank": 914,
     "word": "sufijo",
     "ipa": "",
-    "translation": "suffix"
+    "translation": "后缀"
   },
   {
     "rank": 915,
     "word": "especialmente",
     "ipa": "",
-    "translation": "especially"
+    "translation": "尤其"
   },
   {
     "rank": 916,
     "word": "higo",
     "ipa": "",
-    "translation": "fig"
+    "translation": "如图"
   },
   {
     "rank": 917,
     "word": "miedo",
     "ipa": "",
-    "translation": "afraid"
+    "translation": "害怕的"
   },
   {
     "rank": 918,
     "word": "enorme",
     "ipa": "",
-    "translation": "huge"
+    "translation": "巨大的"
   },
   {
     "rank": 919,
@@ -5517,43 +5517,43 @@
     "rank": 920,
     "word": "acero",
     "ipa": "",
-    "translation": "steel"
+    "translation": "钢"
   },
   {
     "rank": 921,
     "word": "discutir",
     "ipa": "",
-    "translation": "discuss"
+    "translation": "讨论"
   },
   {
     "rank": 922,
     "word": "adelante",
     "ipa": "",
-    "translation": "forward"
+    "translation": "向前"
   },
   {
     "rank": 923,
     "word": "similar",
     "ipa": "",
-    "translation": "相似"
+    "translation": "相似的"
   },
   {
     "rank": 924,
     "word": "guiar",
     "ipa": "",
-    "translation": "guide"
+    "translation": "指导"
   },
   {
     "rank": 925,
     "word": "experiencia",
     "ipa": "",
-    "translation": "experience"
+    "translation": "经验"
   },
   {
     "rank": 926,
     "word": "puntuación",
     "ipa": "",
-    "translation": "score"
+    "translation": "分数"
   },
   {
     "rank": 927,
@@ -5565,133 +5565,133 @@
     "rank": 928,
     "word": "comprado",
     "ipa": "",
-    "translation": "bought"
+    "translation": "买"
   },
   {
     "rank": 929,
     "word": "llevado",
     "ipa": "",
-    "translation": "led"
+    "translation": "引领"
   },
   {
     "rank": 930,
     "word": "pitch",
     "ipa": "",
-    "translation": "pitch"
+    "translation": "沥青"
   },
   {
     "rank": 931,
     "word": "abrigo",
     "ipa": "",
-    "translation": "大衣"
+    "translation": "外套"
   },
   {
     "rank": 932,
     "word": "masa",
     "ipa": "",
-    "translation": "mass"
+    "translation": "大量的"
   },
   {
     "rank": 933,
     "word": "tarjeta",
     "ipa": "",
-    "translation": "卡"
+    "translation": "卡片"
   },
   {
     "rank": 934,
     "word": "banda",
     "ipa": "",
-    "translation": "band"
+    "translation": "乐队"
   },
   {
     "rank": 935,
     "word": "cuerda",
     "ipa": "",
-    "translation": "rope"
+    "translation": "绳索"
   },
   {
     "rank": 936,
     "word": "deslizamiento",
     "ipa": "",
-    "translation": "slip"
+    "translation": "滑"
   },
   {
     "rank": 937,
     "word": "ganar",
     "ipa": "",
-    "translation": "赢；赚"
+    "translation": "赢"
   },
   {
     "rank": 938,
     "word": "soñar",
     "ipa": "",
-    "translation": "dream"
+    "translation": "梦"
   },
   {
     "rank": 939,
     "word": "noche",
     "ipa": "",
-    "translation": "夜晚"
+    "translation": "晚上"
   },
   {
     "rank": 940,
     "word": "condición",
     "ipa": "",
-    "translation": "条件"
+    "translation": "状况"
   },
   {
     "rank": 941,
     "word": "pienso",
     "ipa": "",
-    "translation": "feed"
+    "translation": "喂养"
   },
   {
     "rank": 942,
     "word": "herramienta",
     "ipa": "",
-    "translation": "tool"
+    "translation": "工具"
   },
   {
     "rank": 943,
     "word": "totales",
     "ipa": "",
-    "translation": "total"
+    "translation": "全部的"
   },
   {
     "rank": 944,
     "word": "básico",
     "ipa": "",
-    "translation": "basic"
+    "translation": "基本的"
   },
   {
     "rank": 945,
     "word": "olor",
     "ipa": "",
-    "translation": "smell"
+    "translation": "闻"
   },
   {
     "rank": 946,
     "word": "valle",
     "ipa": "",
-    "translation": "山谷"
+    "translation": "谷"
   },
   {
     "rank": 947,
     "word": "ni",
     "ipa": "",
-    "translation": "nor"
+    "translation": "也不"
   },
   {
     "rank": 948,
     "word": "doble",
     "ipa": "",
-    "translation": "double"
+    "translation": "双倍的"
   },
   {
     "rank": 949,
     "word": "asiento",
     "ipa": "",
-    "translation": "seat"
+    "translation": "座位"
   },
   {
     "rank": 950,
@@ -5703,13 +5703,13 @@
     "rank": 951,
     "word": "bloque",
     "ipa": "",
-    "translation": "block"
+    "translation": "堵塞"
   },
   {
     "rank": 952,
     "word": "tabla",
     "ipa": "",
-    "translation": "chart"
+    "translation": "图表"
   },
   {
     "rank": 953,
@@ -5733,49 +5733,49 @@
     "rank": 956,
     "word": "empresa",
     "ipa": "",
-    "translation": "company"
+    "translation": "公司"
   },
   {
     "rank": 957,
     "word": "restar",
     "ipa": "",
-    "translation": "subtract"
+    "translation": "减去"
   },
   {
     "rank": 958,
     "word": "evento",
     "ipa": "",
-    "translation": "event"
+    "translation": "事件"
   },
   {
     "rank": 959,
     "word": "particular,",
     "ipa": "",
-    "translation": "particular"
+    "translation": "特别的"
   },
   {
     "rank": 960,
     "word": "acuerdo",
     "ipa": "",
-    "translation": "deal"
+    "translation": "交易"
   },
   {
     "rank": 961,
     "word": "nadar",
     "ipa": "",
-    "translation": "游泳"
+    "translation": "游泳者"
   },
   {
     "rank": 962,
     "word": "plazo",
     "ipa": "",
-    "translation": "term"
+    "translation": "学期"
   },
   {
     "rank": 963,
     "word": "opuesta",
     "ipa": "",
-    "translation": "opposite"
+    "translation": "对面的"
   },
   {
     "rank": 964,
@@ -5793,55 +5793,55 @@
     "rank": 966,
     "word": "hombro",
     "ipa": "",
-    "translation": "shoulder"
+    "translation": "肩膀"
   },
   {
     "rank": 967,
     "word": "propagación",
     "ipa": "",
-    "translation": "spread"
+    "translation": "传播"
   },
   {
     "rank": 968,
     "word": "organizar",
     "ipa": "",
-    "translation": "arrange"
+    "translation": "安排"
   },
   {
     "rank": 969,
     "word": "campamento",
     "ipa": "",
-    "translation": "camp"
+    "translation": "营"
   },
   {
     "rank": 970,
     "word": "inventar",
     "ipa": "",
-    "translation": "invent"
+    "translation": "发明"
   },
   {
     "rank": 971,
     "word": "algodón",
     "ipa": "",
-    "translation": "cotton"
+    "translation": "棉布"
   },
   {
     "rank": 972,
     "word": "nacido",
     "ipa": "",
-    "translation": "born"
+    "translation": "出生"
   },
   {
     "rank": 973,
     "word": "determinar",
     "ipa": "",
-    "translation": "determine"
+    "translation": "决定"
   },
   {
     "rank": 974,
     "word": "cuarto de galón",
     "ipa": "",
-    "translation": "quart"
+    "translation": "夸脱"
   },
   {
     "rank": 975,
@@ -5853,31 +5853,31 @@
     "rank": 976,
     "word": "camión",
     "ipa": "",
-    "translation": "truck"
+    "translation": "卡车"
   },
   {
     "rank": 977,
     "word": "ruido",
     "ipa": "",
-    "translation": "noise"
+    "translation": "噪音"
   },
   {
     "rank": 978,
     "word": "nivel",
     "ipa": "",
-    "translation": "level"
+    "translation": "等级"
   },
   {
     "rank": 979,
     "word": "oportunidad",
     "ipa": "",
-    "translation": "chance"
+    "translation": "机会"
   },
   {
     "rank": 980,
     "word": "reunir",
     "ipa": "",
-    "translation": "gather"
+    "translation": "收集"
   },
   {
     "rank": 981,
@@ -5889,43 +5889,43 @@
     "rank": 982,
     "word": "tramo",
     "ipa": "",
-    "translation": "stretch"
+    "translation": "拉紧"
   },
   {
     "rank": 983,
     "word": "lanzar",
     "ipa": "",
-    "translation": "throw"
+    "translation": "扔"
   },
   {
     "rank": 984,
     "word": "brillo",
     "ipa": "",
-    "translation": "shine"
+    "translation": "闪耀"
   },
   {
     "rank": 985,
     "word": "propiedad",
     "ipa": "",
-    "translation": "property"
+    "translation": "财产"
   },
   {
     "rank": 986,
     "word": "columna",
     "ipa": "",
-    "translation": "column"
+    "translation": "柱子"
   },
   {
     "rank": 987,
     "word": "molécula",
     "ipa": "",
-    "translation": "molecule"
+    "translation": "分子"
   },
   {
     "rank": 988,
     "word": "seleccionar",
     "ipa": "",
-    "translation": "select"
+    "translation": "选择"
   },
   {
     "rank": 989,
@@ -5937,31 +5937,31 @@
     "rank": 990,
     "word": "gris",
     "ipa": "",
-    "translation": "灰"
+    "translation": "灰色的"
   },
   {
     "rank": 991,
     "word": "repita",
     "ipa": "",
-    "translation": "repeat"
+    "translation": "重复"
   },
   {
     "rank": 992,
     "word": "exigir",
     "ipa": "",
-    "translation": "require"
+    "translation": "要求"
   },
   {
     "rank": 993,
     "word": "amplio",
     "ipa": "",
-    "translation": "broad"
+    "translation": "广阔"
   },
   {
     "rank": 994,
     "word": "preparar",
     "ipa": "",
-    "translation": "prepare"
+    "translation": "准备"
   },
   {
     "rank": 995,
@@ -5979,19 +5979,19 @@
     "rank": 997,
     "word": "plurales",
     "ipa": "",
-    "translation": "plural"
+    "translation": "复数"
   },
   {
     "rank": 998,
     "word": "cólera",
     "ipa": "",
-    "translation": "anger"
+    "translation": "愤怒"
   },
   {
     "rank": 999,
     "word": "reclamación",
     "ipa": "",
-    "translation": "claim"
+    "translation": "宣称"
   },
   {
     "rank": 1000,
