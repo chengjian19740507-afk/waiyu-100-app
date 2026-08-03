@@ -814,7 +814,6 @@ html, body {
   transition: all 0.15s;
   box-shadow: 0 2px 8px rgba(255, 221, 0, 0.3);
 }
-.tip-btn.bmc:hover { background: #FFED4E; transform: translateY(-1px); }
 .tip-btn.wechat {
   background: #07C160;
   color: white;

@@ -76,7 +76,6 @@ python3 -m http.server 8000
 
 - **微信赞赏码**：见页面底部 `tip-card.png`
 - **支付宝收款码**：见页面底部 `tip-alipay.png`
-- **Buy Me a Coffee**：<https://www.buymeacoffee.com/jimmaa>
 
 ### 🔑 解锁码获取流程
 
