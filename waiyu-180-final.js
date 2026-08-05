@@ -131,6 +131,7 @@
     { key: 'social', zh: '社交礼仪' },
   ];
 
+  const CAT_ORDER = {};
   catDefs.forEach((c, i) => CAT_ORDER[c.key] = i);
 
   let currentLang = localStorage.getItem('waiyu-lang') || 'en';
