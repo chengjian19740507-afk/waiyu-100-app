@@ -111,7 +111,6 @@
   }
 
   const catDefs = [
-    { key: 'all', zh: '全部' },
     { key: 'greetings', zh: '问候' },
     { key: 'intro', zh: '自我介绍' },
     { key: 'airport', zh: '机场海关' },
@@ -129,6 +128,7 @@
     { key: 'medical', zh: '医疗' },
     { key: 'work', zh: '工作场景' },
     { key: 'social', zh: '社交礼仪' },
+    { key: 'all', zh: '全部' },
   ];
 
   const CAT_ORDER = {};
