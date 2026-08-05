@@ -88,6 +88,48 @@
     it: { label: '意大利语出境无忧180句', sub: '文字+语音 · 意大利语母语发音 · 出境无忧 180 句', file: 'sentences-it.json', tts: 'speech', lang: 'it-IT' },
     th: { label: '泰语出境无忧180句', sub: '文字+罗马字 · 泰语母语发音 · 出境无忧 180 句', file: 'sentences-th.json', tts: 'speech', lang: 'th-TH' },
   };
+
+
+  // ============ 付费门控 ============
+  // 免费仅问候 + 自我介绍两类，其他 16 类需打赏后解锁
+  const FREE_CATS = new Set(['greetings', 'intro']);
+  const UNLOCK_HASH = 'd99cb9c36b1c6f7fd26edad8308d002fbd1a6b71db6b74d5b71cc3f8b5908eb4';
+
+  async function sha256(text) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function isUnlocked() {
+    return localStorage.getItem('paid') === '1';
+  }
+
+  async function tryUnlock(code) {
+    const hash = await sha256(code.trim());
+    return hash === UNLOCK_HASH;
+  }
+
+  const catDefs = [
+    { key: 'all', zh: '全部' },
+    { key: 'greetings', zh: '问候' },
+    { key: 'intro', zh: '自我介绍' },
+    { key: 'airport', zh: '机场海关' },
+    { key: 'hotel', zh: '宾馆入住' },
+    { key: 'frontdesk', zh: '前台常用' },
+    { key: 'food', zh: '饮食' },
+    { key: 'transport', zh: '交通' },
+    { key: 'shopping', zh: '购物' },
+    { key: 'time', zh: '时间日期' },
+    { key: 'directions', zh: '问路' },
+    { key: 'numbers', zh: '数字' },
+    { key: 'family', zh: '家庭' },
+    { key: 'common', zh: '常用表达' },
+    { key: 'restaurant', zh: '餐厅' },
+    { key: 'medical', zh: '医疗' },
+    { key: 'work', zh: '工作场景' },
+    { key: 'social', zh: '社交礼仪' },
+  ];
+
   catDefs.forEach((c, i) => CAT_ORDER[c.key] = i);
 
   let currentLang = localStorage.getItem('waiyu-lang') || 'en';
