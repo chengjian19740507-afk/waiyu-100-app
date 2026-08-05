@@ -94,7 +94,7 @@
   // ============ 付费门控 ============
   // 免费仅问候 + 自我介绍两类，其他 16 类需打赏后解锁
   const FREE_CATS = new Set(['greetings', 'intro']);
-  const UNLOCK_HASH = 'd99cb9c36b1c6f7fd26edad8308d002fbd1a6b71db6b74d5b71cc3f8b5908eb4';
+  const UNLOCK_HASH = '9e6c21a3ae299809c8f25fad38a79809f7b86d33654ebddd31a88bdd5b0181ee';
 
   async function sha256(text) {
     const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
