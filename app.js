@@ -78,9 +78,9 @@
     es: { label: '西语出境无忧180句', sub: '文字+语音 · 西语母语发音 · 出境无忧 180 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
     fr: { label: '法语出境无忧180句', sub: '文字+语音 · 法语母语发音 · 出境无忧 180 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
     ru: { label: '俄语出境无忧180句', sub: '文字+语音 · 俄语母语发音 · 出境无忧 180 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    ar: { label: '阿语出境无忧180句', sub: '文字+罗马字 · 阿语母语发音 · 出境无忧 180 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
     ja: { label: '日语出境无忧180句', sub: '文字+罗马字 · 日语假名发音 · 出境无忧 180 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
     ko: { label: '韩语出境无忧180句', sub: '文字+罗马字 · 韩语母语发音 · 出境无忧 180 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
-    ar: { label: '阿语出境无忧180句', sub: '文字+罗马字 · 阿语母语发音 · 出境无忧 180 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
   };
 
   // ============ 付费门控 ============
