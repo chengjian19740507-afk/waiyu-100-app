@@ -239,15 +239,11 @@
   }
 
   function filter(cat) {
-    if (cat === 'all' && !isUnlocked()) {
-      // 未解锁："全部" 仅显示免费内容
-      const free = allData.filter(s => FREE_CATS.has(s.category));
-      currentCat = 'all';
-      render(free);
-      return;
-    }
     currentCat = cat;
-    render(cat === 'all' ? allData : allData.filter(s => s.category === cat));
+    document.querySelectorAll('.chip').forEach(c => {
+      c.classList.toggle('active', c.dataset.cat === cat);
+    });
+    render();
   }
 
   function _filterOriginal(cat) {
@@ -262,7 +258,15 @@
     const cfg = LANGS[currentLang];
     titleEl.textContent = `${cfg.label}`;
     subtitleEl.textContent = cfg.sub;
-    let list = currentCat === 'all' ? [...allData] : allData.filter(s => s.category === currentCat);
+    let list;
+    if (currentCat === 'all' && !isUnlocked()) {
+      // 未解锁 + 点"全部"：仅展示免费分类（greetings + intro）
+      list = allData.filter(s => FREE_CATS.has(s.category));
+    } else if (currentCat === 'all') {
+      list = [...allData];
+    } else {
+      list = allData.filter(s => s.category === currentCat);
+    }
     if (currentSearch) list = list.filter(s => matchesSearch(s, currentSearch));
     list.sort((a, b) => (CAT_ORDER[a.category] - CAT_ORDER[b.category]) || (a.id - b.id));
     if (list.length === 0 && currentSearch) {
