@@ -170,7 +170,8 @@
     for (const cat of catDefs) {
       const btn = document.createElement('button');
       const isFree = FREE_CATS.has(cat.key);
-      const locked = !unlocked && !isFree && cat.key !== 'all';
+      // 「全部」与付费分类都需解锁后才可见；仅免费分类（问候/自我介绍）默认开放
+      const locked = !unlocked && (!isFree || cat.key === 'all');
       btn.className = 'chip'
         + (cat.key === currentCat ? ' active' : '')
         + (locked ? ' locked' : '');
@@ -258,11 +259,26 @@
     const cfg = LANGS[currentLang];
     titleEl.textContent = `${cfg.label}`;
     subtitleEl.textContent = cfg.sub;
-    let list;
+    // 未解锁 + 默认进入「全部」：展示付费提示，不显示免费句子
     if (currentCat === 'all' && !isUnlocked()) {
-      // 未解锁 + 点"全部"：仅展示免费分类（greetings + intro）
-      list = allData.filter(s => FREE_CATS.has(s.category));
-    } else if (currentCat === 'all') {
+      const freeCount = allData.filter(s => FREE_CATS.has(s.category)).length;
+      cardsEl.innerHTML = `
+        <div style="padding:60px 20px;text-align:center;color:#94a3b8">
+          <div style="font-size:48px;margin-bottom:16px">🔒</div>
+          <div style="font-size:18px;color:#475569;margin-bottom:12px;font-weight:600">解锁后查看全部 180 句</div>
+          <div style="font-size:14px;margin-bottom:24px">当前已开放：<strong style="color:#10b981">${freeCount} 句</strong>（免费分类）<br>解锁后：180 句 · 18 个分类 · 全部语种</div>
+          <button onclick="document.getElementById('paywall-trigger-btn')?.click() || document.getElementById('paywall-modal').removeAttribute('hidden')"
+                  style="padding:12px 32px;background:#3b82f6;color:white;border:none;border-radius:8px;font-size:16px;cursor:pointer;font-weight:500">
+            输入解锁码
+          </button>
+          <div style="font-size:12px;margin-top:24px;color:#94a3b8">也可以先点击 <strong style="color:#475569">问候 / 自我介绍</strong> 查看免费内容</div>
+        </div>
+      `;
+      statsEl.textContent = `共 180 句 · 当前 0（未解锁）`;
+      return;
+    }
+    let list;
+    if (currentCat === 'all') {
       list = [...allData];
     } else {
       list = allData.filter(s => s.category === currentCat);
