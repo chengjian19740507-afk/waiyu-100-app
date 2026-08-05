@@ -4,11 +4,13 @@
 
 ## 版权声明 / Copyright
 
-© 2026 北极虎。保留所有权利。
+© 2026 北极虎 (chengjian19740507@gmail.com)。保留所有权利。
 
 本项目源码仅供个人学习参考，**未经作者书面授权，禁止任何形式的商业用途、转载、二次分发或衍生作品**。
 
 For commercial use, redistribution, or derivative works, written permission from the author (北极虎) is required.
+
+📄 **完整许可条款见 [`LICENSE`](./LICENSE) 文件**（北极虎自定义许可协议 v1.0，禁止商用 / 禁止 AI 训练 / 禁止二改分发）。
 
 ## 功能
 
