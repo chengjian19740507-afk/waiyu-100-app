@@ -1,5 +1,6 @@
 // 出境无忧180句 · 7 语种
 (async () => {
+  try {
   const langsEl = document.getElementById('langs');
   const catsEl = document.getElementById('cats');
   const cardsEl = document.getElementById('cards');
@@ -649,4 +650,8 @@
   document.addEventListener('keydown', e => {
     if (e.code === 'Escape' && !tipModal.hidden) tipModal.hidden = true;
   });
+  } catch(e) {
+    console.error("IIFE ERROR:", e);
+    document.body.insertAdjacentHTML("beforeend", "<pre style=\"position:fixed;top:0;left:0;background:red;color:white;padding:10px;z-index:9999\">IIFE ERROR: " + e.message + "</pre>");
+  }
 })();
