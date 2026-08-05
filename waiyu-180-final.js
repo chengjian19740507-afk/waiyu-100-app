@@ -9,6 +9,8 @@
   const subtitleEl = document.getElementById('app-subtitle');
   const searchEl = document.getElementById('search');
   const searchClearEl = document.getElementById('search-clear');
+  const searchMicEl = document.getElementById('search-mic');
+  const searchBoxEl = document.querySelector('.search-box');
   const tpl = document.getElementById('card-tpl');
 
   const RTL_LANGS = new Set(['ar']);
@@ -501,6 +503,7 @@
   searchEl.addEventListener('input', e => {
     currentSearch = e.target.value.trim().toLowerCase();
     searchClearEl.hidden = !currentSearch;
+    searchBoxEl.classList.toggle('has-clear', !!currentSearch);
     if (currentMode === 'vocab') {
       vocabVisibleCount = 200;
       renderVocab();
@@ -512,6 +515,7 @@
     searchEl.value = '';
     currentSearch = '';
     searchClearEl.hidden = true;
+    searchBoxEl.classList.remove('has-clear');
     if (currentMode === 'vocab') {
       renderVocab();
     } else {
@@ -519,6 +523,54 @@
     }
     searchEl.focus();
   });
+
+  // ============ 语音搜索（跟随当前语种）============
+  const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+  let recognition = null;
+  if (SpeechRec && searchMicEl) {
+    searchMicEl.hidden = false;
+    searchMicEl.addEventListener('click', () => {
+      if (recognition) {
+        // 正在听 → 停止
+        recognition.stop();
+        return;
+      }
+      recognition = new SpeechRec();
+      recognition.lang = LANGS[currentLang].lang;  // 跟随当前语种：en-US / ru-RU / ja-JP …
+      recognition.interimResults = false;  // 只取最终结果，简化 UX
+      recognition.maxAlternatives = 1;
+      recognition.continuous = false;
+      recognition.onresult = (e) => {
+        const transcript = e.results[0][0].transcript.trim();
+        searchEl.value = transcript;
+        searchEl.dispatchEvent(new Event('input'));
+      };
+      recognition.onerror = (e) => {
+        console.warn('语音搜索错误:', e.error);
+        if (e.error === 'not-allowed' || e.error === 'service-not-allowed') {
+          alert('麦克风权限被拒绝，请在浏览器设置中允许麦克风后重试。');
+        } else if (e.error === 'no-speech') {
+          // 静默：用户没说话不算错误
+        } else {
+          alert('语音识别失败：' + e.error);
+        }
+      };
+      recognition.onend = () => {
+        searchMicEl.classList.remove('recording');
+        recognition = null;
+      };
+      try {
+        recognition.start();
+        searchMicEl.classList.add('recording');
+      } catch (err) {
+        console.warn('recognition.start() 失败:', err);
+        recognition = null;
+      }
+    });
+  } else if (searchMicEl) {
+    // 浏览器不支持 → 永久隐藏
+    searchMicEl.hidden = true;
+  }
 
   langsEl.querySelectorAll('.lang-chip').forEach(b => {
     b.classList.toggle('active', b.dataset.lang === currentLang);

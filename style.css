@@ -693,6 +693,39 @@ html, body {
 }
 #search-clear:hover { background: var(--accent); }
 
+#search-mic {
+  position: absolute;
+  right: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  opacity: 0.65;
+  transition: opacity 0.15s, background 0.15s;
+}
+#search-mic:hover { opacity: 1; background: rgba(56, 189, 248, 0.15); }
+#search-mic.recording {
+  opacity: 1;
+  background: rgba(239, 68, 68, 0.2);
+  animation: mic-pulse 1.2s ease-in-out infinite;
+}
+@keyframes mic-pulse {
+  0%, 100% { transform: translateY(-50%) scale(1); }
+  50% { transform: translateY(-50%) scale(1.15); }
+}
+/* 有清除按钮时，麦克风左移避让 */
+.search-box.has-clear #search-mic { right: 52px; }
+
 /* ============ 多语种切换器 ============ */
 .langs {
   display: flex;
